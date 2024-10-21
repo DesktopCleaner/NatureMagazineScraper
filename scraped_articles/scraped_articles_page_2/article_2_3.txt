@@ -1,0 +1,684 @@
+*** Global emission reduction efforts continue to be insufficient to meet the temperature goal of the Paris Agreement1. This makes the systematic exploration of so-called overshoot pathways that temporarily exceed a targeted global warming limit before drawing temperatures back down to safer levels a priority for science and policy2,3,4,5. Here we show that global and regional climate change and associated risks after an overshoot are different from a world that avoids it. We find that achieving declining global temperatures can limit long-term climate risks compared with a mere stabilization of global warming, including for sea-level rise and cryosphere changes. However, the possibility that global warming could be reversed many decades into the future might be of limited relevance for adaptation planning today. Temperature reversal could be undercut by strong Earth-system feedbacks resulting in high near-term and continuous long-term warming6,7. To hedge and protect against high-risk outcomes, we identify the geophysical need for a preventive carbon dioxide removal capacity of several hundred gigatonnes. Yet, technical, economic and sustainability considerations may limit the realization of carbon dioxide removal deployment at such scales8,9. Therefore, we cannot be confident that temperature decline after overshoot is achievable within the timescales expected today. Only rapid near-term emission reductions are effective in reducing climate risks.
+
+*** The possibility of surpassing and subsequently returning below dangerous levels of global warming has been a topic of discussion for decades10with large-scale carbon dioxide removal (CDR) identified early on as playing an important part in this temperature reversal11,12. Since the adoption of the Paris Agreement in 2015 the issue has risen to further prominence.
+
+*** The temperature goal of the Paris Agreement allows for some ambiguity in its interpretation but establishes 1.5 °C of global warming as the long-term upper limit for global temperature increase13,14. This means that if 1.5 °C is temporarily exceeded (subsequently referred to as overshoot), a reversal of warming below it is part of meeting the long-term ambition of the Paris Agreement13. The Paris Agreement text does not indicate that temperature must stabilize but instead establishes upper limits below which temperatures must peak and may then decline. This understanding is further strengthened when considering other elements of the Paris Agreement. Achieving global net-zero greenhouse gas (GHG) emissions, as implied by Article 4.1 of the Agreement, is expected to lead to declining temperatures6,13.
+
+*** Global GHG emission pathways have a central role in informing the development of policy benchmarks in line with the Paris Agreement and are a core part of climate change assessments by the Intergovernmental Panel on Climate Change (IPCC)2,15. These assessments categorize pathways principally based on their peak temperature outcome2,15. Because a peak and gradual reversal of global warming turns out to be a fundamental feature of Paris-compatible pathways16, we propose to henceforth categorize pathways in terms of their peak and decline characteristics (Table1).
+
+*** Peak and decline pathways are differentiated by the stringency of emission reduction efforts in the near term and up to achieving net-zero CO2emissions, and the assumed net-negative CO2emissions in the long term16. The former determines the maximum cumulative CO2emissions of a pathway and thereby approximately the magnitude and time of peak warming for median climate outcomes6,16(Fig.1a). The latter determines the pace of potential temperature reversal16. Both aspects are further dependent on the temporal evolution of non-CO2emissions.
+
+*** a, Different classes of pathways with a peak and decline of global mean temperature (see also Table1). Stylized individual pathways (dashed lines) are highlighted to illustrate the specific impact, adaptation and CDR dimensions associated with the different categories.b, An overview of key factors affecting pathway and potential peak and decline outcomes along the impact chain for the warming phase until net-zero CO2and for the long term beyond net zero. PD, peak and decline pathways; PD-EP, enhanced protection pathways; PD-OS, overshoot pathways.
+
+*** Several categories of peak and decline pathways have been proposed in the scientific literature2,17(Extended Data Table1). A prominent example is the latest contribution of Working Group III (WGIII) to the Sixth Assessment Report (AR6) of the IPCC, which includes two pathway categories explicitly referring to the term overshoot (Extended Data Table1). Temperature overshoot pathways are a sub-category in the peak and decline categorization we present here, with the distinguishing characteristic of these pathways being that their intended maximum temperature limit (1.5 °C) is temporarily exceeded.
+
+*** Although defined in terms of probabilities of temporarily exceeding 1.5 °C, the IPCC AR6 pathway categories frame a possible overshoot concretely: limited overshoot (C1) refers to exceeding the specified limit by up to about 0.1 °C, whereas high overshoot (C2) refers to exceeding it by more than 0.1 °C and up to 0.3 °C (refs.2,15) (Extended Data Table1). This seems to suggest that temperature overshoots in these pathway categories are constrained to a few tenths of a degree with high certainty. But this is not the case. These overshoot numbers refer only to median outcomes and substantially higher warming cannot be ruled out as shown below. A strong focus on median outcomes might lead to overconfidence in the risks under overshoot pathways.
+
+*** In the following, we outline the dimensions of overconfidence in overshoot from emission pathways to adaptation implications (Fig.1b). We start by exploring the uncertainties in global temperature outcomes and their implications for the required net-negative CO2emissions to achieve the intended reversal of warming. Based on these insights, we then discuss the consequences for mitigation strategies considering the feasibility and sustainability constraints of deploying gigatonne-scale CDR. Yet, even if global temperatures were in decline, it is an open question if and how this translates into a reversal of climatic impact drivers6and subsequent impacts and risks. We provide insights for both long-term regional climate changes and irreversible risks such as sea-level rise. Finally, we discuss what considering or experiencing temperature overshoot implies for climate change adaptation. Based on this comprehensive perspective, we contend that it is essential to redirect the overshoot discussion towards prioritizing the reduction of climate risks in both the near term and long term and that overconfidence in the controllability and desirability of climate overshoot should be avoided.
+
+*** Peak warming depends on the cumulative CO2emissions until global net-zero CO2and the stringency of reductions in non-CO2GHGs. Achieving net-negative CO2emissions (NNCE) after peak warming can result in a long-term decline in warming6. Most estimates of NNCE consistent with a long-term reversal of warming in peak and decline pathways have focused on median warming outcomes15. However, to comprehensively assess overshoot risks and NNCE requirements for warming reversal, uncertainties in the climate response must also be considered. These include uncertainties during the warming phase (for example, high warming outcomes due to amplifying warming feedbacks)18and in the long-term state (potential for continued warming post-net-zero CO2and the response of the climate system to NNCE)7.
+
+*** We explore NNCE requirements for an illustrative pathway with the following characteristics (Fig.2a): (1) it achieves net-zero CO2around mid-century; (2) limits median peak warming close to 1.5 °C above pre-industrial levels; and (3) requires no NNCE to do so (for the median warming outcome). We use 2,237 ensemble members of the simple carbon cycle and climate model Finite Amplitude Impulse Response (FaIR) v.1.6.2 to estimate the range of physically plausible warming outcomes for this pathway, consistent with the uncertainty assessment of IPCC AR6 (Fig.2aandMethods). Two groups of plausible futures stand out. The first includes relatively low-risk futures in which warming peaks below 1.5 °C at the time of, or before, net-zero CO2is achieved (Fig.2b, bottom left); in these cases, no NNCEs are required. We also identify relatively high-risk futures in which warming exceeds 1.5 °C at the time of net-zero CO2and continues beyond (Fig.2b, top right).
+
+*** a, Net CO2emissions for the PROVIDE REN_NZCO2 pathway (black line) and the warming outcome uncertainty (derived using FaIR v.1.6.2;Methods). The median warming outcome is the red solid line, with each subsequent plume of varying transparency representing the 25th–75th percentile, 5th–95th percentile, and minimum to maximum ranges, respectively.b, Warming at the time of net-zero CO2(2060) compared with the change in temperature between net-zero CO2and 2100.c, Estimated NNCE to return warming for each peak warming outcome shown inbto 1.5 °C in 2100 (Methods). These estimates reflect NNCE implied by geophysical uncertainty of the warming outcome based on the REN_NZCO2 pathway (from top to bottom: NNCE to achieve 1.5 °C in 2100, NNCE to stabilize warming, NNCE for decline after stabilization). For comparison, the scenario uncertainty across the C1 and C2 categories from the IPCC AR6 WGIII report is shown (bottom rows). Note that this scenario uncertainty considers only median estimates of the geophysical response to emissions.
+
+*** For each respective FaIR run, we estimate the NNCE requirement to return warming to 1.5 °C in 2100 (Methods). We find that a need for large NNCE deployment cannot be ruled out because of the heavy-tailed climate response uncertainty distribution18(Fig.2c). The scale of this deployment (interquartile range: 0 to −400 Gt CO2cumulatively until 2100, or 0 to −10 Gt CO2yr−1after 2060) is of the same order of magnitude as the spread of deployed NNCE across the scenarios assessed in IPCC AR6 WGIII (Fig.2c). Although we find that NNCE requirements resulting from a higher-than-average peak warming due to a strong transient climate response dominate, cumulative NNCE until 2100 of up to 200 Gt CO2(or 5 Gt CO2yr−1, upper 95% percentile, Fig.2c) could be required to hedge against further warming past net zero19. Our results show that a narrow focus on scenario uncertainty and median warming alone is insufficient to assess potential CDR deployment requirements even for merely achieving a stable global mean temperature in the twenty-first century.
+
+*** CDR requirements here refer to additional carbon removal due to anthropogenic activity in line with the conventions and definitions of the models underlying our assessment. It is important to note that parties to the United Nations Framework Convention on Climate Change use a different definition for defining land-based carbon fluxes, which results in an approximately 4–7 Gt CO2yr−1difference between national GHG inventories and scientific models that needs to be considered when translating these insights into policy advice20.
+
+*** Our simple illustrative approach has several limitations that would benefit from further exploration, including with dedicated state-of-the-art Earth system models (ESMs)21. Particularly relevant questions arise around issues of asymmetry in the Earth system response to either positive or negative CO2emissions22,23(Methods). Owing to the lack of appropriate training data, the response of simple climate models to NNCE is not well constrained. Moreover, the ESMs used to calibrate simple climate models may miss nonlinear responses in the climate system, including abrupt destabilization of natural carbon sinks24(for example, permafrost CO2and CH4release, peat carbon loss from climate change and degradation or conversion of peatland, extreme fires and drought mortality of forests). We explore permafrost and peatland responses to overshoot below (Fig.4).
+
+*** Achieving NNCE requires the deployment of CDR that exceeds residual emissions in hard-to-abate sectors. Pathways assessed by the IPCC WGIII deploy CDR in different ways and to different extents3. Scale-up of CDR is most rapid in pathways with the lowest peak warming (low or no overshoot 1.5 °C pathways, C1, Extended Data Fig.3). Across the ensemble of emission pathways, CDR levels by the end of the century are generally higher in high overshoot (C2) pathways, but the full (5–95%) range is similar to the C1 pathway range. Pathways that keep warming below 2 °C but do not limit warming to 1.5 °C in 2100 (C3) see a substantial CDR ramp-up in the second half of the twenty-first century reaching levels comparable to C1 pathways by 2080 (Extended Data Fig.3). The total CDR amount deployed in pathways until 2100 depends predominantly on the effective reduction of residual positive CO2emissions and mitigation of non-CO2GHGs17.
+
+*** In the previous section, we showed how the extent of CDR required to achieve stable temperatures in the twenty-first century might be strongly underappreciated. Here we highlight that there are multiple areas in which current pathways might be overconfident in their assumed use of CDR (Extended Data Table2). Upscaling of CDR may be constrained considerably9by factors such as lack of policy support and business models, technological uncertainty and public opposition (for example, perceived risks of delaying mitigation25). Even if technical removal potentials prove to be large, sustainability and equity considerations would limit acceptable deployment scales8,9. Insufficient technological readiness may be an important bottleneck, as current removal rates from CDR methods other than afforestation and reforestation are minuscule (about 2 Mt CO2yr−1)26and would require a more than 1,000-fold increase by 2050 (ref.27). Beyond technological concerns, an array of unintended or uncertain permanence issues and system feedback (Extended Data Table2) might reduce or offset the contribution of CDR to mitigation26,28.
+
+*** Squaring these feasibility concerns with the potential need for gigatonne-scale CDR deployment to address climate uncertainty (Fig.2) is challenging. We argue that deployment pathways that address this challenge should be guided by the principle of harm prevention29under enhanced protection pathways (Table1). This approach requires two complementary actions: (1) reduce gross CO2emissions rapidly to reduce the total CDR requirements and (2) address feasibility concerns to facilitate the deployment of CDR beyond the achievement of net-zero CO2to hedge against potentially high warming outcomes.
+
+*** The proposition of overshoot pathways is that failure to keep warming below a desired temperature limit is acceptable provided global warming is returned below a certain level, that is, 1.5 °C, in the long run. Even if global temperatures are reversed, this is not a given for regional climatic changes. Therefore, understanding the implications of a global temperature overshoot for regional changes is important. Even if global warming is stabilized at a certain level without overshoot, the climate system continues to change as its components keep adjusting and equilibrate30, with implications for regional climate patterns. The question then becomes what additional imprints on regional climate may originate directly from the overshoot.
+
+*** Here we explore a unique set of dedicated modelling simulations comparing overshoot and long-term stabilization in two ESMs and find substantial differences in regional climate impact drivers on multi-century timescales (Fig.3and Extended Data Fig.5). We use the results of the NorESM2-LM model following an emission-driven protocol conceptualizing an overshoot of the carbon budget, as well as GFDL-ESM2M simulations following the Adaptive Emission Reduction Approach (AERA) to match a predefined global mean temperature trajectory (Methodsand Extended Data Fig.4). Despite these differences in the modelling protocols, we find some features within the overshoot versus stabilization regional patterns emerging in both modelling simulations, in particular in high northern latitudes as a result of a time-lagged response of the Atlantic Meridional Overturning Circulation (AMOC)4,31.
+
+*** Results for a carbon budget overshoot protocol with the NorESM model4(a,c,e) and a global temperature-focused protocol (GFDL-ESM2M)49(b,d,f).a,b, GMST trajectories for dedicated climate stabilization (solid) and overshoot (dashed) scenarios.c,d, Temporal evolution of scaling coefficients of annual regional temperatures with GMST for the global land and ocean areas as well as the North Atlantic Ocean (north of 45° N) and Western and Northern Europe (31-year averaged anomalies relative to 1850–1900).e,f, Regional differences in annual temperature between overshoot and stabilization scenarios over 100 years of long-term GMST stabilization (grey shaded area ina,b). Hatching ine,fhighlights grid cells in which the difference exceeds the 95th percentile (is below the 5th percentile) of comparable period differences in piControl simulations (Methods).
+
+*** In the NorESM2-LM model, we observe a reversal of regional temperature scaling with Global mean surface air temperature (GMST) change for the North Atlantic and adjacent European land regions under overshoot (Fig.3c), leading to a temporary regional cooling and subsequent regional recovery and warming32(Fig.3e). The pattern in which the North Atlantic cools regionally despite planetary warming is also present in the stabilization scenario but is less pronounced. In the GFDL-ESM2M model, the imprint of overshoot and stabilization on regional climate is less pronounced. But temperature changes associated with a time-lagged AMOC recovery about 100 years after peak warming and to higher levels than in the stabilization scenario are also evident (Fig.3d,f). We note that these simulations do not include increased Greenland meltwater influx that may suppress a potential AMOC recovery under overshoot33. Similarly pronounced features emerge for precipitation in both models, in particular, related to movements of the Inter-Tropical Convergence Zone in response to changes in the AMOC4(Extended Data Fig.5). Multi-model transient overshoot simulations further corroborate the finding that AMOC dynamics and related changes in regional climate are a dominant feature of overshoot pathways5,32(Methodsand Extended Data Figs.7and8). They also indicate a continuous warming of the Southern Ocean relative to the rest of the globe as a result of fast and slow response patterns, and changes in regional climate following reduced aerosol loadings (in particular in South and East Asia)18. Taken together, our results suggest that regional climate changes cannot be approximated well by GMST after peak warming.
+
+*** We find substantial long-term imprints of overshoot on regional climate (Fig.3c,d) that are distinct from transient changes in stabilization scenarios (Extended Data Fig.6). However, substantial differences in model dynamics (compare Fig.3e,f) remain. Dedicated multi-model intercomparison experiments are required to further investigate the long-term consequences of overshoot compared with stabilization21. We also note the importance of biophysical climate feedback of land-cover changes associated with large-scale land-based CDR deployment (Extended Data Table2) that could be explored in these experiments.
+
+*** For a range of climate impacts, there is no expectation of immediate reversibility after an overshoot. This includes changes in the deep ocean, marine biogeochemistry and species abundance34, land-based biomes, carbon stocks and crop yields35, but also biodiversity on land36. An overshoot will also increase the probability of triggering potential Earth system tipping elements33. Sea levels will continue to rise for centuries to millennia even if long-term temperatures decline37.
+
+*** Comprehensively assessing future climate risks under peak and decline pathways requires a focus not only on the (irreversible) consequences of a temporary overshoot but also on the benefits of long-term temperature reversal, compared with stabilization at higher levels. Here we explore the consequences of overshoot in an ensemble of peak and decline pathways (Methods) that achieve net-zero GHGs and thereby long-term temperature decline compared with stabilization at peak warming (by maintaining net-zero CO2).
+
+*** For global sea-level rise, we find that every 100 years of overshoot above 1.5 °C leads to an additional sea-level rise commitment of around 40 cm by 2300 (central estimate) apart from a baseline of about 80 cm without overshoot (Fig.4a). For high-risk outcomes, the 2300 sea-level rise commitment could be about three times (95th percentile) above the central estimate37(Extended Data Fig.10). Long-term temperature decline at about 0.03–0.04 °C per decade (broadly consistent with achieving net-zero GHGs) avoids about 40 cm of 2300 sea-level rise (median estimate, 95th percentile about 1.5 m) compared with stabilization at peak warming (Fig.4b).
+
+*** a, Feedback on 2300 global mean temperature increase by permafrost and peatland emissions (blue markers and left axis) and 2300 global median sea-level rise (SLR, purple markers and right axis, from ref.37) as a function of overshoot duration. Circles (squares) mark results for temperature change (sea-level rise) for individual scenarios from ref.37.b, Additional global mean temperature increase from warming-induced permafrost and peatland emissions and sea-level rise implied by stabilizing temperatures at peak warming (achieving and maintaining net-zero CO2emissions) compared with a long-term temperature decline resulting from achieving and maintaining net-zero GHGs. Dashed horizontal lines inbprovide the ensemble median and minimum and maximum range.
+
+*** A similar pattern emerges for 2300 permafrost thaw and northern peatland warming leading to increased soil carbon decomposition and CO2and CH4release (Fig.4and Extended Data Fig.9). The effect of permafrost and peatland emissions on 2300 temperatures increases by 0.02 °C per 100 years of overshoot (best estimate, upper 95% percentile 0.04 °C, Extended Data Fig.10), whereas achieving long-term declining temperatures would reduce the additional 2300 temperature increase by a similar order of magnitude. We warn that the diagnosed linear relationship between overshoot length and impact outcome may depend on the set of pathways that it was derived from. The underlying pathways assume overshoots starting from a period of delay in climate action followed by a steady reduction to net-zero GHG emissions implying a similar rate of long-term temperature decline in all pathways. The relationship could be different for more, or less extreme overshoot outcomes.
+
+*** The severity of climate risks for human systems under overshoot depends markedly on their adaptive capacity38, as well as the potential transgression of limits to adaptation39. An overshoot above 1.5 °C would likely emerge during the first half of the twenty-first century, a period still characterized by comparably low adaptive capacity in large parts of the globe even under optimistic scenarios of socioeconomic development38. The coincidence of overshoot and low adaptive capacity can amplify climate risks. This has profound consequences for the ability to achieve climate-resilient and equitable development outcomes under overshoot, in particular, for the most vulnerable countries, communities and peoples.
+
+*** Climate impacts on health, ecosystem services, livelihoods and education can leave lasting and intergenerational negative effects on the well-being of people40such as climate-related excess deaths linked to heat extremes during an overshoot period. Overshoots might also leave a long-term legacy in the economic performance of countries, particularly those least developed, because of the lasting impacts of climate change on economic growth41. Therefore, overshoot entails deeply ethical questions of how much additional climate-related loss and damage people, especially those in low-income countries, would need to endure.
+
+*** In contrast to the prominence of overshoot pathways in the mitigation literature, their implications for adaptation planning have not been widely explored42. This poses the question of whether the possibility of impact reversal in the long-term future is relevant for adaptation planning today, in comparison with the more imminent threat of near-term climate change and the magnitude of peak warming43.
+
+*** Even under the optimistic assumption of nearly full reversibility of a climate impact driver under overshoot, a planning horizon of 50 years or more might be required before prospects of a long-term decline would start to affect adaptation decisions today or in the immediate future (Fig.5a). Few adaptation plans and policies operate on these timescales: for example, the EU Adaptation Strategy spans three decades, whereas other national adaptation plans have similar or shorter time horizons44. Adaptation planning horizons and lifetimes of infrastructure can differ widely (Fig.5b). At the long end of the planning scale, a hydropower dam may operate for a century or more, yet the management of that dam (and whether management should include flood control as an objective) would occur in concession periods (decades) as well as annual and sub-annual budget cycles (Fig.5b).
+
+*** a, Stylized temporal evolution of a reversible climate impact driver under a peak and decline scenario. Dashed lines indicate a low and high overshoot outcome with median timescales of GMST reversibility typically in line with those from the IPCC AR6 database.b, A stylized illustration of adaptation-relevant timescales starting in 2030, including different planning horizons for adaptation planning and lifetimes of individual adaptation measures (horizontal bars, illustrative from years to decades50, actual time frames vary strongly by context), and the effect of applying discounting (reflecting societal preferences towards intergenerational equity) to future damages and adaptation benefits. We show the effect of discounting for three illustrative discount rates.
+
+*** The application of cost–benefit approaches in adaptation measures, and the time scale over which these are assessed, requires decisions on intergenerational equity reflected in the choice of the intertemporal discount rate45. Higher discount rates limit the time horizon relevant for economic adaptation decision-making to a few decades (Fig.5b), in which case adapting to peak warming might always be preferable to adapting to a lower long-term outcome.
+
+*** It therefore seems that long-term impact driver reversibility after overshoot may be of relevance only in specific cases of adaptation decision-making. A notable exception is adaptation against time-lagged irreversible impacts such as sea-level rise for which overshoots will affect the long-term outlook (Fig.4). However, as we have shown above, long-term global temperature decline cannot be relied on with certainty. Thus, a resilient adaptation strategy cannot be based on betting on overshoot, and only limiting peak warming can effectively reduce adaptation needs.
+
+*** Limits to adaptation, both soft and hard, constrain the option space available for adaptation39. This includes hard limits in which, for example, adaptation is reliant on ecosystem-based measures that are themselves negatively affected by climate change, as well as soft limits such as lack of resources or governance systems38. Transgressing hard adaptation limits, for example, by destroying sensitive ecosystems as a result of unbridled climate change, and high peak warming levels may render these measures unavailable under future warming reversal, reducing the available pool of adaptation measures compared with a no-overshoot case. The risk of transgressing adaptation limits, rather than uncertain prospects of long-term reversibility, seem to be most consequential for adaptation decision-making under overshoot.
+
+*** In this Article, we argue that it is misleading to frame overshoot as an alternative way to achieve a similar climate outcome. We show that several climate impacts in a pre- and post-overshoot world are different, indicating impact reversibility is not a given. Even in cases in which impacts are reversible, the timescales for reversibility may be longer than typical decision horizons for adaptation planning, with peak warming impacts (as opposed to expected longer-term impacts) providing the backdrop for global adaptation needs assessments. From a climate justice perspective, overshoot entails socioeconomic impacts and climate-related loss and damage that are typically irreversible and fall most severely on poor people. This ethical dimension should be explicitly considered when assessing overshoot pathways and the possibilities to limit overshoot risks by near-term emissions reductions.
+
+*** It has been argued that climate impacts during overshoots could be reduced or masked by the deployment of solar geoengineering (SG) intervention techniques46that would temporarily cool the planet. This idea is referred to as peak-shaving. These suggestions, however, make strong assumptions about the applicability, effectiveness and governance of SG interventions. Accounting for uncertainties in the physical climate response, and in the evolution of future emissions after SG is deployed, implies that an SG intervention aimed at peak-shaving an overshoot could result in a multi-century commitment of both SG and CDR deployment23. Apart from the fundamental concerns about SG deployment in general47, a peak-shaving discourse is prone to the same overconfidence in reversibility and effectiveness we have conceptualized in this Article.
+
+*** A central motivation to pursue a long-term temperature draw-down under peak and decline scenarios is to reduce climate impacts. We have shown that this temperature draw-down would be effective in reducing the time-lagged impact emergence over centuries, including sea-level rise and cryospheric changes. The consequences of multi-metre long-term sea level rise will affect coastal regions globally and drawing down global temperatures is important to minimize these long-term risks. Similarly, the probability of crossing irreversible thresholds may remain substantial in the long term unless global mean temperature is brought back down below 1 °C above pre-industrial levels33.
+
+*** Based on these insights, we argue for a reframing of the science and policy discourse on overshoot to focus on minimizing climate risks in peak and decline temperature pathways (Table1). We draw two overarching conclusions:
+
+*** First, emissions reductions need to be accelerated as quickly as possible to slow down temperature increase and reduce peak warming. Pursuing such an enhanced protection pathway (Table1) is the only robust strategy to, if not avoid then, at least minimize, far-reaching climate risks over the twenty-first century.
+
+*** Second, we suggest that there is a need to prepare for an environmentally sustainable CDR capacity to hedge against long-term high-risk outcomes resulting from stronger-than-expected climate feedbacks. We find that this preventive CDR capacity might need to be of the order of several hundred gigatonnes of cumulative NNCE, a scale that might be just about possible within sustainable limits of CDR deployment9leaving little room for CDR use for offsetting residual emissions beyond hard-to-abate sectors. This further underscores the importance of very stringent near-term emission reductions to limit long-term risks. Although we argue that the build-up of a preventive CDR capacity is required to hedge against high warming outcomes, this same CDR capacity could, in case high warming outcomes do not materialize, also be deployed to draw down long-term temperatures and thereby reduce climate risks.
+
+*** The need for a preventive capacity has implications for the design of stringent emission reduction pathways in light of constraints that limit overall CDR deployment. Pathways relying on large amounts of CDR to merely achieve net-zero CO2often exhaust or exceed sustainability limits15, leaving little to no room for course corrections in case of high warming outcomes. By contrast, pathways that do not plan for the future development of CDR may fail to build up the technological solutions required to establish a preventive CDR capacity, thereby exposing future generations and, in particular, the most vulnerable communities to risks that could at least be partly hedged against. Incorporating preventive CDR in pathway design requires further reflection, including regarding risks and policy design, but also about how to assign responsibilities and incentivize different actors for providing for this preventive CDR capacity48.
+
+*** As a consequence of ever-delayed emission reductions, there is a high chance of exceeding global warming of 1.5 °C, and even 2 °C, under emission pathways reflecting current policy ambitions1. Even if global temperatures are brought down below those levels in the long term, such an overshoot will come with irreversible consequences. Only stringent, immediate emission reductions can effectively limit climate risks.
+
+*** In our illustrative analysis, we assess the NNCE for the PROVIDE REN_NZCO2 scenario51. The REN_NZCO2 scenario follows the emission trajectory of the Illustrative Mitigation Pathway (IMP) REN from the AR6 of IPCC52,53,54until the year of net-zero CO2(2060 for this scenario). After the year of net-zero CO2, emissions (of both GHGs and aerosol precursors) are kept constant.
+
+*** For this analysis, we derive three metrics that capture different elements of the climate response during the warming phase and the long-term phase:
+
+*** The effective transient response to cumulative emissions (up), or eTCREup: this metric captures the expected warming for a given quantity of cumulative emissions until net-zero CO2.
+
+*** The effective transient response to cumulative emissions (down), or eTCREdown: this metric captures the expected warming or cooling for a given quantity of cumulative net-negative emissions after net-zero CO2. This is a purely diagnostic metric and also incorporates the effects of the effective Zero Emissions Commitment (eZEC).
+
+*** The eZEC: the continued temperature response after net-zero CO2emissions are achieved and sustained7. Here eZEC is evaluated over 40 years (between 2060 and 2100).
+
+*** To estimate eTCREup (equation (1)), we directly use the warming outcomes reported in the PROVIDE ensemble. The warming outcomes are evaluated using the simple climate and carbon cycle model FaIR v.1.6.2 (ref.55) in a probabilistic setup with 2,237 ensemble members consistent with the uncertainty assessment of IPCC AR656. Each ensemble member has a specific parameter configuration that allows for the assessment of ensemble member-specific properties such as the climate metrics introduced above across different emission scenarios. This probabilistic setup of FaIR is consistent with the assessed ranges of equilibrium climate sensitivity, historical global average surface temperature and other important metrics assessed by IPCC AR6 WGI (ref.18).
+
+*** wherenrefers to the ensemble member from FaIR,t′ is the time step,Et′is the net CO2emissions in time stept′ andTt′(n) refers to the warming in the time stept′ for a given ensemble member.
+
+*** We need to take a different approach for estimating the second metric (eTCREdown) because the PROVIDE REN_NZCO2 does not have NNCE by design. We adapt this scenario with different floor levels of NNCE ranging from 5 Gt CO2yr−1to 25 Gt CO2yr−1(Extended Data Fig.1) that are applied from 2061 to 2100. The scenario is unchanged before 2060. We then calculate the warming outcomes for each of these scenarios applying the same probabilistic FaIR setup and identify the scenario (in this case, REN_NZCO2 with 20 Gt CO2yr−1net removals) for which all ensemble members are cooling between 2060 and 2100 (Extended Data Fig.1). This is required to get an appropriate measure of the effect of NNCE emissions. From this adapted scenario, we evaluate the eTCREdown for each ensemble member using
+
+*** Each ensemble member demonstrates a different level of peak warming that depends on eTCREup(Fig.2c). We calculate the cumulative NNCE (per ensemble member) that is necessary to ensure post-peak cooling to 1.5 °C in 2100 using
+
+*** Estimating the effective Zero Emissions Commitment (eZEC) allows us to separate the stabilization and decline components of NNCE. We evaluate eZEC using the post-2060 warming outcome of the original PROVIDE REN_NZCO2 scenario as follows:
+
+*** We assess the component of NNCE(n) to compensate for a positive eZEC using
+
+*** We then assess the component of this NNCE(n) for cooling after stabilization using
+
+*** To evaluate the robustness of our NNCE estimates, we evaluate our FaIR model ensemble against the IPCC AR6 assessments for two key idealized model diagnostics—Equilibrium Climate Sensitivity (ECS) and the Zero Emissions Commitment (ZEC). ECS refers to the steady state change in the surface temperature following a doubling of the atmospheric CO2concentration from pre-industrial conditions57. ZEC is the global warming resulting after anthropogenic CO2emissions have reached zero and is determined by the balance between continued warming from past emissions and declining atmospheric CO2concentration that reduces radiative forcing after emissions cease7.
+
+*** The ECS is defined58as
+
+*** whereF2×is the effective radiative forcing from a doubling of CO2andλis the climate feedback parameter.F2×andλare parameters that are both used directly in FaIR, and therefore ECS can be calculated for each ensemble member.
+
+*** We diagnose the ZEC for each ensemble member by performing the bell-shaped ZEC experiments from the Zero Emissions Commitment Model Intercomparison Project (ZECMIP) modelling protocol (corresponding to the B1–B3 experiments in ref.7). These experiments are CO2-only runs, with a bell-shaped emissions profile with a cumulative emissions constraint (750, 1,000 and 2,000 PgC, respectively) applied over a 100-year time period from the beginning of the simulation period. All non-CO2forcers are fixed at pre-industrial levels. The ZEC50estimate per ensemble member is then calculated as the difference between the temperatures in years 150 and 100 of the simulation. This ZEC50estimate is purely used for diagnostic purposes and differs from our eZEC estimate, with the latter dependent on the specific characteristics of the emission pathway we apply. However, as the bell experiments approach zero emissions gradually from above and are similar to the actual mitigation scenario emissions profiles, they are good analogues for eZEC.
+
+*** As expected, following the extended calibration of FaIR against AR6, we find very good agreement between the distribution of ECS and ZEC across members of the FaIR ensemble and the AR6 assessment (compare Extended Data Fig.2a,b). We also report agreement of the modelled historical warming across the ensemble compared with the observational record (Extended Data Fig.1d). Based on this evaluation, we cannot rule out high ECS/ZEC ensemble members that drive the tail of our NNCE distribution (Extended Data Fig.2c). Yet, we find high NNCE outcomes also materialize for moderate-high ECS and ZEC outcomes.
+
+*** To investigate the role of stabilization and overshoot for regional reversibility, we use simulations of two different ESMs that (1) stabilize GSAT at approximately 1.5 °C of global warming with respect to pre-industrial times and (2) overshoot this level by around 1.5 °C (Extended Data Fig.4). GFDL-ESM2M59,60simulations were performed using the AERA61, which adapts CO2forcing equivalent (CO2-fe) emissions successively every 5 years to reach stabilization (1.5 °C) and temporary overshoot (peak warming of 3.0 °C) levels, before returning and stabilizing at 1.5 °C of global warming in the latter case. In this setup, the remaining CO2-fe emissions budget is determined every 5 years based on the relationship of past global anthropogenic warming and CO2-fe emissions simulated by the model. The remaining anthropogenic CO2emissions or removals are then computed assuming non-CO2and land use change emissions following the RCP 2.6. Future CO2emissions are then redistributed following a cubic polynomial function, constrained to smoothly reach any given temperature level. Details for the stabilization case are given in the AERA model intercomparison simulation protocol62and analysis49.
+
+*** Simulations using NorESM2-LM63were performed following idealized emission trajectories, including phases of positive and negative CO2emissions4. These simulations are emission-driven, meaning atmospheric CO2concentrations change in reaction to both CO2emissions and exchanges between the atmosphere and ocean or land. The only applied forcing is CO2emissions into the atmosphere, whereas land use and non-CO2GHG forcings remain at pre-industrial levels. The idealized cumulative emission trajectories adhere to the ZECMIP protocol64. These emissions are represented as bell-shaped curves, with 50 years of increasing emissions followed by 50 years of decreasing emissions. Negative cumulative emission trajectories follow a similar pattern but with a negative sign. The reference stabilization simulation has cumulative carbon emissions of 1,500 Pg during the first 100 years followed by zero emissions for 300 years. The reference simulation reaches global warming levels of approximately 1.7 °C in the long term. NorESM2-LM has a low transient climate response to cumulative emissions (TCRE) of 1.32 K (Eg C)−1. For the overshoot simulation, the emission trajectory involves cumulative carbon emissions of 2,500 Pg over the first 100 years, following the same emissions profile as the reference scenario but with higher emissions rates. It is followed by the application of CDR (in this case assumed as direct air capture) removing 1,000 Pg of cumulative carbon over the period of another 100 years. After negative emissions cease, it follows an extended phase of 200 years of zero emissions, such that the amount of cumulative carbon emissions is identical to the reference simulation for that period.
+
+*** In both experimental protocols, non-CO2forcings, including aerosols, are the same for the stabilization and overshoot scenarios. We thus find the experiments well suited to explore the long-term imprint of overshoots on regional climate compared with long-term climate stabilization 200 years after peak warming.
+
+*** We note that none of the two protocols includes land cover changes beyond the reference pathway. This points to an implicit assumption that the additional CDR in these simulations is achieved using technical options with little to no land footprint such as Direct Air Capture with CCS (Extended Data Table2). If the amount of CDR was to be achieved using land-based CDR methods, however, we would expect pronounced biophysical climate effects from the land cover changes alone65. The regional climate differences resulting from different CDR strategies should be explored in future modelling efforts.
+
+*** We compute spatially weighted regional averages for land or ocean regions following IPCC AR6 regions. WNEU corresponds to land grid cells in western central Europe (WCE) and northern Europe (NEU). NAO45 corresponds to ocean grid cells in the North Atlantic region above 45° N (see encircled area in Fig.3e,f). AMZ and WAF are land regions.
+
+*** In Fig.3(Extended Data Fig.5), we show surface air temperature (tas) anomalies (absolute precipitation anomalies, respectively) divided by 31-year smoothed GMST anomalies for different regions. Anomalies are calculated with respect to 1850–1900.
+
+*** When comparing period averages between two scenarios (Fig.3) or at different times in the same scenario (Extended Data Figs.6–8), we compare the magnitude of the difference with random period differences of the same length in piControl simulations. If the difference exceeds the 95th percentile (or is below the 5th percentile) of differences found in piControl simulations, we consider the difference as statistically significant outside of internal climate variability. Whennruns are available for the comparison of period averages, we select sets of2nrandom periods and compute the difference between the first half and the second half of these random sets to mimic ensemble differences.
+
+*** We analyse climate projections for the SSP5-34-OS and the SSP1-19 scenarios by 12 ESMs of the Coupled Model Intercomparison Project Phase 6 (ref.66): CESM2-WACCM, CanESM5, EC-Earth3, FGOALS-g3, GFDL-ESM4, GISS-E2-1-G, IPSL-CM6A-LR, MIROC-ES2L, MIROC6, MPI-ESM1-2-LR, MRI-ESM2-0 and UKESM1-0-LL.
+
+*** We smooth the GMST time series by applying a 31-year running average. In each simulation run, we identify peak warming as the year in which this smoothed GMST reaches its maximum. Next, we select the years before and after peak warming in which the smoothed GMST is closest to −0.1 K and −0.2 K below peak warming. There is a substantial, model-dependent asymmetry in the average time between the rate of change in GMST before and after peak warming (see ref.5for an overview). In each run, we average yearly temperatures and precipitation for the 31 years around the above-described years of interest. Finally, for each ESM, these 31-year periods are averaged over all available runs of the ESM and an ensemble median for the 12 ESMs is computed for the displayed differences.
+
+*** We project sea-level rise, permafrost and peatland carbon emissions with two sets of scenario ensembles as documented in ref.37. Both sets of scenarios stabilize temperature rise below 2 °C, with one set of scenarios achieving and maintaining the net-zero GHG emission objective of the Paris Agreement and the other set achieving net-zero CO2emissions only. Sea-level rise projections are taken from ref.37, based on a combination of a reduced-complexity model of global mean temperature with a component-based simple sea-level model to evaluate the implications of different emission pathways on sea-level rise until 2300. We project carbon dynamics for permafrost and northern peatlands for the aforementioned scenario set using the permafrost module of the compact ESM OSCAR67and a peatland emulator calibrated on previously published peatland intercomparison project68. The forcing data used to drive the permafrost and peatland modules are GMST change and the atmospheric CO2concentration change relative to pre-industrial levels. First, we simulated the CO2fluxes and CH4fluxes from both permafrost and northern peatlands (see Extended Data Fig.9for the responses of individual components). Next, we computed the net climate effects of these two systems using the GWP* following the method described in ref.68. We use the following equation to derive the CO2-warming-equivalent emissions (\({E}_{{{\rm{CO}}}_{2} \mbox{-} {\mathrm{we}}^{* }}\)) of the CH4emissions, taking into account the delayed response of temperature to past changes in the CH4emission rate:
+
+*** where\({\Delta E}_{{{\rm{CH}}}_{4}}\)is the change in the emission rate of\({E}_{{{\rm{CH}}}_{4}}\)over the Δtpreceding years;His the CH4emission rate for the year under consideration;randsare the weights given to the impact of changing the CH4emission rate and the impact of the CH4stock. Following ref.68, we use Δt= 20. Because of the dependency on the historical trajectory of the emission and carbon cycle feedback, the values ofrandsare scenario-dependent. Here we user= 0.68 ands= 0.32 (the values used in ref.68for RCP2.6), withH= 100 years, GWP100of 29.8 for permafrost and GWP100of 27.0 for peatland18.
+
+*** We then estimate the global temperature change (ΔT) due to permafrost and peatland CO2and CH4emissions as the product of the cumulative anthropogenic CO2-we emissions from permafrost and northern peatlands and the TCRE:
+
+*** where\({E}_{{{\rm{CO}}}_{2},2300}\)and\({E}_{{{\rm{CO}}}_{2},{\rm{pre}}}\)are CO2emission rates from permafrost and northern peatlands in 2300 and in the pre-industrial era, respectively;\({E}_{{{\rm{CO}}}_{2} \mbox{-} {\rm{we* }},2300}\)and\({E}_{{{\rm{CO}}}_{2} \mbox{-} {\rm{we* }},{\rm{pre}}}\)are CO2-we* due to permafrost and northern peatland CH4emissions in 2300 and in the pre-industrial era, respectively. For TCRE, we take the median value of 0.45 °C per 1,000 Gt CO2(ref.18).
+
+*** The PROVIDE v.1.2 scenario data used for Fig.2is available at Zenodo69(https://doi.org/10.5281/zenodo.6963586). The data underlying the GFDL-ESM2M and NorESM2-LM simulations included in Fig.3and Extended Data Figs.5and6are available at Zenodo70(https://doi.org/10.5281/zenodo.11091132andhttps://doi.org/10.11582/2022.00012). Data required to reproduce Extended Data Figs.7and8can be found athttps://esgf-data.dkrz.de/search/cmip6-dkrz/. Data required to reproduce Fig.4and Extended Data Figs.3,4,9and10are included in the code repository.
+
+*** The analysis was performed with Python and spatial projections rely on the cartopy package. The scripts to replicate Figs.2–5are available at Zenodo71(https://doi.org/10.5281/zenodo.13208166).
+
+*** Rogelj, J. et al. Credibility gap in net-zero climate targets leaves world at high risk.Science380, 1014–1016 (2023).
+
+*** ArticleCASPubMedGoogle Scholar
+
+*** IPCC. Summary for policymakers. InClimate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change(eds Shukla, P. R. et al.) 1–48 (Cambridge Univ. Press, 2022).
+
+*** Prütz, R., Strefler, J., Rogelj, J. & Fuss, S. Understanding the carbon dioxide removal range in 1.5 °C compatible and high overshoot pathways.Environ. Res. Commun.5, 041005 (2023).
+
+*** ArticleGoogle Scholar
+
+*** Schwinger, J., Asaadi, A., Steinert, N. J. & Lee, H. Emit now, mitigate later? Earth system reversibility under overshoots of different magnitudes and durations.Earth Syst. Dyn.13, 1641–1665 (2022).
+
+*** ArticleADSGoogle Scholar
+
+*** Pfleiderer, P., Schleussner, C.-F. & Sillmann, J. Limited reversal of regional climate signals in overshoot scenarios.Environ. Res. Clim.3, 015005 (2024).
+
+*** ArticleADSGoogle Scholar
+
+*** IPCC. Summary for Policymakers. InClimate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change(eds Masson-Delmotte, V. et al.) 3−32 (Cambridge Univ. Press, 2021).
+
+*** MacDougall, A. H. et al. Is there warming in the pipeline? A multi-model analysis of the zero emissions commitment from CO2.Biogeosciences17, 2987–3016 (2020).
+
+*** ArticleADSGoogle Scholar
+
+*** Smith, S. et al.The State of Carbon Dioxide Removal1st edn (MCC, 2023).
+
+*** Deprez, A. et al. Sustainability limits needed for CO2removal.Science383, 484–486 (2024).
+
+*** ArticleADSCASPubMedGoogle Scholar
+
+*** Schneider, S. H. & Mastrandrea, M. D. Probabilistic assessment of “dangerous” climate change and emissions pathways.Proc. Natl Acad. Sci. USA102, 15728–15735 (2005).
+
+*** ArticleADSCASPubMedPubMed CentralGoogle Scholar
+
+*** Wigley, T. M. L., Richels, R. & Edmonds, J. A. Economic and environmental choices in the stabilization of atmospheric CO2concentrations.Nature379, 240–243 (1996).
+
+*** ArticleADSCASGoogle Scholar
+
+*** Azar, C., Johansson, D. J. A. & Mattsson, N. Meeting global temperature targets—the role of bioenergy with carbon capture and storage.Environ. Res. Lett.8, 034004 (2013).
+
+*** ArticleADSCASGoogle Scholar
+
+*** Schleussner, C.-F. et al. Science and policy characteristics of the Paris Agreement temperature goal.Nat. Clim. Change6, 827–835 (2016).
+
+*** ArticleADSGoogle Scholar
+
+*** Rajamani, L. & Werksman, J. The legal character and operational relevance of the Paris Agreement’s temperature goal.Philos. Trans. R. Soc. Math. Phys. Eng. Sci.376, 20160458 (2018).
+
+*** ADSGoogle Scholar
+
+*** Riahi, K. et al. Mitigation pathways compatible with long-term goals. InIPCC, 2022: Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change(eds. Shukla, P. R. et al.) 295–408 (Cambridge Univ. Press, 2022).
+
+*** Rogelj, J. et al. A new scenario logic for the Paris Agreement long-term temperature goal.Nature573, 357–363 (2019).
+
+*** ArticleADSCASPubMedGoogle Scholar
+
+*** Schleussner, C.-F., Ganti, G., Rogelj, J. & Gidden, M. J. An emission pathway classification reflecting the Paris Agreement climate objectives.Commun. Earth Environ.3, 135 (2022).
+
+*** ArticleADSGoogle Scholar
+
+*** Forster, P. et al. The Earth’s energy budget, climate feedbacks, and climate sensitivity. InClimate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change923–1054 (Cambridge Univ. Press, 2023).
+
+*** Palazzo Corner, S. et al. The Zero Emissions Commitment and climate stabilization.Front. Sci.1, 1170744 (2023).
+
+*** ArticleGoogle Scholar
+
+*** Grassi, G. et al. Harmonising the land-use flux estimates of global models and national inventories for 2000–2020.Earth Syst. Sci. Data15, 1093–1114 (2023).
+
+*** ArticleADSGoogle Scholar
+
+*** Meinshausen, M. et al. A perspective on the next generation of Earth system model scenarios: towards representative emission pathways (REPs).Geosci. Model Dev.17, 4533–4559 (2024).
+
+*** ArticleADSGoogle Scholar
+
+*** Zickfeld, K., Azevedo, D., Mathesius, S. & Matthews, H. D. Asymmetry in the climate–carbon cycle response to positive and negative CO2 emissions.Nat. Clim. Change11, 613–617 (2021).
+
+*** ArticleADSCASGoogle Scholar
+
+*** Baur, S., Nauels, A., Nicholls, Z., Sanderson, B. M. & Schleussner, C.-F. The deployment length of solar radiation modification: an interplay of mitigation, net-negative emissions and climate uncertainty.Earth Syst. Dyn.14, 367–381 (2023).
+
+*** ArticleADSGoogle Scholar
+
+*** Canadell, J. G. et al. Global carbon and other biogeochemical cycles and feedbacks. InClimate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change673–816 (Cambridge Univ. Press, 2021).
+
+*** McLaren, D., Willis, R., Szerszynski, B., Tyfield, D. & Markusson, N. Attractions of delay: using deliberative engagement to investigate the political and strategic impacts of greenhouse gas removal technologies.Environ. Plan. E Nat. Space6, 578–599 (2023).
+
+*** ArticleGoogle Scholar
+
+*** Powis, C. M., Smith, S. M., Minx, J. C. & Gasser, T. Quantifying global carbon dioxide removal deployment.Environ. Res. Lett.18, 024022 (2023).
+
+*** ArticleADSGoogle Scholar
+
+*** Lamb, W. F. et al. The carbon dioxide removal gap.Nat. Clim. Change14, 644–651 (2024).
+
+*** ArticleADSCASGoogle Scholar
+
+*** Prütz, R., Fuss, S., Lück, S., Stephan, L. & Rogelj, J. A taxonomy to map evidence on the co-benefits, challenges, and limits of carbon dioxide removal.Commun. Earth Environ.5, 197 (2024).
+
+*** ArticleADSGoogle Scholar
+
+*** Stuart-Smith, R. F., Rajamani, L., Rogelj, J. & Wetzer, T. Legal limits to the use of CO2removal.Science382, 772–774 (2023).
+
+*** ArticleADSCASPubMedGoogle Scholar
+
+*** King, A. D. et al. Preparing for a post-net-zero world.Nat. Clim. Change12, 775–777 (2022).
+
+*** ArticleADSGoogle Scholar
+
+*** Bellomo, K., Angeloni, M., Corti, S. & von Hardenberg, J. Future climate change shaped by inter-model differences in Atlantic meridional overturning circulation response.Nat. Commun.12, 3659 (2021).
+
+*** ArticleADSCASPubMedPubMed CentralGoogle Scholar
+
+*** Schwinger, J., Asaadi, A., Goris, N. & Lee, H. Possibility for strong northern hemisphere high-latitude cooling under negative emissions.Nat. Commun.13, 1095 (2022).
+
+*** ArticleADSCASPubMedPubMed CentralGoogle Scholar
+
+*** Möller, T. et al. Achieving net zero greenhouse gas emissions critical to limit climate tipping risks.Nat. Commun.15, 6192 (2024).
+
+*** ArticlePubMedPubMed CentralGoogle Scholar
+
+*** Santana-Falcón, Y. et al. Irreversible loss in marine ecosystem habitability after a temperature overshoot.Commun. Earth Environ.4, 343 (2023).
+
+*** ArticleADSGoogle Scholar
+
+*** Schleussner, C.-F. et al. Crop productivity changes in 1.5 °C and 2 °C worlds under climate sensitivity uncertainty.Environ. Res. Lett.13, 064007 (2018).
+
+*** ArticleADSGoogle Scholar
+
+*** Meyer, A. L. S., Bentley, J., Odoulami, R. C., Pigot, A. L. & Trisos, C. H. Risks to biodiversity from temperature overshoot pathways.Philos. Trans. R. Soc. B Biol. Sci.377, 20210394 (2022).
+
+*** ArticleCASGoogle Scholar
+
+*** Mengel, M., Nauels, A., Rogelj, J. & Schleussner, C.-F. Committed sea-level rise under the Paris Agreement and the legacy of delayed mitigation action.Nat. Commun.9, 601 (2018).
+
+*** ArticleADSPubMedPubMed CentralGoogle Scholar
+
+*** Andrijevic, M. et al. Towards scenario representation of adaptive capacity for global climate change assessments.Nat. Clim. Change13, 778–787 (2023).
+
+*** ArticleADSGoogle Scholar
+
+*** Thomas, A. et al. Global evidence of constraints and limits to human adaptation.Reg. Environ. Change21, 85 (2021).
+
+*** ArticleGoogle Scholar
+
+*** Birkmann, J. et al. Poverty, Livelihoods and Sustainable Development. InClimate Change 2022: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change1171–1274 (IPCC, 2022).
+
+*** Burke, M., Hsiang, S. M. & Miguel, E. Global non-linear effect of temperature on economic production.Nature527, 235–239 (2015).
+
+*** ArticleADSCASPubMedGoogle Scholar
+
+*** Parry, M., Lowe, J. & Hanson, C. Overshoot, adapt and recover.Nature458, 1102–1103 (2009).
+
+*** ArticleADSCASPubMedGoogle Scholar
+
+*** Williams, J. W., Ordonez, A. & Svenning, J.-C. A unifying framework for studying and managing climate-driven rates of ecological change.Nat. Ecol. Evol.5, 17–26 (2021).
+
+*** ArticlePubMedGoogle Scholar
+
+*** UNFCC.National Adaptation Plans 2021. Progress in the Formulation and Implementation of NAPs(UNFCC, 2022).
+
+*** Caney, S. Climate change, intergenerational equity and the social discount rate.Polit. Philos. Econ.13, 320–342 (2014).
+
+*** ArticleGoogle Scholar
+
+*** MacMartin, D. G., Ricke, K. L. & Keith, D. W. Solar geoengineering as part of an overall strategy for meeting the 1.5 °C Paris target.Philos. Trans. R. Soc. Math. Phys. Eng. Sci.376, 20160454 (2018).
+
+*** ADSGoogle Scholar
+
+*** Biermann, F. et al. Solar geoengineering: the case for an international non-use agreement.WIREs Clim. Change13, e754 (2022).
+
+*** ArticleGoogle Scholar
+
+*** Fyson, C. L., Baur, S., Gidden, M. & Schleussner, C. Fair-share carbon dioxide removal increases major emitter responsibility.Nat. Clim. Change10, 836–841 (2020).
+
+*** ArticleADSCASGoogle Scholar
+
+*** Silvy, Y. et al. AERA-MIP: emission pathways, remaining budgets and carbon cycle dynamics compatible with 1.5 ºC and 2 ºC global warming stabilization. Preprint athttps://doi.org/10.5194/egusphere-2024-488(2024).
+
+*** Hallegatte, S. Strategies to adapt to an uncertain climate change.Glob. Environ. Change19, 240–247 (2009).
+
+*** ArticleGoogle Scholar
+
+*** Lamboll, R., Rogelj, J. & Schleussner, C.-F. A guide to scenarios for the PROVIDE project.ESS Open Archivehttps://doi.org/10.1002/essoar.10511875.2(2022).
+
+*** Luderer, G. et al. Impact of declining renewable energy costs on electrification in low-emission scenarios.Nat. Energy7, 32–42 (2022).
+
+*** ArticleADSGoogle Scholar
+
+*** Riahi, K. et al. Mitigation pathways compatible with long-term goals. inIPCC, 2022: Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change(eds Shukla, P. R. et al.) (Cambridge Univ. Press, 2022).
+
+*** Byers, E. et al. AR6 scenarios database.Zenodohttps://doi.org/10.5281/zenodo.5886912(2022).
+
+*** Smith, C. J. et al. FAIR v1.3: a simple emissions-based impulse response and carbon cycle model.Geosci. Model Dev.11, 2273–2297 (2018).
+
+*** ArticleADSCASGoogle Scholar
+
+*** Nicholls, Z. et al. Cross-Chapter Box 7.1: Physical emulation of Earth System Models for scenario classification and knowledge integration in AR6. InClimate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change(eds Masson-Delmotte, V. et al.) (Cambridge Univ. Press, 2021).
+
+*** IPCC. Annex VII: Glossary. InClimate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change(eds Matthews, J. B. R. et al.) 2215–2256 (Cambridge Univ. Press, 2021).
+
+*** Sherwood, S. et al. An assessment of Earth’s climate sensitivity using multiple lines of evidence.Rev. Geophys.58, e2019RG000678 (2020).
+
+*** ArticleADSCASPubMedPubMed CentralGoogle Scholar
+
+*** Dunne, J. P. et al. GFDL’s ESM2 Global Coupled Climate–Carbon Earth System Models. Part II: carbon system formulation and baseline simulation characteristics.J. Clim.26, 2247–2267 (2013).
+
+*** ArticleADSGoogle Scholar
+
+*** Burger, F. A., John, J. G. & Frölicher, T. L. Increase in ocean acidity variability and extremes under increasing atmospheric CO2.Biogeosciences17, 4633–4662 (2020).
+
+*** ArticleADSCASGoogle Scholar
+
+*** Terhaar, J., Frölicher, T. L., Aschwanden, M. T., Friedlingstein, P. & Joos, F. Adaptive emission reduction approach to reach any global warming target.Nat. Clim. Change12, 1136–1142 (2022).
+
+*** ArticleADSGoogle Scholar
+
+*** Frölicher, T. L., Jens, T., Fortunat, J. & Yona, S. Protocol for Adaptive Emission Reduction Approach (AERA) simulations.Zenodohttps://doi.org/10.5281/zenodo.7473133(2022).
+
+*** Seland, Ø. et al. Overview of the Norwegian Earth System Model (NorESM2) and key climate response of CMIP6 DECK, historical, and scenario simulations.Geosci. Model Dev.13, 6165–6200 (2020).
+
+*** ArticleADSCASGoogle Scholar
+
+*** Jones, C. D. et al. The Zero Emissions Commitment Model Intercomparison Project (ZECMIP) contribution to C4MIP: quantifying committed climate changes following zero carbon emissions.Geosci. Model Dev.12, 4375–4385 (2019).
+
+*** ArticleADSGoogle Scholar
+
+*** De Hertog, S. J. et al. The biogeophysical effects of idealized land cover and land management changes in Earth system models.Earth Syst. Dyn.14, 629–667 (2023).
+
+*** ArticleADSGoogle Scholar
+
+*** O’Neill, B. C. et al. The Scenario Model Intercomparison Project (ScenarioMIP) for CMIP6.Geosci. Model Dev. Discuss.9, 3461–3482 (2016).
+
+*** ArticleADSGoogle Scholar
+
+*** Quilcaille, Y., Gasser, T., Ciais, P. & Boucher, O. CMIP6 simulations with the compact Earth system model OSCAR v3.1.Geosci. Model Dev.16, 1129–1161 (2023).
+
+*** ArticleADSCASGoogle Scholar
+
+*** Qiu, C. et al. A strong mitigation scenario maintains climate neutrality of northern peatlands.One Earth5, 86–97 (2022).
+
+*** ArticleADSGoogle Scholar
+
+*** Lamboll, R., Rogelj, J. & Schleussner, C.-F. Scenario emissions and temperature data for PROVIDE project (v.1.1.1).Zenodohttps://doi.org/10.5281/zenodo.6963586(2022).
+
+*** Lacroix, F., Burger, F., Silvy, Y., Schleussner, C.-F., & Frölicher, T. L. GFDL-ESM2M overshoot data.Zenodohttps://doi.org/10.5281/zenodo.11091132(2024).
+
+*** Schleussner, C.-F. et al. Accompanying scripts for Schleussner et al. Overconfidence in Climate Overshoot.Zenodohttps://doi.org/10.5281/zenodo.13208166(2024).
+
+*** Lane, J., Greig, C. & Garnett, A. Uncertain storage prospects create a conundrum for carbon capture and storage ambitions.Nat. Clim. Change11, 925–936 (2021).
+
+*** ArticleADSGoogle Scholar
+
+*** Fuss, S. et al. Negative emissions—part 2: costs, potentials and side effects.Environ. Res. Lett.13, 063002 (2018).
+
+*** ArticleADSGoogle Scholar
+
+*** Anderegg, W. R. L. et al. Climate-driven risks to the climate mitigation potential of forests.Science368, eaaz7005 (2020).
+
+*** ArticleCASPubMedGoogle Scholar
+
+*** Heikkinen, J., Keskinen, R., Kostensalo, J. & Nuutinen, V. Climate change induces carbon loss of arable mineral soils in boreal conditions.Glob. Change Biol.28, 3960–3973 (2022).
+
+*** ArticleCASGoogle Scholar
+
+*** Chiquier, S., Patrizio, P., Bui, M., Sunny, N. & Dowell, N. M. A comparative analysis of the efficiency, timing, and permanence of CO2 removal pathways.Energy Environ. Sci.15, 4389–4403 (2022).
+
+*** ArticleCASGoogle Scholar
+
+*** Mengis, N., Paul, A. & Fernández-Méndez, M. Counting (on) blue carbon—Challenges and ways forward for carbon accounting of ecosystem-based carbon removal in marine environments.PLoS Clim.2, e0000148 (2023).
+
+*** ArticleGoogle Scholar
+
+*** Jones, C. D. et al. Simulating the Earth system response to negative emissions.Environ. Res. Lett.11, 095012 (2016).
+
+*** ArticleADSGoogle Scholar
+
+*** Realmonte, G. et al. An inter-model assessment of the role of direct air capture in deep mitigation pathways.Nat. Commun.10, 3277 (2019).
+
+*** ArticleADSCASPubMedPubMed CentralGoogle Scholar
+
+*** Krause, A. et al. Large uncertainty in carbon uptake potential of land-based climate-change mitigation efforts.Glob. Change Biol.24, 3025–3038 (2018).
+
+*** ArticleADSGoogle Scholar
+
+*** Minx, J. C. et al. Negative emissions—Part 1: research landscape and synthesis.Environ. Res. Lett.13, 063001–063001 (2018).
+
+*** ArticleADSGoogle Scholar
+
+*** Grant, N., Hawkes, A., Mittal, S. & Gambhir, A. Confronting mitigation deterrence in low-carbon scenarios.Environ. Res. Lett.16, 64099–64099 (2021).
+
+*** ArticleCASGoogle Scholar
+
+*** Carton, W., Hougaard, I.-M., Markusson, N. & Lund, J. F. Is carbon removal delaying emission reductions?Wiley Interdiscip. Rev. Clim. Change14, e826 (2023).
+
+*** ArticleGoogle Scholar
+
+*** Donnison, C. et al. Bioenergy with Carbon Capture and Storage (BECCS): finding the win–wins for energy, negative emissions and ecosystem services—size matters.Glob. Change Biol. Bioenergy12, 586–604 (2020).
+
+*** ArticleCASGoogle Scholar
+
+*** Heck, V., Hoff, H., Wirsenius, S., Meyer, C. & Kreft, H. Land use options for staying within the Planetary Boundaries – Synergies and trade-offs between global and local sustainability goals.Glob. Environ. Change49, 73–84 (2018).
+
+*** ArticleGoogle Scholar
+
+*** Doelman, J. C. et al. Afforestation for climate change mitigation: potentials, risks and trade-offs.Glob. Change Biol.26, 1576–1591 (2020).
+
+*** ArticleADSGoogle Scholar
+
+*** Lee, K., Fyson, C. & Schleussner, C. F. Fair distributions of carbon dioxide removal obligations and implications for effective national net-zero targets.Environ. Res. Lett.16, 094001 (2021).
+
+*** ArticleADSCASGoogle Scholar
+
+*** Ganti, G. et al. Uncompensated claims to fair emission space risk putting Paris Agreement goals out of reach.Environ. Res. Lett.18, 024040 (2023).
+
+*** ArticleADSGoogle Scholar
+
+*** Yuwono, B. et al. Doing burden-sharing right to deliver natural climate solutions for carbon dioxide removal.Nat. Based Solut.3, 100048 (2023).
+
+*** ArticleGoogle Scholar
+
+*** Download references
+
+*** We acknowledge support from the Horizon 2020 research and innovation programmes of the European Union under grant agreement no. 101003687 (PROVIDE). G.G. acknowledges support from the Bundesministerium für Bildung und Forschung (BMBF) under grant agreement no. 01LS2108D (CDR PoEt). T.G. also acknowledges support from the Horizon 2020 and Horizon Europe research and innovation programmes of the European Union under grant agreement nos. 773421 (Nunataryuk) and 101056939 (RESCUE). J.S. is funded by the German Research Foundation (DFG) under Excellence Strategy of Germany—EXC 2037:CLICCS—Climate, Climatic Change, and Society—project no. 390683824, contribution to the Center for Earth System Research and Sustainability (CEN) of Universität Hamburg. The GFDL ESM2M simulations were conducted at the Swiss National Supercomputing Centre. B.S. acknowledges support from the Research Council of Norway under grant agreement no. 334811 (TRIFECTA).
+
+*** Jana Sillmann
+
+*** Present address: Centre for International Climate and Environmental Research, Oslo, Norway
+
+*** International Institute for Applied Systems Analysis (IIASA), Laxenburg, Austria
+
+*** Carl-Friedrich Schleussner, Gaurav Ganti, Biqing Zhu, Thomas Gasser, Matthew J. Gidden, Malte Meinshausen, Zebedee Nicholls, Christopher J. Smith & Joeri Rogelj
+
+*** Geography Department and IRITHESys Institute, Humboldt-Universität zu Berlin, Berlin, Germany
+
+*** Carl-Friedrich Schleussner, Gaurav Ganti, Quentin Lejeune, Ruben Prütz, Sabine Fuss, Rosanne Martyr & Emily Theokritoff
+
+*** Climate Analytics, Berlin, Germany
+
+*** Carl-Friedrich Schleussner, Gaurav Ganti, Quentin Lejeune, Peter Pfleiderer, Matthew J. Gidden, Rosanne Martyr & Emily Theokritoff
+
+*** Laboratoire des Sciences du Climate et de l’Environnement, LSCE, Gif-sur-Yvette, France
+
+*** Biqing Zhu & Philippe Ciais
+
+*** Research Unit for Sustainability and Climate Risks, University of Hamburg, Hamburg, Germany
+
+*** Peter Pfleiderer & Jana Sillmann
+
+*** Mercator Research Institute on Global Commons and Climate Change (MCC), Berlin, Germany
+
+*** Ruben Prütz & Sabine Fuss
+
+*** Grantham Institute for Climate Change and the Environment, Imperial College London, London, UK
+
+*** Ruben Prütz, Emily Theokritoff & Joeri Rogelj
+
+*** Climate and Environmental Physics, Physics Institute, University of Bern, Bern, Switzerland
+
+*** Thomas L. Frölicher & Fabrice Lacroix
+
+*** Oeschger Centre for Climate Change Research, University of Bern, Bern, Switzerland
+
+*** Thomas L. Frölicher & Fabrice Lacroix
+
+*** Potsdam Institute for Climate Impact Research, Potsdam, Germany
+
+*** Sabine Fuss & Matthias Mengel
+
+*** Department of Environmental Systems Science, ETH Zürich, Zürich, Switzerland
+
+*** Chahan M. Kropf, Jamie W. McCaughey, Yann Quilcaille & Sonia I. Seneviratne
+
+*** Federal Office of Meteorology and Climatology, MeteoSwiss, Zürich, Switzerland
+
+*** Chahan M. Kropf & Jamie W. McCaughey
+
+*** Institute of Geography, University of Bern, Bern, Switzerland
+
+*** Fabrice Lacroix
+
+*** Centre for Environmental Policy, Imperial College London, London, UK
+
+*** Robin Lamboll & Joeri Rogelj
+
+*** Department of Atmospheric and Cryospheric Sciences, University of Innsbruck, Innsbruck, Austria
+
+*** Fabien Maussion
+
+*** School of Geographical Sciences, University of Bristol, Bristol, UK
+
+*** Fabien Maussion
+
+*** School of Geography, Earth and Atmospheric Sciences, The University of Melbourne, Melbourne, Victoria, Australia
+
+*** Malte Meinshausen & Zebedee Nicholls
+
+*** Climate Resource, Melbourne, Victoria, Australia
+
+*** Malte Meinshausen & Zebedee Nicholls
+
+*** Centre for International Climate and Environmental Research, Oslo, Norway
+
+*** Benjamin Sanderson & Norman J. Steinert
+
+*** Met Office Hadley Centre, Exeter, UK
+
+*** Christopher J. Smith
+
+*** School of Earth and Environment, University of Leeds, Leeds, UK
+
+*** Christopher J. Smith
+
+*** Tyndall Centre for Climate Change Research and School of Environmental Sciences, University of East Anglia, Norwich, UK
+
+*** Rachel Warren & Jeff Price
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** C.-F.S., Q.L. and J.R. conceived the study. C.-F.S. designed the study and wrote the first draft with most of the contributions from Q.L., G.G. and J.R.; J.R. and C.-F.S. developed the pathway classification and designed Fig.1, Table1and Extended Data Table1with support by G.G. The global climate response section, including the analysis underlying Fig.2and Extended Data Figs.1and2, was led by G.G. and supported by Z.N., C.J.S., R.L., C.-F.S. and J.R. The section on CDR, including Extended Data Table2and Extended Data Fig.3, was led by R.P. with support from S.F., C.-F.S., M.J.G. and J.R. The section on climate change reversibility, including Fig.3and Extended Data Figs.4–8, was led by P.P. with support from N.J.S., T.L.F., F.L., B.S. and C.-F.S.; F.L. conducted the GFDL ESM2M overshoot and stabilization simulations supported by T.L.F. The analysis underlying the section on time-lagged impacts was led by B.Z. supported by M. Mengel, T.G. and P.C. with inputs from R.W., J.P., F.M. and C.-F.S. The section on adaptation decision-making was led by C.M.K., J.W.M., E.T. and R.M. with inputs from J.S. and C.-F.S.; S.I.S., Y.Q. and M. Meinshausen provided inputs on the conceptualization of the entire Article. All authors contributed to the writing of the paper.
+
+*** Correspondence toCarl-Friedrich Schleussner.
+
+*** The authors declare no competing interests.
+
+*** Naturethanks Amy Luers, Nadine Mengis and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.Peer reviewer reportsare available.
+
+*** Publisher’s noteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+*** a, The original PROVIDE REN_NZCO2 scenario (black) and the adapted PROVIDE REN_NZCO2 scenarios with different levels of net-negative CO2emissions.b, The difference between 2100 warming and 2060 warming across the scenarios with the original REN_NZCO2 in black and the adapted REN_NZCO2_20 with 20 Gt CO2highlighted in red. Estimates to the right of the purple line indicate ongoing warming after 2060.c, Diagnosed eTCREup and eTCREdown (estimated from PROVIDE REN_NZCO2_20),d, Cooling between 2100 and 2060 versus warming in 2060 for PROVIDE REN_NZCO2 and PROVIDE REN_NZCO2_20.
+
+*** a, Equilibrium Climate Sensitivity (ECS),bZero Emissions Commitment (ZEC) over a 50 year period after CO2 emissions reach zero,cHigh ZEC and ECS drive high net-negative CO2 emissions estimates in ensemble members. Solid and dashed horizontal (vertical) lines indicate the median and 5–95% for ZEC (ECS) distributions as in panela,b, respectively.d, Consistency of FaIR ensemble members (individual members shown) with the consolidated AR6 WG1 historical warming time series.
+
+*** The figure includes BECCS, DACCS, enhanced weathering, net-removal from AFOLU, and ‘other’ CDR. Net-removal from AFOLU is used as conservative proxy for land use sequestration to account for reporting inconsistencies for this variable.
+
+*** a,cshow transient 31-year mean CO2fe emission trajectories for the GFDL-ESM2M and NorESM experiments, respectively.b,dtotal cumulative carbon budget difference between the overshoot and stabilisation experiments for the GFDL-ESM2M and NorESM experiments during the upward (orange) and downward (blue) phases also highlighted ina,c.
+
+*** a,c,eshow results for the NorESM Earth System Model,b,d,ffor GFDL-ESM2M.a,bGlobal mean surface air temperature (GMT) trajectories for dedicated climate stabilisation (solid) and overshoot (dashed) scenarios.c,dtemporal evolution of regional scaling coefficients of absolute annual precipitation changes with GMT for the global land and ocean areas as well as the Amazon and the Mediterranean region (31-year averaged anomalies relative to 1850-1900).e,fregional differences in annual precipitation between overshoot and stabilisation scenarios over hundred years of long-term GMT stabilisation (grey shaded area in panelsa,b, hatching highlights grid-cells where the difference exceeds the 95th percentile (is below the 5th percentile) of comparable period differences in piControl simulations (seeMethods).
+
+*** a,bshow results for NorESM,c,dfor GFDL-ESM2M,a,cfor annual temperature over the first 50 years of GMT stabilisation vs. the last 50 years (compare Fig.3a). Negative values mean the first period is cooler than the second.c,dlikea,cbut for annual precipitation. Hatching highlights grid-cells where the difference exceeds the 95th percentile (is below the 5th percentile) of comparable period differences in piControl simulations (seeMethods).
+
+*** Patterns are shown for centred 31 yr periods for GMT of −0.2 °C below peak warming before and after overshoot in the SSP5-34-OS and the SSP1-19 pathways (seeMethods). In the first 12 panels, hatching highlights grid-cells where the difference exceeds the 95th percentile (is below the 5th percentile) of comparable period differences in piControl simulations (seeMethods). For the ensemble median (last panel) stippling indicates a model agreement in the sign of change of at least 66% of the models.
+
+*** Patterns are shown for centred 31 yr periods for GMT of −0.2 °C below peak warming before and after overshoot in the SSP5-34-OS and the SSP1-19 pathways (seeMethods). In the first 12 panels, hatching highlights grid-cells where the difference exceeds the 95th percentile (is below the 5th percentile) of comparable period differences in piControl simulations (seeMethods). For the ensemble median (last panel) stippling indicates a model agreement in the sign of change of at least 66% of the models.
+
+*** a, Cumulative CO2emissions permafrost emissions as a function of length above 1.5 °C.b, CH4emissions from permafrost.c, CO2emissions from peatlands.d, CH4emissions from peatlands.
+
+*** As Fig.4, but for the 95% quantile outcomes.a, Feedback on 2300 global mean temperature increase by permafrost and peatland emissions (blue markers and left axis) and 2300 global median sea-level rise (right axis) as a function of overshoot duration. Note that while the vertical axis provides 95% quantile outcomes, the overshoot length on the horizontal axis refers to the median overshoot length under a given scenario as in Fig.4to allow for direct comparability.b, Additional global mean temperature from warming-induced permafrost and peatland emissions and sea-level rise increase implied by stabilising temperatures at peak warming by achieving net-zero CO2emissions compared to a long-term temperature decline implied by achieving and maintaining net-zero GHGs. Circles (squares) mark results for temperature change (sea-level rise) for individual scenarios from ref.37. Dashed horizontal lines inbprovide the ensemble median and min/max range.
+
+*** Open AccessThis article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visithttp://creativecommons.org/licenses/by/4.0/.
+
+*** Reprints and permissions
+
+*** Schleussner, CF., Ganti, G., Lejeune, Q.et al.Overconfidence in climate overshoot.Nature634, 366–373 (2024). https://doi.org/10.1038/s41586-024-08020-9
+
+*** Download citation
+
+*** Received:17 October 2023
+
+*** Accepted:29 August 2024
+
+*** Published:09 October 2024
+
+*** Issue Date:10 October 2024
+
+*** DOI:https://doi.org/10.1038/s41586-024-08020-9
+
+*** Anyone you share the following link with will be able to read this content:
+
+*** Sorry, a shareable link is not currently available for this article.
+
+*** 
+
+*** Provided by the Springer Nature SharedIt content-sharing initiative
+

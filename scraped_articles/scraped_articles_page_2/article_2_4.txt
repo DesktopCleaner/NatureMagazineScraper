@@ -1,0 +1,486 @@
+*** Mate recognition systems evolve rapidly to reinforce the reproductive boundaries between species, but the underlying neural mechanisms remain enigmatic. Here we leveraged the rapid coevolution of female pheromone production and male pheromone perception inDrosophila1,2to gain insight into how the architecture of mate recognition circuits facilitates their diversification. While in someDrosophilaspecies females produce unique pheromones that act to arouse their conspecific males, the pheromones of most species are sexually monomorphic such that females possess no distinguishing chemosensory signatures that males can use for mate recognition3. We show thatDrosophila yakubamales evolved the ability to use a sexually monomorphic pheromone, 7-tricosene, as an excitatory cue to promote courtship. By comparing key nodes in the pheromone circuits across multipleDrosophilaspecies, we reveal that this sensory innovation arises from coordinated peripheral and central circuit adaptations: a distinct subpopulation of sensory neurons has acquired sensitivity to 7-tricosene and, in turn, selectively signals to a distinct subset of P1 neurons in the central brain to trigger courtship. Such a modular circuit organization, in which different sensory inputs can independently couple to parallel courtship control nodes, may facilitate the evolution of mate recognition systems by allowing novel sensory modalities to become linked to male arousal. Together, our findings suggest how peripheral and central circuit adaptations can be flexibly coordinated to underlie the rapid evolution of mate recognition strategies across species.
+
+*** Sensory evolution has been proposed to fuel behavioural diversification across species4, allowing animals to capture and perceive distinct features of their environment. Although the rapid expansion and diversification of sensory receptors is thought to represent a potent force in the evolution of behaviour4,5,6, changes to central circuit processing must also have a role7,8, by acting in concert with a diversifying periphery to translate novel sensory inputs into coherent behavioural responses. Yet, how peripheral and central circuit adaptations are coordinated to give rise to the emergence of adaptive behavioural traits remains unclear.
+
+*** Reproductive behaviours provide a powerful inroad to explore how evolution acts at multiple levels within a sensory-processing circuit. As species diverge, the sensory signals that females convey to males rapidly diversify under strong selection to prevent interspecies mating9. In turn, the sensory pathways that males use to detect and interpret female cues must coevolve. Indeed, changes in mate preference between closely related species are thought often to rely on reciprocal switches in the behavioural valence of mating signals10—conspecific cues must be made arousing whereas heterospecific cues made aversive—a process probably relying on concurrent changes in peripheral detection and central circuit processing.
+
+*** Across theDrosophilagenus female pheromones have repeatedly diversified, both in their chemical composition and the apparent logic of how they control mate choice3,11,12,13,14,15(Fig.1a), offering an opportunity to examine how the rapid diversification of mate recognition systems is coordinated. In some species, females produce unique cuticular hydrocarbons thought to mediate mate recognition by triggering a conspecific male’s arousal.Drosophila melanogasterfemales, for example, produce 7,11-heptacosadiene (7,11-HD), a pheromone that differs from the chemical cues carried by conspecific males and heterospecific females that cohabitate within the same environments11. Thus, 7,11-HD signals both sex and species identity, enabling it to serve as a potent excitatory cue to promote courtship inD. melanogastermales. Sexually instructive pheromones such as 7,11-HD, however, are rare as the females of mostDrosophilaspecies carry no chemicals that uniquely distinguish them from their conspecific males3(Fig.1a). For instance,Drosophila yakubaandDrosophila simulans, close relatives believed to have evolved in geographic separation16, have independently lost the biosynthetic enzymes necessary to produce female-specific pheromones15. Consequently, females of both species produce 7-tricosene (7-T) (Fig.1a), the same cuticular compound as their males.
+
+*** a, Phylogeny of 99Drosophilaspecies for which cuticular pheromones have been characterized (left) and primary sex pheromones of select species (right)3,11. 7-T, 7-tricosene; cVA,cis-vaccenyl acetate; 5,25-HTCD, 5,25-hentriacontadiene61; 7,11-ND, 7,11-nonacosadiene; 9-T, 9-tricosene (M. Khallaf, personal communication); 9,23-TTCD, 9,23-tritriacosadiene.b, Courtship as captured by the inter-fly distance (IFD) between aD. melanogaster(mel),D. erecta(ere),D. simulans(sim),D. yakuba(yak),D. eugracilis(eug) orD. ananassae(ana) male with a conspecific female in the dark. Left, IFD traces over time for a single representative pair as courtship proceeds. Middle, heatmaps for 12 pairs, aligned to courtship initiation for all species exceptD. eugracilis, for which videos were aligned to the time of first interaction. Red, dotted lines indicate the time of first interaction (D. eugracilis) or courtship initiation (all other species). Right, histograms of time as a function of IFD for the same 12 courting pairs.c, Average courtship bout length in the dark following courtship initiation for males paired with a conspecific female (mel/sim/yakn= 20; ere/eug/anan= 12),D. yakubamales paired with aD. simulansfemale (n= 15) orD. simulansmales paired with aD. yakubafemale (n= 15).d, Left, average courtship bout length following courtship initiation forD. yakubamales paired with oe−females mock perfumed (grey) or perfumed with theD. yakubapheromone 7-T (black) in the dark (n= 10) and (right) histograms (as inb). Data points represent individual males; bars are median. Statistics: Kruskal–Wallis test (c) or unpaired Mann–Whitney (d). Letters denote statistically different groups (P< 0.05). ****P< 0.0001. Diagram inaadapted from ref.3, Springer Nature Limited.
+
+*** Source Data
+
+*** Despite the convergent use of the same sexually monomorphic pheromone inD. simulansandD. yakuba, we find that males of these species employ a distinct logic in the chemosensory control of courtship, underscoring the evolutionary flexibility of mate recognition systems. AlthoughD. simulansmales appear insensitive to 7-T and use vision or other sensory cues to become aroused13,D. yakubamales use this same pheromone as an excitatory cue to promote courtship. This sensory innovation confersD. yakubamales with the ability to become aroused and faithfully pursue their conspecific females in the dark, thereby expanding the range of potential sensory environments available for mating. The distinct behavioural sensitivity ofD. yakubamales to 7-T arises from coordinated peripheral and central circuit adaptations: 7-T activates a subset of sensory neurons, which selectively signal to one of two molecularly defined subsets of P1 neurons that control a male’s sexual arousal17,18,19,20,21,22,23,24,25,26. A similar sensory specialization is also apparent in the P1 subpopulations ofD. melanogastermales, underscoring how the modular organization of this circuit node may provide a facile evolutionary substrate for the rapid diversification of pheromone preferences and courtship strategies.
+
+*** In manyDrosophilaspecies, the perception of a moving fly-sized target serves as a potent courtship-promoting cue, suggesting that vision can act redundantly with female pheromones to arouse males12,24,25,27. To compare the role of pheromonal signalling in mate recognition across species, we examined the courtship dynamics of single male–female pairs in the dark, where identification of a conspecific female becomes more reliant on chemical cues28. We focused our comparison on two species that produce sexually dimorphic pheromones—D. melanogasterandDrosophila erecta—and several in which females lack any chemical signatures that differentiate them from their males—D. simulansandD. yakuba, two close relatives within theD. melanogasterspecies subgroup;Drosophila eugracilis, a close outgroup species; andDrosophilaananassae, a more distant relative (Fig.1a). Given that a male’s pursuit of a female represents a conserved hallmark of courtship across species2,29, we used inter-fly distance (IFD) as a behavioural readout that is independent of any potential variation in courtship motor displays (Fig.1band Extended Data Fig.1a,b).
+
+*** D. melanogastermales court proficiently in the dark28,30,31,32,33due to their ability to use 7,11-HD, the pheromone carried by their conspecific females, to sustain their arousal in the absence of vision28,31,32. Indeed, onceD. melanogastermales initiated courtship, they closely tracked a female (IFD < 8 mm) for extended bouts (Fig.1b,c, Extended Data Fig.1a,cand Supplementary Video1).D. erectamales displayed similarly faithful pursuit, suggesting that the unique pheromonal cues carried by their conspecific females have an instructive role comparable to that of 7,11-HD (Fig.1b,cand Extended Data Fig.1a). By contrast, the courtship dynamics of monomorphic species were far more variable in the dark.D. eugracilismales rarely performed any pursuit, and proximity to the female was only transient and incidental (Fig.1b,cand Extended Data Fig.1a).D. simulansmales displayed brief bouts of courtship, but these frequently broke off as soon as the female walked away (Fig.1b,c, Extended Data Fig.1a,b,cand Supplementary Video2). Males of both these species therefore appear unable to initiate or sustain courtship pursuit in the absence of vision. By contrast,D. yakubaandD. ananassaemales engaged in extended periods of courtship, resembling the persistent tracking displayed by species with sexually dimorphic pheromones (Fig.1b,c, Extended Data Fig.1a,b,cand Supplementary Video3). Males of some monomorphic species thus seem to have evolved distinct sensory strategies to pursue conspecifics in the absence of visual feedback or a female-specific pheromone, pointing to species-specific variation in the sensory signals used to guide mating decisions34.
+
+*** InD. melanogastermales, the excitatory effect of 7,11-HD is thought to compensate for the absence of vision28,31,32. The persistent courtship pursuit exhibited byD. yakubamales in the dark suggests that they may rely on female pheromones to become aroused, despite the sexually monomorphic nature of 7-T. Indeed, in the dark,D. yakubamales were largely indifferent toD. melanogasterfemales that lack oenocytes (oenocyte-less (oe−)) and produce no cuticular pheromones12. Perfuming oe−females with 7-T, however, rendered them attractive (Fig.1dand Extended Data Fig.1d). The detection of 7-T is therefore sufficient to arouseD. yakubamales, an adaptation that could expand the diurnal periods accessible for mating, consistent with their preference to court before dawn30. Aligned with the excitatory role of 7-T,D. yakubamales courtedD. simulansfemales as vigorously as their conspecifics (Fig.1c). 7-T thus seems to have divergent roles to hone mate selection—serving as an inhibitory cue to prevent heterospecific courtship inD. melanogastermales35, a neutral signal thatD. simulansmales seem indifferent to13, and an excitatory cue that promotes courtship inD. yakubamales—reflecting multiple switches in the behavioural valence of a single pheromone across closely related species.
+
+*** P1 neurons serve as a central node within the male courtship circuit that integrates from multiple sensory pathways to encode the suitability of a prospective mate and trigger persistent courtship displays17,18,19,20,21,22,23,24,25,26. Given the distinct reliance of differentDrosophilaspecies on pheromone signals to guide their courtship (Fig.1b), we generated neurogenetic tools to compare how the chemosensory tuning of the P1 population has accordingly diversified. Anatomic labelling revealed that across species, P1 neurons display rich projections in the lateral protocerebral complex (LPC), a sexually dimorphic neuropil shown to receive inputs from pheromone-processing pathways and extend outputs to descending neurons that drive the component behaviours of courtship19,20,36(Fig.2a). Consistent with a conserved role in mate recognition, optogenetic activation of P1 neurons inD. erectaandD. yakubamales was sufficient to trigger persistent pursuit of otherwise unattractive heterospecific females (Extended Data Fig.2a,b), replicating the courtship-promoting function of these neurons inD. melanogasterandD. simulans13,17,19,22,23,25,26. P1 neurons thus represent a common circuit node regulating courtship arousal across species.
+
+*** a, P1 neurons labelled by 71G01>CD8::GFP (D. melanogaster,D. erecta), 71G01>GCaMP6s (D. simulans) or SplitP1>CD8::GFP (D. yakuba;Methods) expression, stained for GFP (green) and neuropil counterstain (magenta). Images were masked to remove glial fluorescence from ie1 marker and non-P1-specific labelling for clarity. Imaging location used for experiments inbis indicated by white, dotted box.b, Left, representative traces of P1 responses in the LPC in males of each species evoked in response to the taste of a conspecific or heterospecific female (black ticks indicate time of foreleg taps). Middle, averaged tap-evoked functional responses (∆F/F0, black ticks) of the P1 neurons across all males. Right, average peak response (∆F/F0) for each male evoked by a given female target (sample sizes: meln= 10; eren= 10; simn= 8; yakn= 5). Data points represent individual males; error bars are mean ± s.e.m. Statistics: analysis of variance (ANOVA) with Tukey’s post hoc. Letters denote statistically different groups (P< 0.05).
+
+*** Source Data
+
+*** We compared the pheromonal responses of P1 neurons across species by performing functional calcium imaging of their projections within the LPC, as tethered males walked on an air-supported ball and were offered an array of female targets, replicating the sensory assessment males perform as they tap females with their forelegs to sample their cuticular pheromones (Fig.2b). InD. melanogaster13,19andD. erectamales, P1 neurons were robustly activated each time a male tapped a conspecific female, with minimal excitation elicited by heterospecific females (Fig.2b). Such selective chemosensory tuning supports the notion that the unique female pheromones of sexually dimorphic species serve as instructive cues for mate recognition, exciting the P1 neurons to promote courtship. By contrast, the P1 neurons ofD. simulansmales were largely unresponsive to any female targets (Fig.2b), concordant with evidence that in this species, pheromone pathways serve to inhibit rather than promote courtship12,13. The P1 neurons ofD. yakubamales, however, rather than displaying the attenuated chemosensory responses ofD. simulans, instead were strongly activated by the taste of bothD. yakubaandD. simulansfemales (Fig.2b), aligned with behavioural data showing that 7-T serves as an excitatory cue to arouse males (Fig.1d). Thus, although P1 neurons have a conserved role in promoting courtship across species, they display divergent pheromonal tuning, highlighting the intrinsic evolutionarily flexibility of sensory circuits that control a male’s arousal and recognition of an appropriate mate.
+
+*** D. yakubamales seem to have evolved the ability to use the sexually ambiguous chemical 7-T as a courtship-promoting cue via the diversification of pheromone circuits that impinge onto the P1 neurons. To shed light on how alterations in peripheral pheromone detection contribute to this distinct chemosensory strategy, we compared the sensory neurons in the male foreleg, a heterogenous population marked by expression of the DEG/ENaC channel Ppk23 (refs.13,32,37,38,39). InD. melanogaster, Ppk23+neurons adopt a paired organization within each sensory bristle20,31,32,37,38,39, in which one neuron co-expresses the DEG/ENaC channel Ppk25 and is tuned to 7,11-HD to promote pursuit of conspecific females, whereas its Ppk25−partner is responsive to heterospecific pheromones, including 7-T, to suppress interspecies courtship (Fig.3a,h). To explore the role that Ppk23-mediated pheromonal signalling plays in mate recognition inD. yakuba, we used CRISPR–Cas9 genome editing to generate males mutant for this receptor (Extended Data Fig.3a). We found that these mutants lost their characteristic aversion to heterospecific females, supporting that, as inD. simulans13, this receptor mediates the detection of inhibitory pheromones to curb inappropriate visual pursuit (Fig.3b,h).D. yakuba ppk23mutant males continued to vigorously pursue their conspecific females in the light, probably due to the redundant role that conspecific pheromones and visual cues have in promoting courtship (Fig.3band Extended Data Fig.3c), but were unable to sustain courtship in the dark, yielding the same saltatory dynamics displayed byD. melanogaster ppk23mutant males in the absence of visual feedback (Fig.3c,dand Extended Data Fig.3b,d). The total time thatppk23mutant males spent courting was not significantly reduced, however, probably because they were often able to rapidly re-encounter their female (Extended Data Fig.3b,d). Ppk23 signalling inD. yakubathus seems required both to promote courtship of conspecific females and to inhibit pursuit of heterospecific targets, suggesting that, as inD. melanogaster32,37,38, Ppk23 receptors mark a heterogeneous neuronal population that plays opposing roles in honing mate recognition.
+
+*** a, Left, Ppk23+sensory neurons inD. melanogasterandD. yakubamale foreleg tarsal segments, marked by CD8::GFP (green), distal end up. Middle, Ppk23+sensory afferents in the first thoracic segment of the ventral nerve cord expressing CD8::GFP (green) with neuropil counterstain (magenta), anterior side up. Right, functional responses of Ppk23+afferents evoked by indicated females (black ticks indicate foreleg taps).b, Average courtship bout length in the 10 min following courtship initiation for wild-type males paired with conspecific female (n= 18);D. melanogasterfemale (n= 20) orppk23mutant (n= 20 each) in the light.c,d, Average courtship bout length ofppk23mutantD. melanogaster(n= 20 each) (c) orD. yakuba(n= 20 each) (d) males paired with conspecific females in the dark.e, Left, average functional responses (∆F/F0) recorded from foreleg sensory afferents aligned to time of a tap and (right) average peak response (∆F/F0) per male for a given female target. (sample sizes: yak ppk23>GCaMPn= 9; mel ppk23>GCaMPn= 7; yak ∆ppk23;ppk23>GCaMPn= 4; yak ∆ppk25;fru>GCaMPn= 8).f, Average courtship bout length of wild-type males paired with conspecific females in the dark (left) (n= 10 each) andppk25mutant males paired withD. melanogasterfemales in the light (right) (n= 10 each).g, Average courtship bout length before (Pre) or during (Stim) periods of optogenetic stimulation of Ppk23>CsChrimson or >CsChrimson control animals paired with aD. melanogasterfemale (n= 10 each).h, Model summarizing the inferred changes in the sensitivity of sensory populations and effect on P1 neuron activity.D. melanogasterandD. simulansdiagrams on the basis of previous reports13,19,20,31,35,37,39. For behavioural tests (b–g), points represent individual males; bars are median. For imaging (e), shading is mean ± s.e.m., points are individual males and error bars are mean ± s.e.m. Statistics: ANOVA with Tukey’s post hoc (e), Mann–Whitney (b–d,f), Wilcoxon test (g). Letters denote statistically different groups (P< 0.05). **P< 0.01, ****P< 0.0001; NS, not significant. WT, wild type.
+
+*** Source Data
+
+*** Imaging the aggregate activity of Ppk23+foreleg sensory afferents (Fig.3a) inD. yakubamales revealed that they were robustly activated by all target flies, with equivalent responses evoked by the taste of conspecific and heterospecific females and males (Fig.3e). Such broad tuning contrasts with the selective responses to 7,11-HD-carrying females observed in bothD. melanogaster(Fig.3e) andD. simulansmales13, to alternatively promote or deter courtship toD. melanogasterfemales (Fig.3h). Ppk23+sensory responses inD. yakubamales were chemosensory in origin, as oe−females lacking pheromones evoked minimal activity but robust responses could be restored by perfuming these females with either 7,11-HD or 7-T (Extended Data Fig.3f). Moreover, pheromone responses were largely abolished inD. yakuba ppk23mutant males (Fig.3e), substantiating that Ppk23-mediated signalling plays a conserved and essential role in pheromone detection across species13,32,37,38.
+
+*** To determine whether the broad chemosensory tuning apparent at the level of the Ppk23+population reflects the activity of heterogenous Ppk25+and Ppk25−subsets (Fig.3a), we generated appk25mutant (Extended Data Fig.4a). Recording from foreleg sensory afferents inppk25mutant males revealed that responses toD. yakuba,D. simulansfemales and males were selectively attenuated, whereas responses evoked by other heterospecific targets remained intact (Fig.3eand Extended Data Fig.4c), suggesting that Ppk25-mediated signalling underlies 7-T detection to regulate a male’s sexual arousal. Consistent with this,D. yakuba ppk25mutants displayed diminished courtship towards conspecifics in the dark (Fig.3fand Extended Data Fig.4b), phenocopying the disrupted pursuit observed inppk23mutants (Fig.3d).D. yakuba ppk25mutants nevertheless remained averse to courtingD. melanogasterfemales (Fig.3f), substantiating thatppk25is required for detection of 7-T without impairing the recognition of heterospecific pheromones such as 7,11-HD that suppress inappropriate courtship.
+
+*** The sensory neurons that detect conspecific and heterospecific pheromones thus seem to have undergone a reciprocal switch in their chemical specificity across species. AlthoughD. melanogasterandD. yakubafemales carry distinct pheromones, males of both species detect their cognate conspecific chemical cues via the Ppk25+subset of sensory neurons20,39, whereas the Ppk25−subset underlies the detection of heterospecific cues. This swap in the chemical tuning of peripheral sensory neuron subtypes suggests a potentially facile mechanism to alter the behavioural meaning of pheromones, whereby the ascending circuits that promote or suppress courtship are conserved but their pheromone sensitivity is altered. InD. simulansmales,ppk25has been reported to promote courtship40, suggesting it may be similarly involved in 7-T detection. However, this peripheral sensitivity does not seem to be translated to P1 neuron excitation (Figs.2band3h), consistent with the tepid courtship that males of this species display in the dark (Fig.1b,c). The behavioural valence of pheromones therefore seems to depend not only on which subset of sensory neurons are activated, but also on how these peripheral signals are conveyed to the P1 population. Indeed, using optogenetics to exogenously activate the Ppk23+sensory neurons and bypass pheromone detection revealed that although stimulation of this population suppresses courtship inD. simulans13, it triggered bothD. melanogaster13,32,37andD. yakubamales to court otherwise unattractive targets, including heterospecific females (Fig.3g). The opposing behavioural valence of Ppk23+sensory neuron activation across species suggests that further neural adaptations underlie how these diversified peripheral signals are integrated by the P1 neurons to control a male’s mating decisions.
+
+*** How might P1 neurons accommodate the flexible integration of different ascending pheromone pathways to underlie their species-specific tuning? The modular organization of sensory circuits has been proposed to facilitate their evolutionary diversification, as their segregated nature allows for the independent retuning of sensory inputs7,41. Notably, P1 neurons can be divided into two discrete subsets on the basis of their expression of the sexually dimorphic transcription factors Doublesex (Dsx) and Fruitless (Fru)18,42. Although all P1 neurons express Dsx and belong to the larger population of pC1 neurons, a subset also expresses Fru18(Extended Data Fig.5a), raising the possibility that these genetically distinct P1 subsets may represent modular units that integrate from different sensory pathways. We therefore devised an intersectional genetic strategy using a P1 neuron-specific driver to label a Fru+(Fru∩P1) or Dsx+(Dsx∩P1) subset of the P1 population (Extended Data Fig.5a). Each intersection marked a comparable number of neurons inD. yakubaandD. melanogastermales, with Fru∩P1 labelling only Fru+somata and Dsx∩P1 labelling a mixture of Fru+and Fru−neurons (Extended Data Fig.5b–e). Although the morphology of the Fru∩P1 and Dsx∩P1 subpopulations was similar both within and across species, they displayed minor variation in their ventral and dorsal lateral projections (Fig.4a,band Extended Data Fig.5b,c,f,g), positioning them to potentially integrate from distinct ascending inputs. Consistent with this, we observed that Dsx∩P1 neurons were strongly activated by the taste of conspecific females (Fig.4b), which we confirmed using perfumed oe−females reflects their distinct chemosensory tuning to 7-T (Fig.4f). Fru∩P1 neurons, by contrast, were unresponsive to all target flies (Fig.4a). Despite these striking differences in pheromone tuning, optogenetic activation of either P1 subpopulation was sufficient to trigger courtship pursuit and singing towards heterospecific females (Fig.4a,b, Extended Data Fig.7a,band Supplementary Videos4and5). Genetically distinct and functionally specialized subsets of P1 neurons thus seem to have overlapping roles in triggering a male’s sexual arousal to drive courtship.
+
+*** a,b, Left, template brain registrations of neurons labelled by intersection of Fru (a; Fru∩P1) or Dsx (b; Dsx∩P1) and the P1-driver 71G01 (Methods). Middle, averaged functional responses (∆F/F0) aligned to tap of indicated female and average peak response (∆F/F0) per male for a given female target. Right, average courtship bout length, total percentage time pursuing or total percentage time extending a unilateral wing towards aD. melanogasterfemale target before (Pre) or during (Stim) optogenetic stimulation of Fru∩P1>CsChrimson or Dsx∩P1>CsChrimson males and the fraction of flies engaging in these behaviours (sample sizes: Fru∩P1>GCaMPn= 6; Fru∩P1>CsChrimsonn= 20; Dsx∩P1>GCaMPn= 10; Dsx∩P1>CsChrimsonn= 20).c,d,e, Functional responses (as ina,b) of all Fru+(c) or Dsx+(d,e) neurons innervating the LPC in wild-type (c,n= 5;d,n= 8) or ∆ppk25 mutant (e,n= 8) males.f, Functional responses (as inb) of Dsx∩P1 toD. melanogastermock-perfumed oe−(oe−), 7,11-HD-perfumed (oe−+7,11-HD), 7-T-perfumed (oe−+7-T) or cVa-perfumed (oe−+cVA).g, Courtship in the dark as captured by IFD of aD. yakubamale towards a conspecific female with constitutively silenced P1 subsets (Fru∩P1>Kir (middle), Dsx∩P1>Kir (bottom) or genetic control (top; 71G01-DBD; UAS-Kir)) (n= 6). Left, heatmaps for six pairs, aligned to courtship initiation (red, dotted line). Middle, histograms of time as a function of IFD for the same six courting pairs. Right, average courtship bout length in the 10 min following courtship initiation of each genotype (n= 25 each). For functional imaging (a–f), shading represents mean ± s.e.m. Points are individual males; error bars are mean ± s.e.m. For behavioural tests (a,b,e), points are individual males and bars are median. Statistics: ANOVA with Tukey’s post hoc (a–f), Wilcoxon test (a,b), Kruskal–Wallis test (g). Letters denote statistically different groups (P< 0.05). ****P< 0.0001.
+
+*** Source Data
+
+*** The differential sensory tuning we observe suggests that only the Dsx+/Fru−P1 subpopulation is excited by 7-T inD. yakubamales. To verify this, we recorded pheromone responses from the complete complement of Fru+or Dsx+neurons in the LPC where P1 neuron processes reside. We found that the pheromone tuning of these broader Fru+or Dsx+populations replicated the selective responses displayed by each P1 neuron subset, with only the Dsx+processes strongly excited by the taste ofD. yakubafemales. Responses toD. yakubafemales were lost inppk23andppk25mutants (Fig.4eand Extended Data Fig.3g), confirming that they arise from 7-T detection via Ppk25+/Ppk23+sensory neurons. The Dsx+P1 subpopulation thus seems to uniquely integrate excitatory pheromone signals from the Ppk25+/Ppk23+sensory pathways, suggesting that they have a distinct role in translating conspecific pheromone detection to male arousal inD. yakuba. Consistent with this, constitutive silencing of the Dsx∩P1 neuronal subset attenuated male courtship in the dark (Fig.4g), replicating the abortive pursuit ofppk23andppk25mutants (Fig.3d,f). Silencing of the Fru∩P1 neuronal subset, by contrast, had little impact on a male’s courtship dynamics (Fig.4g), aligned with the insensitivity of this population to pheromones. Although we cannot exclude the possibility that Fru∩P1 neurons might function redundantly with the Dsx+/Fru−neurons to promote courtship, our functional and behavioural data suggest that Fru+and Dsx+P1 subpopulations have distinct roles in sustaining courtship in the dark (Fig.5b), where males become reliant on pheromonal feedback.
+
+*** a,b, Diagrams summarizing proposed sensory specializations of Fru∩P1 and Dsx∩P1 inD. melanogaster(a) andD. yakuba(b). Pheromone inputs inferred from functional imaging and behavioural data in Fig.4and Extended Data Fig.6or previously reported13,19,24,25are indicated by solid arrows. Further hypothesized sensory inputs are indicated by dotted arrows.c, Model for the diversification of courtship behaviours by neural subspecialization. Independent retuning of sensory inputs to behaviourally redundant but molecularly distinct P1 subtypes may facilitate the rapid evolution of sensory signals that control a male’s sexual arousal and courtship.
+
+*** The molecular subdivision of P1 neurons by their differential expression of the Fru transcription factor represents a conserved feature of this circuit node (Extended Data Fig.5b–e), suggesting that this modular organization may serve as a more general substrate for the evolution of mate recognition inDrosophila. Indeed, inD. melanogastermales, although activation of either Fru∩P1 and Dsx∩P1 neuron subsets was sufficient to promote courtship (Extended Data Fig.6a,band Extended Data Fig.7c,d), they displayed distinct chemosensory tuning. Both subpopulations responded to their conspecific female pheromone (Extended Data Fig.6a,b), whereas the Fru+subset was also excited by the taste ofD. erectafemales (Extended Data Fig.6a), an expansion of pheromone tuning that may reflect sensitivity to 7,11-nonacosadiene, a minor pheromone shared betweenD. melanogasterandD. erectafemales11(Fig.1a). Consistent with the use of common excitatory female pheromones in these species,D. melanogastermales have been shown to courtD. erectafemales12. To further substantiate the functional modularity of P1 neuron subsets, we generated a fru-Gal80 allele inD. melanogastermales (Extended Data Fig.6c), allowing us to selectively record from Dsx+/Fru−processes in the LPC. This neuronal subset was strongly activated byD. melanogasterbut notD. erectafemales, indicating that the Fru+P1 neuron subset has evolved expanded pheromone sensitivity in this species. The functional specialization of molecularly defined P1 subtypes therefore seems to represent a shared feature of male courtship circuits across species, potentially facilitating the integration of new sensory pathways to allow for the emergence of species-specific mate preferences.
+
+*** Monomorphic pheromones are inherently ambiguous with respect to sex discrimination. AlthoughD. yakubamales are less discerning thanD. melanogastermales, they nevertheless show a significant preference for courting conspecific females over males, suggesting they rely on further sensory cues to aid in mate recognition (Extended Data Fig.8a). Indeed, perfumingD. yakubafemales with the male-specific volatile pheromonecis-vaccenyl acetate43(cVA) suppressed both the responses of P1 neurons and courtship pursuit towards these otherwise attractive female targets (Extended Data Fig.8d,e). Mutating the canonical cVA receptorOr67dinD. yakubamales had no apparent impact on a male’s propensity to court another male, suggesting that additional olfactory receptors detect this conserved pheromone43(Extended Data Fig.8b,c). Beyond chemosensory cues, behavioural countersignalling—such as the agonistic wing flicks males perform when being pursued by other males29,44—also seems to support sex discrimination inD. yakuba(Extended Data Fig.8f,gand Supplementary Video6), as male-directed courtship was increased if one male was either deafened by surgically removing his aristae or rendered mute by removal of his wings. Thus,D. yakubamales seem to counterbalance their use of a sexually ambiguous excitatory pheromone with other male-specific inhibitory cues to hone their courtship towards an appropriate mate (Extended Data Fig.8h).
+
+*** In this study, we leveraged the rapid evolution of female pheromones across theDrosophilagenus to explore how changes in male pheromone detection and preference are coordinated to generate divergent mating strategies. Our work points to at least two discrete sites of diversification within the male courtship circuitry that can modify the behavioural valence of pheromones to underlie species-specific mate recognition. First, the Ppk25+and Ppk25−sensory neurons within the male foreleg that detect conspecific and heterospecific pheromones seem to have undergone a reciprocal swap in their chemical tuning and, second, these peripheral signals are differentially conveyed to distinct subpopulations of P1 neurons, each sufficient to promote courtship (Fig.5a,b). Such a modular circuit organization, in which rapidly diversifying peripheral sensory populations can independently couple to different P1 courtship control nodes, may facilitate the evolution of mate recognition systems by enabling males to take advantage of novel sensory cues to promote courtship without compromising ancestral pathways for arousal (Fig.5c). Through the coordination of these peripheral and central circuit modificationsD. yakubamales have evolved the ability to use 7-T, a sexually ambiguous compound, as an aphrodisiac to promote courtship of their conspecific females.
+
+*** Female-specific pheromones would seem advantageous to mate recognition by serving as instructive cues that assure males only become aroused when they encounter individuals of the appropriate sex and species45. Yet, sexually monomorphic pheromones predominate across theDrosophilagenus3. For many species, the visual perception of a moving, fly-sized target seems innately arousing, potentially rendering excitatory pheromones unnecessary to promote courtship12,24,25,27. Nevertheless, as we reveal forD. yakuba, excitatory pheromones may confer additional robustness to courtship and expand the sensory environments in which it can occur. Indeed, by using 7-T to become aroused,D. yakubamales seem to overcome the strict requirement for vision, providing them with expanded diurnal periods for mating30. Notably, of the four monomorphic species we tested, bothD. yakubaandD. ananassaerobustly court in the dark, a sensory capacity shared by many species distributed throughout the genus34. The use of sexually monomorphic pheromones as courtship-promoting cues therefore seems to have arisen repeatedly, underscoring how the sensory pathways controlling male arousal have probably recurrently diversified to give rise to species with differential dependence on vision (Fig.1band Extended Data Fig.9).
+
+*** Despite thatD. simulansandD. yakubahave independently converged on the same sexually monomorphic pheromone profiles, our analyses suggest that males of these species rely on divergent strategies for mate discrimination due to concurrent peripheral and central adaptations. AlthoughD. melanogaster,D. yakubaandD. simulansmales all maintain robust peripheral responses to 7,11-HD to alternately promote courtship to conspecifics or deter heterospecific pursuit,D. yakubamales have evolved a distinct sensory innovation—enhanced sensitivity to 7-T via a switch in the chemical tuning of the Ppk25+subset of sensory neurons. Such rapid diversification of peripheral sensory neurons, which can be accommodated by either retuning of the receptors that detect pheromone or alterations in their pattern of expression within the male foreleg, must then be integrated with central circuits to allow novel pheromone sensitivity to regulate arousal and mate recognition. Indeed, we find that distinct subpopulations of P1 neurons differentially integrate from ascending pheromone pathways to contribute to the chemosensory control of courtship. Although the structural or functional changes underlying the divergent patterns of P1 neuron integration remain to be elucidated, the homologous ascending pathways that transmit pheromone signals from the foreleg to the P1 neurons are anatomically identifiable across species13,19(Extended Data Fig.10). InD. melanogastermales, Ppk25+sensory neurons responsive to 7,11-HD relay these signals to both P1 neuron subtypes via the vAB3 ascending pathway to promote courtship towards a conspecific female19,20. The switch in pheromone sensitivity of Ppk25+neurons inD. yakubamales suggests that vAB3 neurons may selectively convey 7-T-mediated excitation to the Dsx+/Fru−P1 neuron subpopulation to underlie their distinct tuning. Thus, subtle changes to an otherwise conserved circuit architecture could give rise to divergent P1 pheromone tuning, paralleling how the differential integration of pheromone pathways by P1 neurons underlies the opposing behavioural valence of 7,11-HD inD. melanogasterandD. simulansmales13. Together, these observations support the possibility that P1 neurons serve as a site of repeated evolutionary tinkering, whereby reweighting of the sensory input pathways to distinct P1 subpopulations would allow for the rapid diversification in courtship strategies.
+
+*** An intriguing feature of the functionally specialized P1 neuron subsets is their expression of the master regulatory transcription factors Fru and Dsx, which define the sexually dimorphic features of the nervous system46,47,48,49,50,51. Fru and Dsx act cell-autonomously to specify the anatomy and connectivity of neurons, presenting a powerful mechanism to restructure the functional architecture of mating circuits18,52,53,54,55. Yet, despite the striking differences apparent in the Fru+and Dsx+circuitry between males and females within a species, these pathways appear largely conserved across males of different species, including in the different P1 subtypes. Rather than changing patterns of Fru or Dsx expression, evolution may instead tinker with the anatomic or functional properties of neurons by altering the diverse transcriptional programs that Fru and Dsx direct. The gain or loss of Fru or Dsx binding sites in the regulatory regions of downstream target genes offers a plausible mechanism by which P1 neuron subtypes could independently diversify to generate species-specific patterns of sensory integration56,57.
+
+*** Our observations inDrosophilastrengthen emerging evidence that modular neural circuit architectures, possibly arising from duplication and divergence, may represent a key evolutionary substrate for the diversification of complex behaviours7,41,58,59. Similar mechanisms have been proposed to underlie the elaboration of cerebellar nuclei59and the evolution of pallial–striatal circuits58in vertebrates. Duplication favours modular functional units which, as in gene duplication, relieves evolutionary constraints and allows initially redundant circuit structures to adopt new functions. Cell type duplication is not essential for neural subspecialization to arise. Rather, as our work suggests, all that is required is a population of neurons with shared behavioural roles but divergent molecular programs that specify the cellular properties of these neurons and provide the genetic substrate on which evolution can act. Here, by taking advantage of the rapid coevolution of female pheromone production and male pheromone preferences in a model clade7,60, we have begun to map discrete sites of functional divergence to molecularly defined neural subpopulations, revealing neuronal modularity as an important substrate for behavioural evolution.
+
+*** Flies were maintained at 25 °C and 50–65% relative humidity under a 12 h light/12 h dark cycle.D. melanogasterstocks Canton-S (catalogue no. 64349), UAS-GCaMP6s (42746 and 42749), UAS-mCD8::GFP (5137), 71G01-Gal4 (39599), fruLexA(66698) and UAS-CsChrimson-mVenus (55134 and 55136) were obtained from the Bloomington Stock Center. LexAop-SPA-T2A-SPA was generated in a previous study19.D. yakubaIvory Coast (14021-0261.00),D. erecta(14021-0224.01) andD. ananassae(14024-0371.34) were obtained from the Cornell (formerly UCSD) Stock Center.D. eugracilis(SHL12) was obtained from the Kyoto Stock Center.Drosophila suzukii(WT3) (L. Zhao, Rockefeller);D. melanogasterSplitP1-Gal4 (D. Anderson, Caltech);D. melanogasterfruGal4and fruAD/fruDBD(B. Dickson, Janelia Research Campus);D. melanogasterppk23-Gal4 (K. Scott, UC Berkeley);D. yakubafruGal4, fruDBDand fruADinserts62, 71G01-Gal4 (ref.63), UAS-GCaMP6s, UAS-CsChrimson, UAS-Kir2.1 and attp1730 (D. Stern, Janelia Research Campus);D. erecta71G01-Gal4 (insertion no. 5),D. erectaUAS-GCaMP6s (insertion no. 5),D. erectaUAS-CD8::GFP (insertion no. 2),D. erectaUAS-CsChrimson::tdTomato (insertion no. 1),D. yakubadsxGal4and dsxADinserts64(Y. Ding, University of Pennsylvania);D. yakubaUAS-mCD8-GFP (insertion nos. 2 & 3), UAS-GFP (insertion no. 8), UAS-SPA-GFP (insertion no. 2), ppk23-Gal4 (insertion no. 2),ppk23mutant,ppk25mutant and Or67d mutant were generated in this study. See Supplementary Table1for detailed genotypes by figure.
+
+*** The ie1.mCherry and ie1.eGFP minigene reporters used as transformation markers were constructed from the following fragments: the ie1 promoter was PCR amplified from pBac{orco.QF, QUAS.GCaMP, ie1. DsRed} (gift from D. Kronauer),Drosophilacodon-optimized mCherry and eGFP gene blocks were synthesized (IDT), and the p10-3′ untranslated region (UTR) was PCR amplified from pJFRC81 (Addgene, 36432). These were then cloned by Gibson assembly (NEB) into pBac{3XP3-EGFP, Pactin-Ptrsps} (Addgene, 86861) after digest with BstZ17I and Bsu36I to generate pRC7a (ie1.mCherry) and pRC10a (ie.eGFP).
+
+*** To create a more flexible multicloning site in pRC10a, a gBlock (IDT) containing the following restriction enzyme sites, HpaI, HincII, HindIII, KpnI, NotI, XhoI, XbaI and FseI, was synthesized and cloned by Gibson assembly into pRC10a. The resulting vector was pIM145. mCherry was then cloned with NheI and HpaI from pRC7a into the pIM145 backbone in place of GFP to generate pIM148.
+
+*** To generate a P1 driver line, the 3,844 bp fragment fromVsx2gene that is present in pGMR71G01 was amplified fromD. melanogastergenomic DNA. This was then cloned by Gibson assembly into the backbone of pIM145 in front of a Gal4 gene block (IDT), generating pRC12b.
+
+*** To generate a BAC vector containing UAS-GFP, the following cassette, 10 × UAS-IVS-Syn21-GFP p10 UTR, was excised from pJFRC81 (Addgene, 36432) with HindIII and FseI and ligated into pIM145. The resulting vector was pIM153.
+
+*** To generate a BAC vector containing UAS-SPA-GFP, aDrosophilacodon-optimized SPA-GFP was synthesized as a gBlock (IDT) and cloned by Gibson assembly (NEB) into pIM147 in place of GCaMP6s to generated pIM141.
+
+*** To generate ppk23-Gal4, a DNeasy Blood & Tissue kit (Qiagen) was used to purify wild-typeD. yakubagenomic DNA. First, 50 mg of flies were collected and snap-frozen in liquid nitrogen. Flies were ground to a fine powder using a mortar and pestle. Powder was transferred to a microcentrifuge tube and processed according to the DNeasy Blood & Tissue kit instructions. The resulting genomic DNA was used as a template for PCR amplification of the ppk23 promoter. The 2.7 kb promoter was cloned into pRC12B to generate pIM169.
+
+*** To generate a BAC vector containing a blue fluorescent marker for visualization, aDrosophilacodon-optimized mTagBFP2 was synthesized. Owing to the sequence complexity of mTagBFP2, it was designed as two overlapping gBlocks (IDT) and included a portion of the ie1 promoter for seamless assembly into the destination vector. mTagBFP2 was cloned by Gibson assembly (NEB) into pIM148 in place of mCherry to generate pIM149.
+
+*** Two single guide RNAs (sgRNAs) were designed to direct Cas9-mediated cleavage to the first exon and 3′ UTR of theppk23gene locus inD. yakuba. gRNA off-target potential was determined using CRISPR optimal target finder (http://tools.flycrispr.molbio.wisc.edu/targetFinder/index.php). sgRNA sequences, sgRNA1 CATCGGTGCGGTCACCGCAC and sgRNA2 GTGTTGCATACTTAGCGGCG, were PCR amplified with Q5 High-Fidelity master mix (NEB) and cloned into pCFD4 (Addgene, 49411) by Gibson assembly (NEB). The resulting vector was pIM179. pIM148 was digested with HpaI and SmaI to liberate ie1p mCherry p10 UTR. The mCherry cassette was then ligated to pDsRed-attP (Addgene, 51019) which was digested with AgeI and BsiWI to remove the 3 × P3-DsRed cassette then Klenow end-filled. This generated pIM174. The 1 kb homology arms beginning at the predicted Cas9 cut sites inppk23were PCR amplified with Q5 High-Fidelity master mix (NEB) and cloned into pIM174. The resulting vector was pIM175. A cocktail of pIM179, pIM175 and Cas9 protein was injected into wild-typeD. yakubaembryos by Rainbow Transgenic Flies using standard injection procedures. Viable G0 flies were mated to wild-type male or virgin female flies. F1 progeny were screened visually by mCherry expression. mCherry-positive F1s were individually crossed to wild-type male or virgin female flies then killed for genomic DNA. Deletion ofppk23was confirmed in mCherry-positive F1s by genotyping using primers internal to and flanking the targeted genomic region. PCR products from genotyping were sequenced to verify the exact genome modification. mCherry-positive F2s from sequence-verified F1s were self-mated and mCherry-positive F3 virgin females were genotyped by non-lethal methods to identify females homozygous forppk23deletion. As theppk23locus is on the X chromosome, virgin females homozygous for theppk23null mutation were then mated to males hemizygous for the mutation to produce a stable line.
+
+*** Two sgRNAs were designed to direct Cas9-mediated cleavage to the first exon and 3′ UTR of the ppk25 gene locus inD. yakuba. gRNA off-target potential was determined using CRISPR optimal target finder. sgRNA sequences, sgRNA1 GUCGGUCGAUGCAACCGGAC and sgRNA2 UAAACUUAACAACAUCGGAG, were synthesized from Synthego. The 1 kb homology arms beginning at the predicted Cas9 cut sites in ppk25 were ordered as gBlocks from IDT. The ppk25 start code in the 5′ homology arm was mutated from ATG to TTG. The homology arms were cloned sequentially into pIM174 by Gibson assembly. The resulting vector was pIM188. A cocktail of pIM188, sgRNA1, sgRNA2 and Cas9 protein was injected into wild-typeD. yakubaembryos by Rainbow Transgenic Flies using standard injection procedures. Viable G0 flies were mated to wild-type male or virgin female flies. F1 progeny were screened visually by mCherry expression. mCherry-positive F1s were individually crossed to wild-type male or virgin female flies then killed for genomic DNA. Deletion of ppk25 was confirmed in mCherry-positive F1s by genotyping using primers internal to and flanking the targeted genomic region. PCR products from genotyping were sequenced to verify exact genome modification. mCherry-positive F2s from sequence-verified F1s were self-mated and mCherry-positive F3 virgin females and males were genotyped by non-lethal methods to identify flies homozygous for ppk25 deletion.
+
+*** Two sgRNAs were designed to target 22 bp downstream of the start codon (sgRNA1) and 392 bp (sgRNA2) downstream of the stop codon ofD. yakuba Or67d, removing a total of 1,783 bp of endogenous DNA. Off-targets were determined using CRISPR optimal target finder. sgRNA1 (GACUUUACGAAAGCGCUCCA) and sgRNA2 (ACUGCUGCUGUCCAAAGGAG) were synthesized by Synthego. A 1,035 bp 5′ homology arm was amplified fromD. yakubagenomic DNA using Q5 High-Fidelity master mix (NEB) and cloned into pIM174 using XmaI and NdeI restriction enzymes. A 1,174 bp 3′ homology arm of was amplified fromD. yakubagenomic DNA using Q5 High-Fidelity master mix (NEB) and cloned into pIM174 using AvrII and XhoI restriction enzymes. The resulting vector was pGK1. A cocktail of pGK1, sgRNA1/2 and Cas9 protein was injected into wild-typeD. yakubaembryos by Rainbow Transgenic Flies using standard injection procedures. Viable G0 flies were mated to wild-type male or virgin female flies. Progeny were screened, mated and genotyped as described for other mutants to produce a stable line.
+
+*** Adult brains were dissected in Schneider’s media (Sigma) then immediately transferred to cold 1% PFA (Electron Microscopy Sciences) and fixed overnight at 4 °C. Following overnight incubation samples were washed in PAT3 buffer (0.5% BSA/0.5% Triton/PBS pH 7.4) three times. Brains were blocked in 3% Normal Goat Serum for 90 min at room temperature. Primary antibodies 1:1,000 chicken anti-GFP (Abcam, ab13970), 1:50 mouse anti-brp (Developmental Studies Hybridoma Bank nc82), 1:2,000 rabbit anti-FruM(generated for this study by YenZyme against a synthesized peptide: HYAALDLQTPHKRNIETDV70) and 1:500 guinea pig anti-FruM(gift from D. Yamamoto, Tohoku University) were incubated for 3 h at room temperature then for 2–3 d at 4 °C. Brains were washed extensively in PAT3 buffer. Secondary Alexa Fluor antibodies (Life Technologies) were incubated for 3 h at room temperature then for 2–3 d at 4 °C. Brains were washed three times in PAT3 buffer then once in PBS. Samples were mounted in Vectashield (Vector Laboratories). Images were captured on a Zeiss LSM 880 using a Plan-Apochromat ×20 (0.8 numerical aperture) objective.
+
+*** Leg images were taken using the native fluorescence of animals expressing UAS-CD8::GFP (insertion no. 2). Animals were aged approximately 3–5 days and legs were mounted in Vectashield and femurs stabilized using ultraviolet glue. Images were taken at ×25 with ×1.6 digital zoom.
+
+*** For analysis of P1 projections, images were registered to the JRC2018M template brain using the Computational Morphometry Toolkit (https://www.nitrc.org/projects/cmtk/) and P1 neurons were segmented in VVD Viewer (https://github.com/JaneliaSciComp/VVDViewer).
+
+*** All single choice assays were conducted at 25 °C, 50–65% relative humidity between 0 and 3 h after lights on. Male flies were collected shortly after eclosion and group housed for 4–7 days before assay. Target virgin females were 4–7 days post-eclosion. Assays were performed in 38-mm-diameter, 3-mm-height circular, slope-walled chambers in a 4 × 4 array back-lit using a white light pad (Logan Electric). Fly behaviour was recorded from above the chambers using a PowerShot SX620 camera (Canon) or Point Grey FLIR Grasshopper USB3 camera (GS3-U3-23S6M-C: 2.3 MP, 162 FPS, Sony IMX174, Monochrome). A virgin female was transferred to the chamber by mouth aspiration followed by a test male. Once the male was loaded into the chamber the assay commenced and the activity of the flies was recorded for 10 min. Note that courtship assays in the light were not conducted on food to avoid flies copulating too quickly under these conditions. In the absence of food, females generally move much quicker. This results in shorter male courtship bouts, probably explaining the difference in bout lengths observed between males in the dark on food compared with males in the light off food (that is, bouts were generally longer in the dark when on food).
+
+*** Courtship assays performed in the dark were conducted at 25 °C, 50–65% relative humidity between 0 and 3 h after lights on. Male flies were collected shortly after eclosion and group housed for 4–7 days before assay. Target virgin females were 4–7 days old. Assays were performed on food in 35 × 10 mm2Petri Dishes (Falcon). Females were transferred to the chamber by mouth aspiration followed by a test male. Once the male was loaded into the chamber the assay commenced and the activity of the flies was recorded for 3 h. The extended recording period was necessary due to the lengthy latency to courtship initiation in the dark, where males must discover females by chance. A manual observer recorded the time of courtship initiation for all videos, and the subsequent 10 min were used for analysis. Assays were back-lit by infrared light-emitting diode (LED) strips (940 nm, LED Lights World). Fly behaviour was recorded from above the chambers using a Point Grey FLIR Grasshopper USB3 camera (GS3-U3-23S6M-C: 2.3 MP, 162 FPS, Sony IMX174, Monochrome) using the Flycapture2 Software Development Kit (v.2.13.3.61) (FLIR).
+
+*** For all behavioural experiments, variance was assessed by preliminary study and predetermined sample size were chosen. Collection of experimental and control animals was randomized with roughly equal numbers collected on the same days. Courtship was scored either by automated tracking using machine vision (Matlab, FlyTracker, Caltech) or manually by an observer blind to the experimental set-up (for example, species, genotype, perfume-treatment). For manual analysis orienting, wing extension, chasing, mounting and copulation were used to score courtship behaviour. To facilitate plotting on a log scale all 0 values were changed to 0.1. For automated courtship scoring, an 8 mm IFD threshold was found to most accurately capture the courtship bouts scored by the blind observer, producing the lowest number of false positives and negatives. Unfortunately, variations in the food and/or infrared lighting meant that for approximately half of the videos collected we could not obtain high-quality tracking data. Thus, we opted to track a random subset, that is, the first 12 consecutive courting pairs from which quality tracking was possible. This provides a representative visual assessment of courtship dynamics, whereas the complete dataset of all courting pairs was scored manually by blinded observer. Extended Data Fig.1illustrates that although IFD tracking and manually scored datasets differed in the absolute quantity of courtship scored, the overall trends in the data were consistent. However, because false detections in the automatically scored data compress the dynamic range of the data, we believe that bout length is the most sensitive indicator of pheromone-dependent courtship in assays conducted in the dark, effectively capturing a male’s ability to persistently pursue a female, guided by ongoing pheromonal feedback. Consequently, bout length scored by a blinded observer is used in all figures. The only exceptions to using this metric throughout our study are: (1) in the initial analysis of courtship in the dark (Fig.1), where automatically quantified IFD is compared with these manually scored courtship metrics (Extended Data Fig.1) before selecting blinded, manually scored bout length as the most accurate; (2) in the optogenetic analysis of P1 subtypes inD. melanogasterandD. yakuba, for which it was important to provide a more granular description of courtship dynamics (Fig.4a,band Extended Data Figs.6a,band7), and thus JAABA (Janelia) behavioural classifiers were employed to quantify courtship pursuit and song; and (3) in the extended data, where in addition to bout length, more common measurements of courtship (for example, latency to court, total percentage time courting) were plotted to provide a comprehensive view (Extended Data Figs.3b–d,4band8a,c,d,f,g).
+
+*** Oenocyte ablation was performed genetically by crossing male +;PromE(800)-Gal4, tub-Gal80TS;+ flies to female +;UAS-StingerII, UAS-hid/CyO;+ at 18 °C. Newly eclosed virgin females were collected and kept at 25 °C for 1 d. Females were then shifted to 30 °C for 2 d and then allowed to recover at 25 °C for 2 d before use in experiments. Females were screened for GFP expression to confirm oenocyte ablation12.
+
+*** Mock, 7-T and 7,11-HD perfuming of oe−orD. yakubafemales was performed by adding heptane, 2 µg of 7-T or 2 µg of 7,11-HD (Cayman Chemicals), respectively, to 1 ml of heptane in a 32 mm scintillation vial (ThermoScientific). A vacuum was then applied to evaporate the heptane from the vial. We added 5–8 flies to each vial and vortexed at low speed for 30 s, three times. cVA perfuming was perfumed by dissolving cVA to a concentration of 5 mg ml−1in ethanol. Then, 0.5 µl was then applied directly to each fly’s abdomen by pipette. All flies were returned to food to recover for at least 1 h before experimentation.
+
+*** For photoactivation experiments fruGal4was used to express SPA-GFP. Photoactivation was performed on adult flies aged 24–48 h after eclosion. Brains were imaged at 925 nm to identify suitable sites for photolabeling while not stimulating photoconversion. Using PrairieView, a region of interest (ROI) was then drawn around projections unique to the cell type of interest and photoconversion was stimulated in a singlez-plane by brief exposure of the ROI to 710 nm laser light. Power was 5–35 mW at the back aperture of the objective, depending on the depth of the neurite being converted. This process was repeated 50–100 times, interposed with rests to allow for diffusion of the photoconverted molecules, until the cell type of interest was uniformly above background levels of fluorescence.
+
+*** All imaging experiments were performed on an Ultima two-photon laser scanning microscope (Bruker) equipped with galvanometers driving a Chameleon Ultra II Ti:Sapphire laser. Emitted fluorescence was detected with GaAsP photodiode (Hamamatsu) detectors. All images were collected using PrairieView Software (v.5.5) at 512 × 512 pixel resolution. Fluorescence time-series were extracted using FIJI (v.2.14.0/1.54f). Ventral nerve cord and LPC preparations were performed as previously reported13,19. For all imaging experiments, the presentation order of female or male stimuli was randomized and the strongest responding stimulus was presented again the end of an experiment to confirm the continued health of experimental male. Sample sizes were not predetermined.
+
+*** For theD. yakubaP1 imaging, ‘splitP1’ (71G01-AD 15A01-DBD intersection) had to be used rather than 71G01-Gal4 because this line was weak and bleached before an experiment could be completed. These splitP1 animals showed inter-animal variability in responses. Only about 1 in 5 (5 of 27) animals exhibited P1 responses to conspecifics, although in responding animals the responses were uniform and predictably evoked each time a male tapped a conspecific female (as shown in Fig.2). We discovered this probably resulted from stochastic labelling of the Fru−Dsx+P1 subset. Specifically, splitP1 predominantly labels Fru+P1 neurons, and labels 2–3 Fru−Dsx+neurons in only some animals, as previously found inD. melanogaster65. Indeed, when we subsequently imaged Dsx∩P1 (71G01-DBD dsx-AD intersection), no inter-animal variability was observed and all animals responded to conspecifics with each tap. The same was found to be true when imaging for all Dsx+projections in the LPC. Therefore, for simplicity and understanding we have presented just respondingD. yakubasplitP1 males in Fig.2b.
+
+*** For each GCaMP recording, an ROI was drawn in the LPC neuropil where axonal projections are densest for P1 (indicated in Fig.2a) or in the ventral nerve cord neuropil where Ppk23+neurons have their sensory afferents (indicated in Fig.3a). For all experiments, 3–5 s were recorded before the stimulus presentation to create a baseline. Twenty frames (approximately 2 s) of this pre-stimulus period were then averaged to determine baseline fluorescence (F0), and ∆F/F0was calculated as ΔFt/F0= (Ft−F0)/F0, wheretdenotes the current frame.
+
+*** Optogenetic assays were performed in a 38 mm diameter, 3 mm height circular chamber with sloping walls. The chamber was placed in the middle of a 3-mm-thick acrylic sheet suspended on aluminium posts above a 3 × 4 array of 627 nm LEDs (Luxeon Star LEDs). LEDs were attached to metal heat sinks (Mouser Electronics) which were secured at 5 cm intervals to a 30 × 30 cm2aluminium wire cloth sheet (McMaster-Carr). LEDs were driven by Recom Power RCD-24-0.70/W/X2 drivers, which were powered by a variable DC power supply. Infrared LED strips (940 nm, LED Lights World) attached to the wire cloth between the heat sinks provided back-illumination of the platform. LED strips were covered with 071 Tokyo blue filter (Lee Filters) to remove potential activating light emitted from the illumination source. LED drivers were controlled by the output pins of an Arduino running custom software. Fly behaviour was monitored from above the chamber using a Point Grey FLIR Grasshopper USB3 camera (GS3-U3-23S6M-C: 2.3 MP, 162 FPS, Sony IMX174, Monochrome) outfitted with 071 Tokyo blue filter (Lee Filters) to avoid detection of light from the high-power LEDs. Flies were recorded at 30 frames per second. Custom software was used for data acquisition and instrument control during assays. Light intensity was measured with a photodiode power sensor (Coherent, 1212310) placed at the location of the behavioural chamber. The peak wavelength of the LED (627 nm) was measured across a range of voltage inputs. Measurements were repeated three times and averaged. The baseline intensity before LED illumination was subtracted.
+
+*** Flies were reared on standard SY food in the dark at 25 °C and 50–65% relative humidity. P1>UAS-CsChrimson and UAS-CsChrimson control male flies were collected shortly after eclosion, group housed for 3 d, then shifted to food containing 0.4 mM alltrans-retinal (Sigma) for 48 h before being assayed. ppk23-Gal4>UAS-CsChrimson and UAS-CsChrimson control male flies were collected shortly after eclosion, group housed for 3 d, then shifted to food containing 0.4 mM alltrans-retinal for 24 h before being assayed. Fru∩P1>UAS-CsChrimson, Dsx∩P1>UAS-CsChrimson and UAS-CsChrimson control males were collected shortly after eclosion, grouped housed for 2 d and then shifted to food containing 0.4 mM alltrans-retinal for 24 h (Fru∩P1) or 48 h (Dsx∩P1) before being assayed. Target virgin females were 4–6 d old. Flies were added to a 38 mm diameter, 3 mm height circular courtship chamber by mouth aspiration. Once a male was transferred to a courtship chamber containing a virgin female, the assay commenced and the activity of the flies was recorded for 10 min. Neurons expressing CsChrimson were activated by 627 nm wavelength LED stimulation. To activate splitP1 (w; 71G01-AD/+; 15A01-DBD/UAS-CsChrimson) neurons inD. yakubathe following stimulation protocol was used: 2 min dim white light followed by 2 min 627 nm LED (5 Hz, 100 ms pulse-width, 10 µW mm−2) alternating for 10 min total. For activation of P1 (UAS-CsChrimson::tdTomato/+; 71G01-Gal4/+) neurons inD. erectathe stimulation protocol was: 2 min dim white light followed by 2 min 627 nm LED (5 Hz, 100 ms pulse-width, 3.4 µW mm−2) alternating for 10 min total. To activate Ppk23+neurons inD. yakubathe following stimulation protocol was used: 2 min dim white light followed by 2 min 627 nm LED (5 Hz, 100 ms pulse-width, 8 µW mm−2) alternating for 10 min total. All assays were conducted at 25 °C, 50–65% relative humidity between 0 and 3 h after lights on. To activate Fru∩P1 and Dsx∩P1 neurons inD. yakubathe following stimulation protocol was used: 2 min dim white light followed by 2 min 627 nm LED (5 Hz, 100 ms pulse-width, 14 µW mm−2for Fru∩P1 and 37 µW mm−2for Dsx∩P1) alternating for 10 min total. The 48 h retinol stimulation protocol was used inD. melanogastermales for each P1 population, and the light intensity used was 3.4 µW mm−2. A blinded observer scored orienting, wing extension, chasing, mounting and copulation to quantify courtship behaviour for the purposes of calculating overall courtship indices. To quantify dynamic behaviours, videos were tracked using FlyTracker (Caltech). Behavioural classifiers for courtship pursuit behaviour (consisting or orienting towards the female and moving towards her) and unilateral wing extensions were then trained using JAABA (Janelia) in each species.
+
+*** Statistical analyses were performed in GraphPad Prism 9. Before analysis, normality was tested for using the Shapiro–Wilk method for determining whether parametric or non-parametric statistical tests would be used. In cases for which multiple comparisons were made, appropriate post hoc tests were conducted as indicated in the figure legends. All statistical tests used were two-tailed. Experimenters were blind to experimental conditions during analysis.
+
+*** Further information on research design is available in theNature Portfolio Reporting Summarylinked to this article.
+
+*** All data underlying this study are available upon request from the corresponding author.Source dataare provided with this paper.
+
+*** All code used to analyse and present data in this study is available on request from the corresponding author.
+
+*** Cobb, M. & Ferveur, J.-F. Evolution and genetic control of mate recognition and stimulation inDrosophila.Behav. Process.35, 35–54 (1996).
+
+*** Google Scholar
+
+*** Spieth, H. T. Courtship behavior inDrosophila.Annu. Rev. Entomol.19, 385–405 (1974).
+
+*** CASGoogle Scholar
+
+*** Khallaf, M. A. et al. Large-scale characterization of sex pheromone communication systems inDrosophila.Nat. Commun.12, 4165 (2021).
+
+*** ADSCASPubMed CentralGoogle Scholar
+
+*** Oteiza, P. & Baldwin, M. W. Evolution of sensory systems.Curr. Opin. Neurobiol.71, 52–59 (2021).
+
+*** CASGoogle Scholar
+
+*** Bear, D. M., Lassance, J.-M., Hoekstra, H. E. & Datta, S. R. The evolving neural and genetic architecture of vertebrate olfaction.Curr. Biol.26, R1039–R1049 (2016).
+
+*** CASPubMed CentralGoogle Scholar
+
+*** Julius, D. & Nathans, J. Signaling by sensory receptors.Cold Spring Harb. Perspect. Biol.4, a005991 (2012).
+
+*** PubMed CentralGoogle Scholar
+
+*** Roberts, R. J. V., Pop, S. & Prieto-Godino, L. L. Evolution of central neural circuits: state of the art and perspectives.Nat. Rev. Neurosci.https://doi.org/10.1038/s41583-022-00644-y(2022).
+
+*** Zhao, Z. & McBride, C. S. Evolution of olfactory circuits in insects.J. Comp. Physiol. A206, 353–367 (2020).
+
+*** Google Scholar
+
+*** Smadja, C. & Butlin, R. K. On the scent of speciation: the chemosensory system and its role in premating isolation.Heredity102, 77–97 (2009).
+
+*** CASGoogle Scholar
+
+*** Rosenthal, G. G. Evaluation and hedonic value in mate choice.Curr. Zool.64, 485–492 (2018).
+
+*** PubMed CentralGoogle Scholar
+
+*** Jallon, J.-M. & David, J. R. Variations in cuticular hydrocarbons among the eight species of theDrosophila melanogastersubgroup.Evolution41, 294–302 (1987).
+
+*** Google Scholar
+
+*** Billeter, J.-C., Atallah, J., Krupp, J. J., Millar, J. G. & Levine, J. D. Specialized cells tag sexual and species identity inDrosophila melanogaster.Nature461, 987–991 (2009).
+
+*** ADSCASGoogle Scholar
+
+*** Seeholzer, L. F., Seppo, M., Stern, D. L. & Ruta, V. Evolution of a central neural circuit underliesDrosophilamate preferences.Nature559, 564–569 (2018).
+
+*** ADSCASPubMed CentralGoogle Scholar
+
+*** Ferveur, J.-F. Cuticular hydrocarbons: their evolution and roles inDrosophilapheromonal communication.Behav. Genet.35, 279–295 (2005).
+
+*** Google Scholar
+
+*** Shirangi, T. R., Dufour, H. D., Williams, T. M. & Carroll, S. B. Rapid evolution of sex pheromone-producing enzyme expression inDrosophila.PLoS Biol.7, e1000168 (2009).
+
+*** PubMed CentralGoogle Scholar
+
+*** Pool, J. E. & Aquadro, C. F. History and structure of sub-Saharan populations ofDrosophila melanogaster.Genetics174, 915–929 (2006).
+
+*** CASPubMed CentralGoogle Scholar
+
+*** Hoopfer, E. D., Jung, Y., Inagaki, H. K., Rubin, G. M. & Anderson, D. J. P1 interneurons promote a persistent internal state that enhances inter-male aggression inDrosophila.eLife4, 2700 (2015).
+
+*** Google Scholar
+
+*** Kimura, K.-I., Hachiya, T., Koganezawa, M., Tazawa, T. & Yamamoto, D. Fruitless and doublesex coordinate to generate male-specific neurons that can initiate courtship.Neuron59, 759–769 (2008).
+
+*** CASGoogle Scholar
+
+*** Clowney, E. J., Iguchi, S., Bussell, J. J., Scheer, E. & Ruta, V. Multimodal chemosensory circuits controlling male courtship inDrosophila.Neuron87, 1036–1049 (2015).
+
+*** CASPubMed CentralGoogle Scholar
+
+*** Kallman, B. R., Kim, H. & Scott, K. Excitation and inhibition onto central courtship neurons biasesDrosophilamate choice.eLife4, e11188 (2015).
+
+*** PubMed CentralGoogle Scholar
+
+*** Kohatsu, S., Koganezawa, M. & Yamamoto, D. Female contact activates male-specific interneurons that trigger stereotypic courtship behavior inDrosophila.Neuron69, 498–508 (2011).
+
+*** CASGoogle Scholar
+
+*** Pan, Y., Meissner, G. W. & Baker, B. S. Joint control ofDrosophilamale courtship behavior by motion cues and activation of male-specific P1 neurons.Proc. Natl Acad. Sci. USA109, 10065–10070 (2012).
+
+*** ADSCASPubMed CentralGoogle Scholar
+
+*** Philipsborn, et al. Neuronal control ofDrosophilacourtship song.Neuron69, 509–522 (2011).
+
+*** Google Scholar
+
+*** Kohatsu, S. & Yamamoto, D. Visually induced initiation ofDrosophilainnate courtship-like following pursuit is mediated by central excitatory state.Nat. Commun.6, 6457 (2015).
+
+*** ADSCASGoogle Scholar
+
+*** Sten, T. H., Li, R., Otopalik, A. & Ruta, V. Sexual arousal gates visual processing duringDrosophilacourtship.Nature595, 549–553 (2021).
+
+*** ADSGoogle Scholar
+
+*** Roemschied, F. A. et al. Flexible circuit mechanisms for context-dependent song sequencing.Naturehttps://doi.org/10.1038/s41586-023-06632-1(2023).
+
+*** Agrawal, S., Safarik, S. & Dickinson, M. The relative roles of vision and chemosensation in mate recognition ofDrosophila melanogaster.J. Exp. Biol.217, 2796–2805 (2014).
+
+*** Google Scholar
+
+*** Boll, W. & Noll, M. TheDrosophilaPox neuro gene: control of male courtship behavior and fertility as revealed by a complete dissection of all enhancers.Development129, 5667–5681 (2002).
+
+*** CASGoogle Scholar
+
+*** Bastock, M. & Manning, A. The courtship ofDrosophila melanogaster.Behaviour8, 85–111 (1955).
+
+*** Google Scholar
+
+*** Hardeland, R. Species differences in the diurnal rhythmicity of courtship behaviour within theMelanogastergroup of the genusDrosophila.Anim. Behav.20, 170–174 (1972).
+
+*** CASGoogle Scholar
+
+*** Lin, H., Mann, K. J., Starostina, E., Kinser, R. D. & Pikielny, C. W. ADrosophilaDEG/ENaC channel subunit is required for male response to female pheromones.Proc. Natl Acad. Sci. USA102, 12831–12836 (2005).
+
+*** ADSCASPubMed CentralGoogle Scholar
+
+*** Toda, H., Zhao, X. & Dickson, B. J. TheDrosophilafemale aphrodisiac pheromone activatesppk23+sensory neurons to elicit male courtship behavior.Cell Rep.1, 599–607 (2012).
+
+*** CASGoogle Scholar
+
+*** Shahandeh, M. P., Brock, C. & Turner, T. L. Light dependent courtship behavior inDrosophila simulansandD. melanogaster.PeerJ8, e9499 (2020).
+
+*** PubMed CentralGoogle Scholar
+
+*** Jezovit, J. A., Levine, J. D. & Schneider, J. Phylogeny, environment and sexual communication across theDrosophilagenus.J. Exp. Biol.220, 42–52 (2017).
+
+*** Google Scholar
+
+*** Fan, P. et al. Genetic and neural mechanisms that inhibitDrosophilafrom mating with other species.Cell154, 89–102 (2013).
+
+*** CASGoogle Scholar
+
+*** Yu, J. Y., Kanai, M. I., Demir, E., Jefferis, G. S. X. E. & Dickson, B. J. Cellular organization of the neural circuit that drivesDrosophilacourtship behavior.Curr. Biol.20, 1602–1614 (2010).
+
+*** CASGoogle Scholar
+
+*** Thistle, R., Cameron, P., Ghorayshi, A., Dennison, L. & Scott, K. Contact chemoreceptors mediate male-male repulsion and male-female attraction duringDrosophilacourtship.Cell149, 1140–1151 (2012).
+
+*** CASPubMed CentralGoogle Scholar
+
+*** Lu, B., LaMora, A., Sun, Y., Welsh, M. J. & Ben-Shahar, Y. ppk23-Dependent chemosensory functions contribute to courtship behavior inDrosophila melanogaster.PLoS Genet.8, e1002587 (2012).
+
+*** CASPubMed CentralGoogle Scholar
+
+*** Starostina, E. et al. ADrosophilaDEG/ENaC subunit functions specifically in gustatory neurons required for male courtship behavior.J. Neurosci.32, 4665–4674 (2012).
+
+*** CASPubMed CentralGoogle Scholar
+
+*** Ahmed, O. M. et al. Evolution of mechanisms that control mating inDrosophilamales.Cell Rep.27, 2527–2536.e4 (2019).
+
+*** CASPubMed CentralGoogle Scholar
+
+*** Tosches, M. A. Developmental and genetic mechanisms of neural circuit evolution.Dev. Biol.431, 16–25 (2017).
+
+*** CASGoogle Scholar
+
+*** Asahina, K. Sex differences inDrosophilabehavior: qualitative and quantitative dimorphism.Curr. Opin. Physiol.6, 35–45 (2018).
+
+*** PubMed CentralGoogle Scholar
+
+*** van der Goes van Naters, W. & Carlson, J. R. Receptors and neurons for fly odors inDrosophila.Curr. Biol.17, 606–612 (2007).
+
+*** PubMed CentralGoogle Scholar
+
+*** Sten, T. H., Li, R., Hollunder, F., Eleazer, S. & Ruta, V. Male-male interactions shape mate selection inDrosophila. Preprint atbioRxivhttps://doi.org/10.1101/2023.11.03.565582(2023).
+
+*** Symonds, M. R. E. & Elgar, M. A. The evolution of pheromone diversity.Trends Ecol. Evol.23, 220–228 (2008).
+
+*** Google Scholar
+
+*** Brovkina, M. V., Duffié, R., Burtis, A. E. C. & Clowney, E. J. Fruitless decommissions regulatory elements to implement cell-type-specific neuronal masculinization.PLoS Genet.17, e1009338 (2021).
+
+*** CASPubMed CentralGoogle Scholar
+
+*** Brovero, S. G. et al. Investigation ofDrosophila fruitlessneurons that express Dpr/DIP cell adhesion molecules.eLife10, e63101 (2021).
+
+*** CASPubMed CentralGoogle Scholar
+
+*** Neville, M. C. et al. Male-specificfruitlessisoforms target neurodevelopmental genes to specify a sexually dimorphic nervous system.Curr. Biol.24, 229–241 (2014).
+
+*** CASPubMed CentralGoogle Scholar
+
+*** Meissner, G. W., Luo, S. D., Dias, B. G., Texada, M. J. & Baker, B. S. Sex-specific regulation of Lgr3 inDrosophilaneurons.Proc. Natl Acad. Sci. USA113, E1256–E1265 (2016).
+
+*** ADSCASPubMed CentralGoogle Scholar
+
+*** Ito, H. et al. Fruitless recruits two antagonistic chromatin factors to establish single-neuron sexual dimorphism.Cell149, 1327–1338 (2012).
+
+*** CASGoogle Scholar
+
+*** Vernes, S. C. Genome wide identification ofFruitlesstargets suggests a role in upregulating genes important for neural circuit formation.Sci. Rep.4, 4412 (2014).
+
+*** ADSPubMed CentralGoogle Scholar
+
+*** Demir, E. & Dickson, B. J.fruitlesssplicing specifies male courtship behavior inDrosophila.Cell121, 785–794 (2005).
+
+*** CASGoogle Scholar
+
+*** Rideout, E. J., Dornan, A. J., Neville, M. C., Eadie, S. & Goodwin, S. F. Control of sexual differentiation and behavior by thedoublesexgene inDrosophila melanogaster.Nat. Neurosci.13, 458–466 (2010).
+
+*** CASPubMed CentralGoogle Scholar
+
+*** Kimura, K.-I., Ote, M., Tazawa, T. & Yamamoto, D. Fruitless specifies sexually dimorphic neural circuitry in theDrosophilabrain.Nature438, 229–233 (2005).
+
+*** ADSCASGoogle Scholar
+
+*** Philipsborn, et al. Cellular and behavioral functions offruitlessisoforms inDrosophilacourtship.Curr. Biol.24, 242–251 (2014).
+
+*** Google Scholar
+
+*** Gerhart, J. & Kirschner, M. The theory of facilitated variation.Proc. Natl Acad. Sci. USA104, 8582–8589 (2007).
+
+*** ADSCASPubMed CentralGoogle Scholar
+
+*** Long, H. K., Prescott, S. L. & Wysocka, J. Ever-changing landscapes: transcriptional enhancers in development and evolution.Cell167, 1170–1187 (2016).
+
+*** CASPubMed CentralGoogle Scholar
+
+*** Chakraborty, M. & Jarvis, E. D. Brain evolution by brain pathway duplication.Philos. Trans. R. Soc. Lond. B Biol. Sci.370, 20150056 (2015).
+
+*** PubMed CentralGoogle Scholar
+
+*** Kebschull, J. M. et al. Cerebellar nuclei evolved by repeatedly duplicating a conserved cell-type set.Science370, eabd5059 (2020).
+
+*** CASPubMed CentralGoogle Scholar
+
+*** Jourjine, N. & Hoekstra, H. E. Expanding evolutionary neuroscience: insights from comparing variation in behavior.Neuron109, 1084–1099 (2021).
+
+*** CASGoogle Scholar
+
+*** Doi, M., Nemoto, T., Nakanishi, H., Kuwahara, Y. & Oguma, Y. Behavioral response of males to major sex pheromone component, (Z,Z)-5,25-hentriacontadiene, ofDrosophila ananassaefemales.J. Chem. Ecol.23, 2067–2078 (1997).
+
+*** CASGoogle Scholar
+
+*** Ding, Y. et al. Neural evolution of context-dependent fly song.Curr. Biol.29, 1089–1099.e7 (2019).
+
+*** Google Scholar
+
+*** Ding, Y. et al. Neural changes underlying rapid fly song evolution. Preprint atbioRxivhttps://doi.org/10.1101/238147(2017).
+
+*** Ye, D., Walsh, J. T., Junker, I. P. & Ding, Y. Changes in the cellular makeup of motor patterning circuits drive courtship song evolution in Drosophila.Curr. Biol.https://doi.org/10.1016/j.cub.2024.04.020(2024).
+
+*** Ishii, K., Wohl, M., DeSouza, A. & Asahina, K. Sex-determining genes distinctly regulate courtship capability and target preference via sexually dimorphic neurons.eLife9, e52701 (2020).
+
+*** CASPubMed CentralGoogle Scholar
+
+*** Download references
+
+*** We thank D. Stern for sharing severalD. yakubastocks; T. Hart and D. Kronauer for ie1 promoter DNA; M. Beye for hyperactive piggyBac transposase expression construct; B. Matthews and L. Seeholzer for technical advice; M. Khallaf for information on pheromone compounds produced across species; and D. Stern, B. Datta, B. Noro, J. Ouadah, A. Paul, T. Hindmarsh Sten, P. Brand, J. Rhee, A. Ryba and all the members of the Ruta laboratory for valuable discussion and comments on the manuscript. This work was supported by an NIH NINDS grant (5R35NS111611), the Simons Foundation Collaboration for the Global Brain to V.R., an NIH NIGMS grant (R35GM142678) to Y.D., and a Helen Hay Whitney Foundation Fellowship and an NIH NIGMS grant (K99GM141319) to R.T.C. V.R. is a Howard Hughes Medical Institute Investigator.
+
+*** Laboratory of Neurophysiology and Behavior, The Rockefeller University, New York, NY, USA
+
+*** Rory T. Coleman, Ianessa Morantte, Gabriel T. Koreman, Megan L. Cheng & Vanessa Ruta
+
+*** Howard Hughes Medical Institute, New York, NY, USA
+
+*** Rory T. Coleman, Ianessa Morantte, Gabriel T. Koreman, Megan L. Cheng & Vanessa Ruta
+
+*** Department of Biology, University of Pennsylvania, Philadelphia, PA, USA
+
+*** Yun Ding
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** R.T.C. and V.R. conceived of the project. R.T.C., I.M., G.T.K. and M.L.C. conducted and analysed experiments. R.T.C., I.M. and Y.D. designed transgenesis strategies and built neurogenetic reagents. R.T.C. and V.R. wrote the manuscript. All authors provided critical feedback and helped shape the research, analysis and manuscript.
+
+*** Correspondence toVanessa Ruta.
+
+*** The authors declare no competing interests.
+
+*** Naturethanks the anonymous reviewer(s) for their contribution to the peer review of this work.Peer reviewer reportsare available.
+
+*** Publisher’s noteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+*** a, Automated scoring of the samples plotted in Fig.1b. (Left) percent time pairs spent at IFD < 8 mm and (Right) average bout length at IFD < 8 mm after first interaction (eug) or after courtship initiation (all other species). Each data point represents the individual pairs shown in the heatmaps in Fig.1b(n = 12 each)b, (Top) Inter-fly distance (IFD) traces over time for a single representative pair ofD. simulansorD. yakubaas courtship proceeds. Comparison of manually confirmed courtship bouts with those estimated by IFD thresholding revealed that an IFD threshold of 8 mm most accurately replicated manual scoring, resulting in the lowest incidence of false positives and negatives. (Bottom) Courtship bouts approximated by IFD < 8 mm thresholding compared to manual scoring by a blinded observer. Red dotted lines indicate initiation of courtship.c,d, Comparison between the percent time courting and the average courtship bout length scored by automated IFD < 8 mm thresholding versus manually scored by a blinded observer for the same courting pairs across species (c) or forD. yakubamale courtship of oenocyte-less females perfumed with theD. yakubapheromone 7-T (d)(n = 12 each). Generally, IFD-thresholding overestimates the total amounts of courtship (due to incidental periods where flies are close but not courting) and underestimates the average courtship bout length (due to transient periods where the female moves away from the male but courtship continues), but captures the overall trends observed in samples manually scored by a blinded observer (Fig.1c, d). The samples analyzed here incare the same plotted in Fig.1band the samples analyzed indare the same plotted in Fig.1d(n = 10 each). All quantifications are of the 10 min period following courtship initiation. Data points represent individual males, bars are median. Statistics: Kruskal-Wallis tests (a). Letters denote statistically different groups (p < 0.05).
+
+*** Source Data
+
+*** a,b, Percent time courting prior to (Pre) or during (Stim) periods of optogenetic stimulation ofD. erecta(a; n = 10 each) orD. yakuba(b; n = 9 each) males expressing CsChrimson in P1 neurons (71G01>CsChrimson (a) or splitP1>CsChrimson (b)) or control animals (> CsChrimson) paired with aD. melanogasterfemale. Data points represent individual males. Statistics: Wilcoxon test (a,b). Asterisks: **P < 0.01, ns, not significant.
+
+*** Source Data
+
+*** a, CRISPR/Cas9 targeting strategy for the genetic deletion of theppk23locus and validation by PCR and ie1-mCherry marker expression.b,c,d, Percent time courting in the 10 min following courtship initiation, courtship latency, and courtship bout length ofppk23mutants relative to wildtype forD. melanogasterin the dark (b) andD. yakubamales in the light (c) or in the dark (d) (n = 20 each). Average Bout Lengths are re-plotted from Fig.3for reference.e, Representative bright field images and quantification showing expression of CD8::GFP (green) in the soma of the Ppk23+, Fru+, and Dsx+ sensory neurons in the foreleg tarsal segments ofD. melanogasterandD. yakubamales. Images are distal end up.f, (Left) Average functional responses (∆F/F0) aligned to time of a tap (as in Fig.3) of indicatedD. melanogaster(oe+ ctrl), mock-perfumed oenocyte-less (oe-), 7,11-heptacosadiene-perfumed (oe- +7,11-HD), 7-tricosene-perfumed (oe- +7-T), or cis-Vaccenyl acetate-perfumed (oe- +cVA) female of the foreleg sensory afferents and (Right) average peak response (∆F/F0) per male for a given female target (n = 5).g, Functional responses of Dsx+ neurons in the LPC (as in Fig.4d) inppk23mutant males (n = 6)). For behavioral tests (b-c), points represent individual males, bars are median. For anatomy (e), points represent individual forelegs, bars are mean ± SEM. For imaging (f,g), shading is mean ± SEM, points are individual males, error bars are mean ± SEM. Statistics: ANOVA with Tukey’s post-hoc (f,g) or unpaired Mann-Whitney (b-d). Letters denote statistically different groups (p < 0.05). Asterisks: **P < 0.01, ****P < 0.0001, ns, not significant.
+
+*** Source Data
+
+*** a,b, CRISPR/Cas9 targeting strategy for the genetic deletion of theppk25locus and validation by PCR (a) and courtship in the dark (as in Extended Data Fig.3) towardD. yakubafemales (b). Average courtship bout lengths are re-plotted from Fig.3for reference (n = 20).c, Replotting of sensory responses inD. yakubawildtype andppk23andppk25mutant males from Fig.3efor statistical comparison. For behavioral tests (b), points represent individual males, bars are median. For imaging (c), points are individual males, error bars are mean ± SEM. Statistics: Unpaired Mann-Whitney (b) or ANOVA with Tukey’s post-hoc (c). Letters denote statistically different groups (p < 0.05). Asterisks: ****P < 0.0001, ns, not significant.
+
+*** Source Data
+
+*** a, Diagram of the subdivision of the pC1 neurons by Dsx- (purple) and Fru-expression (red). Also noted is the subset of pC1 neurons captured by the P1-specific driver used in this study and the populations labeled through genetic intersection of this P1 driver with Dsx or Fru. Note that the labeled populations are not to scale, but precise neuron counts labeled in each intersection are provided in b-e.b-e, (Left) Unmasked images of Fru∩P1 and Dsx∩P1 neurons labeled by intersection of Fru (b,d) or Dsx (c,e) and the P1-driver 71G01 (Fru∩P1 and Dsx∩P1, respectively) inD. melanogasterandD. yakuba. Stained for GFP (green) and neuropil counterstain (magenta). (Right) Representative images of anti-Dsx (purple) and anti-Fru (red) staining used to count Dsx+ and Fru+ subsets and quantification of Dsx+ Fru∩P1 neurons and Fru+ Dsx∩P1 neurons within the Dsx+ pC1 cluster, based on anti-Dsx and anti-Fru immunostaining, respectively. Data points represent cell number in one hemisphere and both hemisphere counts are plotted separately (Sample sizes: mel Fru∩P1 n = 7; mel Dsx∩P1 n = 8; yak Fru∩P1 n = 7; yak Dsx∩P1 n = 5).f,g, Comparison of the projections of Fru∩P1 and Dsx∩P1 subpopulations across subtype (f) or across species (g). Heatmap (left) and skeletonized overlays (right) of the comparison groups. Regions of greatest difference across both subtype and species indicated (cyan triangle) and region of significant difference between Dsx∩P1 and Fru∩P1 inD. yakubanoted (yellow arrow). All images are dorsal side up.
+
+*** Source Data
+
+*** a,b, (Left) Maximum intensity projections of neurons labeled by intersection of Fru (a) or Dsx (b) and the P1-driver 71G01 (Fru∩P1 and Dsx∩P1, respectively) inD. melanogaster, registered to a common template brain (seemethods). (Middle) Averaged functional responses (∆F/F0) aligned to time of a tap of indicated conspecific or heterospecific female and average peak response (∆F/F0) per male for a given female target (n = 10 each). (Right) Average courtship bout length, total percent time pursuing, or total percent time extending a unilateral wing toward aD. suzukiifemale target prior to (Pre) or during (Stim) optogenetic stimulation of Fru∩P1>CsChrimson or Dsx∩P1>CsChrimson males and the fraction of flies engaging in these behaviors over the course of the experiment. (n = 10 each)c, Functional responses of the or Dsx+ neurons innervating the LPC where P1 neurons reside with or without fru-Gal80. (Left) Diagram of the P1/pC1 neural cluster illustrating the nested nature of the Fru+ contingent within the broader Dsx+ population. Green highlighting represents which subsets express GCaMP in the different genetic backgrounds (all Dsx+Fru- and Dsx+Fru+ pC1 neurons in dsx>GCaMP flies, but only the Dsx+Fru- subset in the dsx>GCaMP; fru-Gal80 flies). Also, representative images Dsx+ neural processes and somata expressing GCaMP (green) and counter-stained for Fru (red). Note the denser projections and the presence of Fru+ GCaMP+ somata in the dsx>GCaMP animals, which is absent in animals expressing fru-Gal80. (Right) Averaged functional responses (∆F/F0) aligned to time of a tap of indicated conspecific or heterospecific female and (Right) average peak response (∆F/F0) per male for a given female target. (Sample sizes: dsx>GCaMP n = 6; dsx>GCaMP;fru-Gal80 n = 7). For functional imaging (a-c), shading represents mean ± SEM. Points are individual males, error bars are mean ± SEM. For behavioral tests (a,b), points are individual males. Statistics: ANOVA with Tukey’s post-hoc (a-c) or Wilcoxon test (a,b). Letters denote statistically different groups (p < 0.05). Asterisks: *P < 0.05, **P < 0.01, ***P < 0.001.
+
+*** Source Data
+
+*** a-d, (Top) Raster plots of female pursuit (gray) or unilateral wing extension behaviors (UWE; red) exhibited upon optogenetic stimulation of Fru∩P1>CsChrimson (a,c) or Dsx∩P1>CsChrimson (b,d) males and the proportion of flies engaging in these behaviors over the course of the experiment inD. yakuba(a,b; n = 20 each) orD. melanogaster(c,d; n = 10 each). Dotted lines and areas of red shading indicate stimulation periods.
+
+*** Source Data
+
+*** a, Percent time aD. melanogasterorD. yakubamale spends courting one target over the other when presented a choice between a conspecific female and male or a conspecific female and a heterospecific female that shares the same pheromone profile (D. simulans) (n = 10 each).b, CRISPR/Cas9 targeting strategy for the genetic deletion of theOR67dlocus and validation by PCR.c, Average courtship bout lengths of a wildtype orOR67dmutantD. yakubamale directed toward anotherD. yakubamale (n = 20 each).d, Average courtship bout lengths of aD. yakubamale toward aD. yakubafemale mock perfumed or perfumed with 7-T, 7,11-HD, or cVA (n = 10 each).e, (Left) Averaged functional responses (∆F/F0) aligned to time of a tap ofD. yakubafemales perfumed as in c and average peak response (∆F/F0) per male for a given female target (n = 7).f,g, Average courtship bout lengths of a wildtype or deafened (arista removed)D. yakubamale directed toward anotherD. yakubamale (f; n = 20 each) or a wildtypeD. yakubamale toward a wildtype or muted (wings removed)D. yakubamale (g; intact n = 20, muted n = 18). h, Diagram summarizing the multisensory cues theD. yakubamales rely upon to mediate conspecific attraction and inhibit heterospecific and intrasexual courtship. For behavioral tests (a,c,d,f,g), points represent individual males, bars are median. For imaging (e), points are individual males, error bars are mean ± SEM. Statistics: Wilcoxon test (a,d), unpaired Mann-Whitney (c,f,g), or ANOVA with Tukey’s post-hoc (e). Letters denote statistically different groups (p < 0.05). Asterisks: *P < 0.05, ns, not significant.
+
+*** Source Data
+
+*** Phylogeny of Drosophila species (as in Fig.1) with previous reports of various species’ capacity to mate in the dark indicated34. Diagram inaadapted with permission from ref.3, Springer Nature Limited.
+
+*** a, Unmasked splitP1 > CD8::GFP expression in the brains ofD. melanogaster(left) andD. yakuba(right) males. Stained for GFP (cyan) and neuropil counterstain (gray).b, Dsx>CD8::GFP (magenta) expression in the brains ofD. melanogaster(left) andD. yakuba(right) males.c, (Top) Fru>CD8::GFP (green) expression, as in (b). (Middle and bottom) Photoactivation labeling of mAL (red) and vAB3 (grey), respectively, using Fru>SPA-GFP. All images are dorsal side up.
+
+*** This file contains tables with the experimental genotypes of all males (Supplementary Table 1) and all females (Supplementary Table 2) by figure.
+
+*** Detailed statistical analysis of all quantitative data by figure, including exactPvalues.
+
+*** Sample video excerpt of the courtship of aD. melanogasterfemale by aD. melanogastermale in the dark.
+
+*** Sample video excerpt of the courtship of aD. simulansfemale by aD. simulansmale in the dark.
+
+*** Sample video excerpt of the courtship of aD. yakubafemale by aD. yakubamale in the dark.
+
+*** Sample experimental video of optogenetic activation of Fru∩P1 neurons in aD. yakubamale toward aD. melanogasterfemale. Periods of red-light stimulation indicated by red dot.
+
+*** Sample experimental video of optogenetic activation of Dsx∩P1 neurons in aD. yakubamale toward aD. melanogasterfemale. Periods of red-light stimulation indicated by red dot.
+
+*** Sample video excerpt of wing flicking behaviour ofD. yakubamale when courted by aD. yakubamale.
+
+*** Open AccessThis article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visithttp://creativecommons.org/licenses/by-nc-nd/4.0/.
+
+*** Reprints and permissions
+
+*** Coleman, R.T., Morantte, I., Koreman, G.T.et al.A modular circuit coordinates the diversification of courtship strategies.Nature(2024). https://doi.org/10.1038/s41586-024-08028-1
+
+*** Download citation
+
+*** Received:18 October 2023
+
+*** Accepted:06 September 2024
+
+*** Published:09 October 2024
+
+*** DOI:https://doi.org/10.1038/s41586-024-08028-1
+
+*** Anyone you share the following link with will be able to read this content:
+
+*** Sorry, a shareable link is not currently available for this article.
+
+*** 
+
+*** Provided by the Springer Nature SharedIt content-sharing initiative
+

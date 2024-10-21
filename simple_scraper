@@ -1,0 +1,126 @@
+from bs4 import BeautifulSoup
+import requests
+from lxml import html
+import os
+
+
+def scrape_article_list(url, pages):
+    nested_next_urls = []
+    next_urls = []
+
+    for page in range(1, pages + 1):
+        try:
+            response = requests.get(f"{url}&page={page}")
+            response.raise_for_status()
+        except requests.RequestException as e:
+            print(f'Failed to retrieve {url} page {page}: {e}')
+            continue
+        
+        if not response.content:
+            print(f'No content to download from {url} page {page}')
+            continue
+
+        soup = BeautifulSoup(response.content, 'html.parser')
+        article_list_rows = soup.find_all('li', {'class': 'app-article-list-row__item'})
+
+        for row in article_list_rows:
+            open_access_element = row.find('span', class_='u-color-open-access')
+
+            if open_access_element == None:
+                continue
+
+            link = row.find('a', class_= "c-card__link u-link-inherit")
+            next_url = 'https://www.nature.com/nature' + link["href"]
+            next_urls.append(next_url)
+
+        nested_next_urls.append(next_urls)
+        next_urls = []
+    
+    return nested_next_urls
+        
+def scrape_article_content(url):
+    text = ""
+    exclude_classes_p = ['c-bibliographic-information__citation', 
+                       "Ack1-content",
+                       "c-article-references__text",
+                       "c-article-references__links u-hide-print"]
+    exclude_ids_div = ['data-availability-content', 
+                       'author-information-content',
+                       'ethics-content',
+                       'article-info-content']
+
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+    except requests.RequestException as e:
+        print(f'Failed to retrieve {url}: {e}')
+        return
+
+    if not response.content:
+        print(f'No content to download from {url}')
+        return
+    
+    soup = BeautifulSoup(response.content, 'html.parser')
+    article_sections = soup.find_all('div', {'class': 'c-article-section__content'})
+
+    for section in article_sections:
+        ids_div = section.get('id',[])
+        wrong_id = 0
+        
+        if ids_div:
+            for exclude_id in exclude_ids_div:
+                if exclude_id in ids_div:
+                    wrong_id = 1
+                    break
+                
+        if wrong_id:
+            continue
+        
+        paras = section.find_all("p")
+
+        for para in paras:
+            if para:  # Check if the paragraph exists
+                classes_p = para.get('class', [])
+                wrong_class = 0
+
+                if classes_p:
+                    for exclude_class_p in exclude_classes_p:
+                        if exclude_class_p in classes_p:
+                            wrong_class = 1
+                            break
+                
+                if wrong_class:
+                    continue
+                
+                text += "*** " + para.get_text(strip=True) + "\n" + "\n"
+            else:
+                pass
+                #print("No paragraph found in this section.")
+
+    return text
+
+        
+# Example usage:
+pages = 2
+url = 'https://www.nature.com/nature/research-articles?searchType=journalSearch&sort=PubDate&type=article&year=2024'  # Replace with the actual URL
+nested_article_urls = scrape_article_list(url, pages)
+
+folder_article_name = "scraped_articles"
+for i, page_article_urls in enumerate(nested_article_urls):
+        if not os.path.exists("scraped_articles"):
+            os.makedirs(folder_article_name)
+
+        print("On page:", i + 1)
+        for n, article_url in enumerate(page_article_urls):
+            print("     On article:", n + 1)
+
+            text = scrape_article_content(article_url)
+
+            folder_page_name = 'scraped_articles_page_' + str(i + 1)
+            if not os.path.exists(os.path.join(folder_article_name, folder_page_name)):
+                os.makedirs(os.path.join(folder_article_name, folder_page_name))
+            filename = os.path.join(folder_article_name, folder_page_name, 'article_' + str(i + 1) + "_" + str(n + 1) + '.txt')
+            with open(filename, 'w') as f:
+                f.write(text)
+
+

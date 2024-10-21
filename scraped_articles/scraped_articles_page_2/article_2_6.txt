@@ -1,0 +1,528 @@
+*** The movement of large amounts of nutrients by migrating animals has ecological benefits for recipient food webs1,2that may be offset by co-transported contaminants3,4. Salmon spawning migrations are archetypal of this process, carrying marine-derived materials to inland ecosystems where they stimulate local productivity but also enhance contaminant exposure5,6,7. Pacific salmon abundance and biomass are higher now than in the last century, reflecting substantial shifts in community structure8that probably altered nutrient versus contaminant delivery. Here we combined nutrient and contaminant concentrations with 40 years of annual Pacific salmon returns to quantify how changes in community structure influenced marine to freshwater inputs to western North America. Salmon transported tonnes of nutrients and kilograms of contaminants to freshwaters annually. Higher salmon returns (1976–2015) increased salmon-derived nutrient and contaminant inputs by 30% and 20%, respectively. These increases were dominated by pink salmon, which are short-lived, feed lower in marine food webs than other salmon species, and had the highest nutrient-to-contaminant ratios. As a result, the delivery of nutrients increased at a greater rate than the delivery of contaminants, and salmon inputs became more ecologically beneficial over time. Even still, contaminant loadings may represent exposure concerns for some salmon predators. The Pacific salmon example demonstrates how long-term environmental changes interact with nutrient and contaminant movement across large spatial scales and provides a model for exploring similar patterns with other migratory species9.
+
+*** Migratory animals that carry nutrients and organic matter from donor to recipient ecosystems (that is, spatial subsidies) strengthen transboundary ecological networks1,2,10,11. Anadromous fishes are particularly important to the coupling of marine and freshwater food webs in temperate aquatic systems12. Among them, the five species of semelparous Pacific salmon that return to freshwaters to spawn at the end of their life cycles—Chinook salmon (Oncorhynchus tshawytscha), chum salmon (Oncorhynchus keta), coho salmon (Oncorhynchus kisutch), pink salmon (Oncorhynchus gorbuscha) and sockeye salmon (Oncorhynchus nerka)—exemplify the delivery of subsidies obtained from marine food webs to inland systems hundreds to thousands of kilometres away from the oceans where they grew12,13.
+
+*** Pacific salmon accrue more than 95% of their biomass at sea and later deliver the energy and nutrients stored in their tissues as they release gametes, excrete, decompose, and are consumed by predators and scavengers in recipient food webs. These inputs of allochthonous material can influence aquatic and terrestrial systems by stimulating primary and secondary production, enhancing nutrient uptake in plant and animal tissues, increasing growth rates and sizes of resident consumers, and altering the phylogenetic dispersion of riparian plants5,13,14,15,16,17,18. Predators, adult aquatic insects, floods and subsurface flows extend the spatial influence of these subsidies to riparian and terrestrial food webs where they are subsequently used by organisms across trophic levels16. The ecological influence of salmon subsidies in recipient systems, as with all animal resource subsidies, are context-dependent and vary according to input quantity, quality, timing and duration, as well as the abiotic and food web characteristics of recipient systems5,9,12,15,17.
+
+*** Here we assessed the influence of the five species of Pacific salmon (that is, the salmon community) on the transport of marine-derived subsidies to continental North America and the potential implications of salmon-mediated changes in nutrient and contaminant transport resulting from community changes over a 40-year period from 1976 to 2015. Salmon-derived subsidies have been extensively studied by ecologists seeking to understand the importance of annual nutrient and organic matter inputs for the food webs that receive them1,5,13,14,19,20. Lesser studied are the co-transported persistent, bioaccumulative and toxic (PBT) contaminants and the ecological trade-offs between nutrients and contaminants (that is, the bright and dark sides of subsidies) that characterize modern-day Pacific salmon transport4,6,21. We examined these trade-offs by considering together the movement of nutrients and contaminants through the processes of bioaccumulation from marine food webs, long-range migratory transport and release to recipient ecosystems3. The suite of chemical constituents that we modelled are those that are commonly associated with Pacific salmon: the nutrients nitrogen (N), phosphorus (P) and beneficial omega-3 fatty acids eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), as well as the PBT contaminants mercury (Hg), polychlorinated biphenyls (PCBs), dichlorodiphenyltrichloroethanes (DDTs) and polybrominated diphenylethers (PBDEs). Our synthesis combines whole-fish estimates of these nutrients and contaminants with four decades of estimated Pacific salmon returns to North America for a spatially and temporally robust assessment of marine-derived inputs to inland ecosystems.
+
+*** We examined 40-year trends (1976–2015) in nutrient and contaminant transport defined by the upgradient migration of Pacific salmon from the eastern Pacific Ocean to freshwaters spanning western Alaska to northern California (Fig.1a,b). The median annual post-harvest return (that is, fish that escape fisheries and return to spawning grounds) of approximately 119 million Pacific salmon (Extended Data Table1) involved the transport of thousands of tonnes (t) of nutrients and kilograms (kg) of contaminants (Fig.1aand Extended Data Table2) for a summed estimate of 14,000 t yr−1. Accompanying the large annual inputs of macronutrients (9,000 t (8,100 to 9,900 t) of N and 1,100 t (950 to 1,500 t) of P; posterior median (95% credible interval)) were 2,300 t (1,200 to 4,700 t) of DHA and 1,600 t (920 to 3,100 t) of EPA. The median annual contaminant inputs were 0.20 kg (0.08 to 0.74 kg) of PBDEs, 1.6 kg (0.7 to 3.7 kg) of DDTs, 1.7 kg (1.0 to 2.7 kg) of PCBs and 7.0 kg (4 to 11 kg) of Hg (Extended Data Table2).
+
+*** a, The average annual trends in modelled estimates of Pacific salmon post-harvest return biomass (top, t yr−1), nutrient transport (middle, t yr−1) and contaminant transport (bottom, kg yr−1) from 1976 to 2015. The left column shows total estimates across species and the right column shows species-specific estimates. The trend lines represent posterior medians and the shaded areas represent the 75% posterior credible intervals. Estimates of salmon returns represent posterior distributions derived from a model fit ton= 800 observations. Estimates of nutrients and contaminants represent derived quantities from a Monte Carlo combination of the posterior distributions of salmon return and posterior distributions of each nutrient or contaminant model fit ton= 34, 37, 14, 14, 83, 69, 62 and 32 observations for N, P, DHA, EPA, Hg, PCBs, DDTs and PBDEs, respectively, and then summed.b, Map of North America showing the approximate geographical extents of post-harvest salmon returns.c, Examples of N and P flux by various animals and mechanisms (emergence, egg laying, excretion and migration). Superscript notes a (ref.9) and b (ref.25) indicate that the estimates were derived from previous syntheses.
+
+*** Pink, sockeye and chum salmon comprised more than 95% of the Pacific salmon in the Pacific Ocean8, with pink salmon alone accounting for more than half of total Pacific salmon post-harvest return abundance (median, 67 million fish per year; 56%) and the largest share of return biomass (112,000 t yr−1, 38%) (Extended Data Table1). Sockeye salmon (27 million fish per year and 72,000 t yr−1) and chum salmon (18 million fish per year and 72,000 t yr−1) also represented substantial proportions of total return abundance (22% and 15%, respectively) and biomass (25% and 26%, respectively). By contrast, coho salmon and Chinook salmon together accounted for approximately 5% and 10% of total return abundance and biomass, respectively, over time. Corresponding to their high return biomass, pink salmon transported the greatest proportion of nutrients and contaminants annually (~4,900 t yr−1, ~35% on average; Extended Data Table3). Chum and sockeye salmon contributed the second largest proportions of nutrients and contaminants (~3,700 t yr−1, ~26% for both species), with relatively minor inputs from Chinook and coho salmon (~6% and ~5%, respectively).
+
+*** Upgradient transport by Pacific salmon counters the physical, downstream transport of nutrients and contaminants from terrestrial to freshwater and marine ecosystems. The magnitudes of chemical transfer (that is, fluxes) by biological and physical mechanisms are on different scales—for example, estimates of annual dissolved inorganic N and Hg fluxes by rivers to the eastern North Pacific Ocean are greater than one and three orders of magnitude larger, respectively, than our estimates of Pacific salmon transport22,23(Supplementary Information)—yet are not directly comparable given that animals concentrate bioavailable forms of nutrients and contaminants in recipient ecosystems3, whereas physical fluxes are dominated by inorganic compounds that become diluted as they enter coastal and open ocean habitats24. Increasing recognition of the ecological importance and budget contributions of biological fluxes has helped advance the study of resource subsides since the 1990s9,20. Estimates of Pacific salmon N and P transport from this study are among the largest documented contributions of biological vectors to large scale nutrient distribution9,25(Fig.1c); we lack analogous comparisons for paired nutrient and contaminant fluxes.
+
+*** Owing to their broad geographical ranges, long-distance migrations and complex life-cycles, Pacific salmon are vulnerable to multiple anthropogenic and environmental pressures that have altered their numerical abundances, relative abundances among species and body sizes8,19,26. Recent work to construct time series of Pacific salmon abundances and biomasses in the North Pacific Rim shows that populations of pink salmon, sockeye salmon and chum salmon are larger now than they have been in recorded history, with modern increases corresponding to the 1977 ocean regime shift and expanded hatchery production8,27. We modelled post-harvest return biomasses from estimated annual species-specific return abundances and fish sizes (as weight;Methods) to assess how ecological shifts in the Pacific salmon community altered marine-to-freshwater nutrient and contaminant delivery. We focused on the 40 year period between 1976 and 2015 to pair recent North Pacific Ocean abundance estimates8with the relevant time period for the four environmental contaminants (for example, commercial production of PBDEs began in the 1970s and they were detected in environmental media soon thereafter28). Our estimates showed that the total annual return biomass was approximately 75,000 t (32%) higher in 2015 than in 1976 (Extended Data Fig.1and Extended Data Table4). As a result, we estimated that the overall inputs of nutrients + contaminants increased by approximately 3,400 t (30%) at the continental scale, including increases of 293–2,254 t yr−1(23–32%) among nutrients and 0.04–1.1 kg yr−1(19–25%) among contaminants (Fig.1aand Extended Data Tables5and6). Variance partitioning from a sensitivity analysis indicated that mean individual fish weight explained <1% of these increases. Instead, return abundance and/or chemical concentration were the most important variables, explaining >80% of the variation in transport (Supplementary Fig.1). It is important to note that chemical concentrations were not available as time series, as many studies reported tissue concentrations averaged over multiple years and there were few data available over time within a single region or fish species. Thus, the contribution of chemical concentrations in the sensitivity analysis is driven by among-species variation (Supplementary Fig.1).
+
+*** Individual body sizes declined over time for all species (ranging from a 7% to 26% decline in coho and Chinook salmon, respectively; Extended Data Table4), yet the total delivery of nutrients and contaminants increased. This finding runs counter to recent research that estimated decreases in salmon-derived nutrients to freshwater systems in Alaska due to shrinking fish body size26. This discrepancy is primarily explained by the fact that Pacific salmon abundances increased in a manner that offset decreases in fish body size. In other words, Pacific salmon return abundance increased such that overall return biomass (abundance × body mass) increased by 32% (median) despite the decreases in individual fish weights reflecting altered marine growth patterns and age structures (that is, earlier maturation)8.
+
+*** Changes in the composition of the Pacific salmon community are mirrored by altered species-specific proportional influences over nutrient and contaminant transport (Fig.2). Contemporary increases in pink salmon return biomass (of approximately 62,000 t) were particularly influential, accounting for approximately 80% of the increase in salmon-derived nutrient + contaminant transfer to North America between 1976 and 2015 (Extended Data Table5). Pink salmon also contributed progressively larger shares (7–12 percentage points) of transported nutrients and contaminants as their populations grew over time, while the proportional influence of sockeye salmon concurrently decreased by 6–7 percentage points. All other species showed little change (<4 percentage points).
+
+*** The first and third rows show species-specific total transport trends for nutrients (t yr−1) and contaminants (kg yr−1); the solid lines represent the posterior medians and the shading represents the 75% posterior credible intervals. The second and fourth rows show species-specific proportional transport for nutrients and contaminants; values represent the proportion of total transport summed across all regions. Regional transport is shown in Extended Data Fig.2. Estimates represent derived quantities from a Monte Carlo combination of the posterior distributions of a salmon returns model fit ton= 800 observations and posterior distributions of each nutrient or contaminant model fit ton= 34, 37, 14, 14, 83, 69, 62 and 32 observations for N, P, DHA, EPA, Hg, PCBs, DDTs and PBDEs, respectively.
+
+*** The distribution of freshwater spawning grounds is a principal driver of how salmon-derived nutrients and contaminants are dispersed among recipient ecosystems. Furthermore, the structure of the Pacific salmon community varies from the northern to the southern extent of their migration runs (Extended Data Fig.1and Extended Data Table1). To build on the continental-scale estimates described above, we considered how community composition affects the magnitudes of nutrient and contaminant inputs at regional scales by defining four marine-to-freshwater boundaries following broad patterns of Pacific salmon migration: the Bering Sea (BS), Central Alaska (CAK), Southeast Alaska (SEAK) and a region encompassing British Columbia and the west coast of the United States (BCWC) (Fig.1b). These regional groupings allowed the best matching of data sources needed to generate return estimates while facilitating our assessment of how the relative return biomass of each species related to nutrient and contaminant transport patterns. Regional nutrient + contaminant transport by Pacific salmon varied between 2,800 t yr−1in CAK and 4,700 t yr−1in BCWC (Extended Data Table3). We subsequently accounted for variation in regional return abundance and fish size to estimate that the median annual transport of nutrients + contaminants per fish was highest for BS (0.16 kg per fish per year), followed by BCWC (0.15 kg), CAK (0.11 kg) and SEAK (0.097 kg). The importance of individual species to nutrient and contaminant delivery also varied among regions. Sockeye salmon contributed 56% of all nutrients + contaminants to BS, whereas pink salmon transported the greatest shares to CAK and SEAK (45% and 72%, respectively; Extended Data Table3). The increasing influence of pink salmon on regional community composition for CAK, SEAK and BCWC between 1976 and 2015 was reflected by 50%, 94% and 142% greater nutrient + contaminant inputs by pink salmon to those regions, respectively (Extended Data Table5), as well as overall regional nutrient and contaminant increases ranging from 36% to 64% (Fig.3and Extended Data Table6). By contrast, we estimated that the BS region (where sockeye salmon biomass dominates) experienced a 12% decrease in inputs between 1976 and 2015, reflecting decreases in return biomasses of all species except chum salmon (Fig.3andSupplementary Information). Notably, the BS region has continued to experience poor returns of Chinook and chum salmon29as well as the 2022 record-high sockeye salmon returns to Bristol Bay30in the years since the period covered by our analyses. These examples illustrate how continuous changes in the Pacific salmon community can be meaningful for recipient systems at finer spatial scales. We anticipate that insights about the influence of Pacific salmon for specific ecosystems will come from studies assessing recipient food web responses to the temporal dynamics of nutrient and contaminant loading (for example, where and when various spawning populations overlap) by salmon and relative to other sources of these materials.
+
+*** The annual marine-to-freshwater transport of nutrients and contaminants by region (BS, CAK, SEAK and BCWC) from 1976 to 2015. Data are presented on a semi-log10scale with differenty-axis ranges for nutrients (top row, t yr−1) and contaminants (bottom row, kg yr−1). The lines represent posterior medians and the shading represents 50% credible intervals. Larger intervals (for example, 75%) are excluded for clarity. Estimates represent derived quantities from a Monte Carlo combination of the posterior distributions of a salmon returns model fit ton= 800 observations and posterior distributions of each nutrient or contaminant model fit ton= 34, 37, 14, 14, 83, 69, 62 and 32 observations for N, P, DHA, EPA, Hg, PCBs, DDTs and PBDEs, respectively.
+
+*** The five species of Pacific salmon have inherently dissimilar patterns in their nutrient versus contaminant transport potential due to differences in their life history (that is, time to maturation) and trophic ecology (that is, diet and relative trophic positions)31,32,33,34. Furthermore, there is a categorical distinction in the behaviour of nutrients and PBT contaminants in aquatic food webs; nutrient concentrations are approximately proportional to fish size (that is, expressed as percentage of body weight)35whereas concentrations of PBT contaminants are expected to increase with fish size and trophic position (that is, bioaccumulate and biomagnify)36,37. We examined the interactions among these factors to explore species-specific influence on nutrient and contaminant transport patterns and how those patterns vary with changes in the Pacific salmon community over time.
+
+*** Chinook salmon are the largest, often oldest and highest-trophic-position species in the Pacific salmon community32,34. Consequently, they had the highest PBT contaminant concentrations and transported the largest amounts of nutrients per fish (Extended Data Fig.1and Extended Data Table7). Their contaminant loading potentials (mg per fish) were also the highest among the five Pacific salmon species (Extended Data Table7). Pink salmon are relatively smaller, younger, feed at the lowest trophic level among these species according to stable isotope compositions34, and had the lowest contaminant concentrations and lowest amounts of nutrient and contaminant subsidies per fish. Ratios of transported nutrients in kilograms to contaminants in milligrams per fish (kg per mg per fish) also varied among the Pacific salmon species in a manner that mostly aligned with relative trophic levels (TLs) (as previously reported)34(posterior median nutrient:contaminant ratios: Chinook salmon (TL 4.3) = 0.6; coho salmon (TL 3.9) = 0.9; sockeye salmon (TL 3.9) = 1.1; chum salmon (TL 3.6) = 1.2; pink salmon (TL 3.5) = 2.3; Extended Data Table8). Pink salmon transported more than twice as many kg of nutrients per mg of contaminants than Chinook, coho and sockeye salmon, the three species with the highest trophic levels (Fig.4aand Extended Data Table8). As these ratios are primarily based on nutrient and contaminant concentrations in maturing fish sampled before completing their freshwater migrations, there is some uncertainty in contaminant versus nutrient deposition to spawning grounds. How nutrient:contaminant ratios change as fish catabolize their energy stores during migration is a largely unexplored yet compelling direction for future research38,39,40.
+
+*** a, The ratio of nutrients (kg per fish) to contaminants (mg per fish) for individual fish. TL is the trophic level of each species as reported previously34. Estimates represent derived quantities from the posterior distributions of each nutrient or contaminant model fit ton= 34, 37, 14, 14, 83, 69, 62 and 32 observations for N, P, DHA, EPA, Hg, PCBs, DDTs and PBDEs, respectively.b, The relative contributions of each species to continental transport of nutrients versus contaminants. The negative values indicate that a species transports proportionally more contaminants than nutrients, and positive values indicate the opposite. The numbers represent the differences in total proportional transport after summing across locations (for example, Chinook salmon contribute 12% of total contaminants but only 5% of total nutrients each year, so 0.05 − 0.12 = −0.07 on thexaxis). Each year has a unique density ranging from 1976 (yellow) to 2015 (dark blue). Estimates represent derived quantities from a Monte Carlo combination of the posterior distributions of a salmon returns model fit ton= 800 observations and the posterior distributions of nutrient and contaminant concentrations. Density areas are identical so that taller densities reflect more certain estimates and flatter densities reflect less certain estimates. The box plots show the median (centre line), 25th and 75th quantiles (box limits), and the largest and smallest values that are no more than 1.5× lower or higher than the 25th and 75th quantiles, respectively (whiskers). The box plots forasummarize the single posterior distributions. The box plots forbsummarize the posterior distributions averaged across years.
+
+*** The importance of individual species to the annual delivery of nutrients and contaminants varied substantially. As described above, pink salmon transported the greatest share of nutrients + contaminants on an annual average basis. Similarly, pink salmon transported the greatest proportion of annual N and P (3,400 t  N per year and 480 t P per year, ~40% of both), as well as the greatest annual proportion of PBDEs (70 g yr−1, 36%). However, variation in transport among salmon species was not simply a function of relative biomass, as sockeye and chum salmon delivered the greatest amounts of Hg to recipient freshwaters (collectively ~4 kg Hg per year, ~57%) despite having smaller return abundances and biomasses than pink salmon. Chinook salmon contributions to annual contaminant inputs (11–26%) were outsized relative to their proportional contributions to annual nutrient inputs (5–7%) and proportional contributions to annual return biomass (6%) (Extended Data Tables1and2). These patterns are consistent with predictions of trophic magnification37and time spent at sea41, such that species with longer ocean phases and/or that feed at higher trophic levels (for example, Chinook and coho salmon) accumulate higher concentrations of contaminants, but similar concentrations of nutrients, compared to species at lower trophic levels with shorter marine residence times (such as pink salmon). Consequently, pink salmon transported approximately 8% more nutrients than expected on the basis of their return biomass alone (that is, they transported 35% of total nutrients but only 20% of total contaminants on average each year), while Chinook and coho salmon, respectively, transported approximately 7% and 3% more contaminants than expected on the basis of their returns (Fig.4b).
+
+*** Our analysis also indicated a shift in relative contaminant to nutrient transport from 1976 to 2015 (temporal progression marked as transition from earlier (yellow) to more recent (blue) years; Fig.4b). The high proportional contaminant transport for Chinook salmon decreased over time. We attributed this change to declines in median individual Chinook salmon weight by 1.9 kg from 1976 to 2015 (Extended Data Table4). These declines were offset by increasing proportional transport by coho salmon. Proportional contributions of sockeye, chum and pink salmon to total nutrient and contaminant transport were largely unchanged over time (that is, mostly overlapping annual trend lines). These nuanced results point to complex interactions at the community ecology–ecosystem ecology interface that are ripe for further exploration in the context of Pacific salmon migration and marine-to-freshwater subsidies.
+
+*** Our analyses show that salmon-mediated nutrient transport was balanced by the co-occurring transport of contaminants, and that both nutrient and contaminant inputs to North America increased from 1976 to 2015. Shifts in Pacific salmon community structure over time favoured nutrient inputs, such that proportional increases in nutrient transport were greater than those in contaminant transport. At the continental scale, higher nutrient-to-contaminant transport ratios will probably persist given that pink salmon abundance and biomass continue to increase in response to climate change27. Importantly, the influence of Pacific salmon biomass and community trends on nutrient and contaminant delivery differed among regions, and differences between continental-scale and BS regional patterns were particularly notable (Fig.3).
+
+*** It is difficult to predict the ecological importance of nutrient and contaminant inputs based solely on their magnitudes. Salmon-derived nutrients are ecological subsidies of essential elements and compounds, that is, donor-controlled resources with positive ecological benefits (for example, enhanced productivity) for recipient systems4,20, whereas PBT contaminants are either entirely the result of anthropogenic production (PCBs, DDTs and PBDEs) or are greatly enhanced by it (Hg), with exposures expected to impair rather than enhance biological function. The potential importance of both salmon-derived nutrients and contaminants in recipient systems is well established. For example, returning salmon enrich dissolved N and P concentrations, and N transported by salmon can represent a substantial fraction of lake sediment stores13,42. Early research on salmon contaminant transport similarly showed that spawning returns can be substantial sources of persistent organic pollutants to sediments and resident biota, including grizzly bears, which increase their contaminant exposures by consuming large amounts of returning salmon when they are available6,7,43,44,45. Contaminant transport by Pacific salmon has also been studied in the Laurentian Great Lakes, where salmon introduced in the 1950s migrate from the lakes to tributaries for spawning. There, stream-resident fish that capitalize on energy-dense salmon eggs substantially enhance their exposure to the PCBs and DDTs that efficiently partition to high-fat tissues while reducing their exposure to Hg for which salmon egg concentrations are low relative to other dietary sources46,47,48. This work demonstrates how complex interactions among salmon contaminant profiles and partitioning dynamics, salmon resource use and spawning habitat factors interact to determine the ecosystem contexts under which salmon provisioning can overshadow physicochemical influences on contaminant bioaccumulation in recipient food webs46,47. We do not yet know how co-exposure to the nutrients and contaminants transported by salmon influence ecological responses within trophic levels (for example, primary production), nor have studies explored how nutrient benefits may be balanced by contaminant effects across trophic levels to inform their overall influence on ecosystem functioning. Furthermore, the coupled fates (after excretion and decay) and influences of salmon-derived nutrients and contaminants are anticipated to vary among recipient systems to reflect both spatial and temporal spawning patterns and site-specific characteristics—including waterbody size, geomorphology and hydrology, nutrient status and food web structure. Together, these factors will determine the importance of transported nutrients and contaminants relative to other sources of these chemicals12,15,46.
+
+*** Lacking the data needed to address these broader ecological questions, we examined salmon consumption exposure scenarios for preliminary insights on the potential importance of salmon inputs for recipient systems. Pacific salmon bioaccumulate contaminants from marine systems in which contaminants are broadly distributed and diluted, and subsequently concentrate these contaminants in freshwater areas of high spawning densities (that is, contaminant focusing)3. Their spawning periods can therefore represent pulsed exposure events to PBT contaminants for organisms that exploit salmon resources5,7,45,49,50. As a coarse example, we considered the potential exposure and risk scenarios of Hg for the bald eagle (Haliaeetus leucocephalus), a common salmon predator and scavenger along the west coast of North America, using our estimates of Hg delivery combined with the estimated eagle population size and associated biomass across Alaska, British Columbia, Washington, Oregon and California51,52. Assuming that all approximately 65,000 bald eagles consumed equivalent proportions of returning salmon, they would accumulate 1.06 or 106 mg Hg if they consumed 1% or 100% of the transported Hg, respectively (Fig.5a). We further estimated that by accumulating 1% of this Hg, the bald eagle population would achieve a whole-body concentration of 0.20 mg Hg per kg wet weight and a blood Hg concentration of approximately 0.24 mg Hg per kg wet weight, just exceeding the lowest concentration anticipated to have an adverse health effect (that is, above the lowest observed adverse effect level) for piscivorous avifauna53, but falling below the moderate or high risk categories for reproductive impairment. By contrast, bald eagles would be exposed to concentrations corresponding to moderate, high and severe risks of reproductive impairment if they assimilated 7%, 10% and 14% of the transported Hg, respectively53. It follows that exposure to even small proportions of salmon-derived contaminants can be toxicologically relevant for upper trophic level consumers, reflecting that the contaminants stored in salmon tissues are bioavailable and efficiently assimilated by predators3,54.
+
+*** a, The estimated total Hg accumulation (mg Hg per bird, top) and whole-body Hg concentrations (mg kg−1wet weight, bottom) as functions of the proportion of annual salmon Hg subsidy assimilated (yaxis, 100% to 1%, left to right) by the bald eagle population of the continental North America study area.b, Human health risk–benefit ratios for the five Pacific salmon species. TL is the trophic level of each species as reported previously34. Numbers <1 indicate that the benefit of polyunsaturated fatty acids is greater than the harm caused by Hg, DDT, PCBs and PBDEs. Estimates represent derived quantities from a Monte Carlo combination of the posterior distributions of a salmon returns model fit ton= 800 observations and posterior distributions of each nutrient or contaminant model fit ton= 34, 37, 14, 14, 83, 69, 62 and 32 observations for N, P, DHA, EPA, Hg, PCBs, DDTs and PBDEs, respectively. Density areas are identical so that taller densities reflect more certain estimates and flatter densities reflect less certain estimates. The box plots show the median (centre line), 25th and 75th quantiles (box limits), and the largest and smallest values that are no more than 1.5× lower or higher than the 25th and 75th quantiles, respectively (whiskers).
+
+*** Our study highlights salmon consumption as a mechanism for nutrient and contaminant co-exposure, yet the net effect of these co-exposures is presently unknown for consumers in recipient systems. We borrowed standard methods from public health literature to consider the potential human health trade-offs of consuming salmon-derived long-chain omega-3 fatty acids55versus the contaminants included in this study by calculating non-cancer risk–benefit ratios56. Scores for all species were <1, indicating that eating Pacific salmon provides a net benefit to people (Fig.5b). Largely consistent with earlier work, the greatest relative benefits were realized for pink, sockeye and chum salmon57, whereas Chinook salmon represented the highest consumption risk (median ratio = 0.25, 95% credible interval = 0.09 to 0.7) of the five species. Similar approaches for studying these trade-offs for wildlife consumers in recipient systems, and how the trade-offs scale from individuals to broader ecosystem effects, would advance this area of research.
+
+*** Our work points to the need to understand the net effects of Pacific salmon inputs at local scales. Building on the long history of salmon-derived nutrient research, field experiments and laboratory studies that consider the coupled distribution, fate and processing of nutrient and contaminant inputs by recipient food webs and in specialist consumer diets will inform questions about how Pacific salmon inputs interact to influence ecosystem functioning and wildlife populations at spawning grounds. Longer-term, the influence of these salmon-derived nutrients versus contaminants may reflect distinct mass balance patterns, such as differences in the proportions of marine-to-freshwater nutrients and contaminants that are subsequently exported by salmon smolts when they migrate to sea54,58. We might find unique opportunities to investigate the ecosystem processing, storage and effects of Pacific salmon nutrient and contaminant transport from the onset of anadromy should Pacific salmon freshwater habitat ranges expand with Arctic ice loss59. Finally, our assembly of the available Pacific salmon nutrient and contaminant data revealed the need for more species-specific and temporally resolved information to ensure that full ranges are captured in modelling approaches. Routine monitoring of Pacific salmon nutrient and contaminant concentrations would additionally benefit research on marine food web responses to the interactions between chemical loading, biogeochemistry, temperature regimes and food web structures. This knowledge will inform how environmental shifts beyond those in community structure are influencing the phenomenon of marine-to-freshwater nutrient and contaminant transport by migrating Pacific salmon.
+
+*** In this study we use ‘post-harvest returns’ or ‘returns’ in place of the fisheries term ‘escapement’ to refer to the Pacific salmon that escape fisheries and return to freshwater spawning grounds. We focused on the 40-year period between 1976 and 2015, estimating the annual return numbers for each of the five species consistently across the four regions. The return estimates primarily reflect the number of natural spawners, but may include relatively small returns to hatcheries for broodstock. Hatchery strays (that is, hatchery fish that spawn in rivers and therefore contribute to subsidy transport to watersheds) are included in return estimates.
+
+*** Our approach to generating return estimates started with the numerical salmon abundances dataset for chum, pink and sockeye salmon in the North Pacific Ocean as summarized previously8. Abundance estimates reflect the total number of fish contributing to both fishery operations and spawning returns in each region. Post-harvest return numbers were therefore estimated by subtracting commercial catch estimates (as well as subsistence catch estimates in western Alaska) from total abundance60(A. Munro and R. Brenner, Alaska Department of Fish and Game, personal communication). To best match the various sources of data required to generate return estimates, we grouped salmon into four regional destinations (BS, CAK, SEAK and BCWC).
+
+*** Chinook and coho salmon return estimates were derived separately from other species. Return values for Chinook and coho salmon are indices of abundance representing the vast majority of spawning fish in each region. Some infilling at the population level, using averages of adjacent values, was necessary for missing values. For BS, Chinook salmon return counts were obtained for the three major watersheds (Yukon, Kuskokwim and Nushagak)61,62. For CAK, the Rogers approach was used to estimate Chinook salmon escapement from catch and an assumed commercial harvest rate (0.5)63. In SEAK, returns of Chinook salmon into 11 watersheds were summed64. In BCWC, we relied on published return counts in natural areas65,66(J. R. Irvine, Fisheries and Oceans Canada, personal communication). For coho salmon, we applied the Rogers approach to estimate returns in each region of Alaska from reported catch and assumed harvest rates (0.6 to 0.7)63and reported return values for natural areas of BCWC65,66(J. R. Irvine, personal communication). Abundance estimates based on assumed harvest rates represented approximately 4% and 60% of the total for Chinook and coho salmon estimates, respectively. All return values are approximations showing the year to year magnitude by species and region; while they are suitable for the broad spatial and temporal questions explored herein, harvest managers typically rely on a subset of indicator stocks that provide the most accurate information for management.
+
+*** Species-specific annual fish weights were calculated as the total commercial catch biomass divided by total commercial catch numbers for each region. This approach assumes that salmon size in the commercial catch is similar, on average, to the size of fish that escape the fishery. We note that salmon gillnets often select for larger individuals67, but this is not always the case68. Pink salmon, chum salmon and sockeye salmon weight data were previously reported8. Weight data for Chinook salmon and coho salmon were derived from the NPAFC database using data available as of April 2020 (ref.60). Annual species-specific return biomasses were calculated at the continental and regional scales by multiplying species-specific return abundances by species-specific average fish weights for a given year. These raw estimates were then modelled using a Bayesian generalized additive model (see the ‘Modelling approach’ section) to estimate uncertainty in salmon return biomasses.
+
+*** We extracted tissue subsidy data from the scientific literature and from scientific reports of Pacific salmon tissue concentrations for the macronutrients N and P, the omega-3 fatty acids DHA and EPA, and the PBT contaminants Hg, PCBs, DDTs and PBDEs; these data and associated metadata are provided in theSupplementary Data. We focused on these chemicals because (1) they represent nutrients that are commonly associated with the ecological and health benefits of Pacific salmon migration and consumption5,69and (2) these contaminants were identified as primary contaminants of concern over the time period of our analysis (1976–2015). Moreover, these contaminants have historically been the focus of long-range migratory transport research due to their biotransport potential3,6,54,70. The eight subsidies discussed here are therefore meant to be representative, rather than inclusive, of all nutrients and contaminants transported during Pacific salmon migrations to their spawning habitats.
+
+*** We obtained a total of 363 estimates of nutrient and contaminant concentrations in Pacific salmon. These estimates are summaries of measures from at least 6,798 individual fish (33 estimates did not report a sample size). This ranged from 15 estimates of DHA and EPA (42 individuals each) to 83 estimates of Hg (2,768 individuals). Data were available only for a small fraction of combinations of subsidy × species × year × region to inform our models. Among the 363 estimates of nutrient and contaminant concentrations in our data synthesis, less than 50% were taken before the year 2000 (many studies reported averages over multiple years, so this is a conservative estimate). Moreover, only one species × region combination contained more than four years of data, with an average of only two years of data across all species × region combinations. This is a source of uncertainty in our analysis because we cannot account for changes in contaminant concentrations over time. As increases or decreases in the flux of any given analyte over time are driven by yearly changes in Pacific salmon returns, not changes in analyte tissue concentration, all temporal changes in chemical or nutrient flux are described at the population or community level. As a result, our analyses focus on the influence of temporal changes in the Pacific salmon community as principal drivers of the shifts in subsidy transport between 1976 and 2015.
+
+*** Pacific salmon N and P estimates were unexpectedly scarce in the literature, with many ecological subsidies studies drawing on a few published measures. Moreover, studies reporting whole-body concentrations did not always specify how the whole-body samples were prepared before analysis. Here, we assumed that whole-body concentrations included both soft and hard tissues. We also note inconsistencies in analytical approaches across data sources for the PCB and PBDE contaminants in our dataset, in which sources either reported on different numbers of analytes or did not specify the analytes included in the analytical methodology. The number of PBDE congeners included in analytical methodologies ranged from 9–48 among the studies reporting this level of detail. There were larger inconsistencies in the number of PCB analytes across studies, with some studies reporting sum concentrations for a limited set of congeners and some studies reporting the full suite of 209 congeners. We included all reported measures in our models because previous work has shown that (1) analyses of limited congeners capture the majority of total PCB concentrations in biological samples; and (2) that six specific PBDE congeners (PBDEs 28, 47, 99, 100, 153 and 154) dominate fish tissue PBDE concentration profiles71,72. We further accounted for variation in the measured numbers and mixtures of analysed congeners among studies by varying the intercepts for study author and region in our models (see the ‘Modelling approach’ section below).
+
+*** These data limitations underlie a number of necessary yet simplifying assumptions about Pacific salmon subsidy concentrations in our models. Following from assessments that >90% of Pacific salmon biomass is accumulated during the ocean phase and that Pacific salmon do not eat after re-entering freshwaters during their spawning runs5,13, we assumed that Pacific salmon nutrient and contaminant concentrations were entirely marine-derived and were representative of tissue concentrations at the point of freshwater entry54,73. We also assumed that, while subsidy concentrations vary among regions, they are spatially homogenous within regions, primarily because the reports and literature from which we extracted concentration data did not include information about the open ocean habitats associated with the samples in their analyses. For our regional analyses, species × subsidy concentration combinations were assigned to one of the four study regions on the basis of locations of field collection sites or locations of markets from which fish were purchased when this information was available. We account for regional sources of uncertainty in our modelling approach, as described below.
+
+*** Unless otherwise stated, all data presented in the main text, Extended Data andSupplementary Informationare modelled values.
+
+*** All data were analysed as whole-body concentrations in mg kg−1wet weight units. If data were not reported as whole-body concentrations in the source literature or reports, we converted them to whole-body concentrations using calculated or published conversion factors: 0.89 (N muscle)74, 1.32 (P muscle)74, 0.74 (Hg muscle)75, 1.5 (PBDE muscle), 1.27 (PBDE muscle + skin), 2.3 (PCBs muscle)76and 1.66 (DDTs muscle)77; we assumed whole-body and muscle concentrations of DHA and EPA to be consistent on the basis of comparisons in Atlantic salmon74.
+
+*** We estimated contaminant and nutrient concentrations among salmon species using eight separate generalized linear mixed models (4 nutrient models + 4 contaminant models). Each model had the following form:
+
+*** WhereCisrdis theith concentration of a single contaminant or nutrient (mg kg−1wet mass) per speciess, regionrand data sourced,β1 −nis the fixed effect of the tissue concentrations forx1−n, the dummy variables for species, andαrandαdare random effects for region and data source, respectively. Sample year is not included in these models due to lack of year-specific data for many contaminants. The likelihood in each model was gamma with a log-link, as the data (concentrations) were continuous and positive78.
+
+*** Prior distributions for each model parameter were determined using prior predictive simulation79(Supplementary Information). These simulations were compared to the published literature of the range of contaminant or nutrient concentrations for other fishes (such as Atlantic salmon, trout)5,76,80,81,82,83. Prior parameter values were then chosen to reflect the range of probable values plus some error, yielding weakly informative priors84. Such priors place a low probability on unreasonably large or small values of analyte concentrations, but have little influence on the among-species or among-region concentrations. Prior specifications for all models are provided in Supplementary Table1. To estimate the influence of the priors on model outcomes, we plotted parameter values and derived quantities from the prior and posterior distributions (Supplementary Figs.2–5). In each case, the posterior distributions were far more constricted than the prior distributions, indicating that the priors were indeed weakly informative.
+
+*** Yearly salmon return biomass (1976 to 2015) was modelled using a generalized additive model with year as the predictor variable nested within each species × region combination. Species × region was also used as a varying intercept to allow starting biomass to vary among species and regions. The likelihood was gamma with a log-link because salmon biomass (tonnes wet mass) was positive and continuous. We excluded data before 1976 because we did not have all species × region estimates of returns before that year. Instead, we used the partial dataset of before 1976 to determine the prior parameters of the full model above. To do this, we fit the model as described above with only data from 1952 to 1975 and with weak priors. We then used the posterior parameters from that model as informative priors in the main model.
+
+*** We fit models in R using the package brms85. Posterior distributions were generated in rstan86using Hamiltonian Monte Carlo. Each model had 4 chains with 2,000 iterations per chain. The first 1,000 iterations were discarded as warm-up.
+
+*** We checked model performance and fit in two ways. First, we plotted model predictions against raw data to ensure that the models were not mis-specified or that the priors were not overly restrictive. Next, we used posterior predictive checks to compare datasets simulated from the model with the original datasets. The goal of these checks is to ensure that the model could simulate data that are similar to the original data87. Failure to do so indicates a misspecification of the model. All posterior predictive checks indicated reasonable fit to the data (Supplementary Figs.6and7). We assessed model convergence by ensuring that all Rhats were <1.1 (ref.78). Some model diagnostics indicated divergent transitions. We explored the implications of these transitions by visualizing parameter-specific Rhats and/or refitting the models with increased target average acceptance probabilities and comparing inferences (adapt delta) (Supplementary Figs.8and9). Finally, some of the nutrient and contaminant data contained both a mean literature value and a corresponding sample size (n). To determine whether including sample size in the modelling approach would alter inferences of those concentrations, we fit an alternative model in which Gaussian variance was scaled by 1/nand compared to the Gamma model described above. Differences were minimal and are reported in Supplementary Fig.10.
+
+*** After checking model fits, we used Monte Carlo sampling to estimate the transport of nutrients or contaminants (that is, chemicals) carried by salmon to streams by multiplying the posterior distributions of salmon return biomass and chemical concentrations:
+
+*** where the transport (mg) of each chemicalcin yearyat regionrfor salmon speciessis the product of return biomass (kg wet mass) times concentration (mg kg−1wet mass) across each ofk= 1,000 iterations. This yields a distribution of transport estimates that incorporates uncertainty from both salmon returns and salmon chemical concentrations.
+
+*** We hypothesized that some salmon species would carry a higher burden of contaminants than others due to variation in salmon trophic levels, species-specific age structures and the higher propensity of contaminants in this study to biomagnify compared to nutrients. We tested this at both the individual and continental levels. For the individual level, we multiplied posterior estimates of chemical concentrations among species by that species mean biomass, yielding an estimate of total chemical mass per individual fish. We then summed the nutrient and contaminant estimates across eachkiteration of the posterior and divided nutrients by contaminants. This resulted in a ratio of nutrient mass to contaminant mass per individual fish. In an individual fish, nutrients outweighed contaminants by six orders of magnitude. We therefore divided the ratio estimates by 1 million to ease visual interpretation.
+
+*** At the continental level, we used the transport results from equation (2) to first estimate the proportion of total contaminant or nutrient transport that each species contributed in a given year. We then subtracted those proportions (nutrients minus contaminants) to yield a proportional difference for each species in each year. For example, in 2001, Chinook salmon accounted for 13% of contaminant transport but only 6% of nutrient transport, yielding a relative proportion of 6 − 13 = −7 percentage points. By contrast, pink salmon accounted for 28% of contaminants and 36% of nutrients in 2001, yielding a positive nutrient balance of +8. Repeating this across all species, years andkiterations yielded a distribution of differences for each species and year combination. We used that distribution to compare the relative contributions of contaminants to nutrients among salmon species.
+
+*** The precision of the transport estimates is governed by three primary sources of uncertainty: salmon return abundance over time (millions of fish), mean individual salmon weight (kg wet weight) and chemical concentrations (mg kg−1wet weight). To determine the relative importance of these measures to overall uncertainty, we performed a Monte Carlo sensitivity analysis by fitting a linear regression88to the transport iterations generated in equation (2) for each year, species, region and chemical combination (Supplementary Fig.1). The model had the form:
+
+*** where\(m{g}_{{{\rm{transport}}}_{s}}\)is the standardized transport of chemicaliwith interactions between standardized return and year, standardized individual fish weight (kgind) and year, and main effects of standardized chemical concentration, region and species. As a result of standardization, differences in the coefficients represent the relative contribution of each variable to explaining transport. We then extracted relative importance values using the calc.relimp function from the rlaimpo package89,90. This function estimates the relative importance of variables (analogous toR2), but does so by reordering the predictions and averaging over those reorderings.
+
+*** To estimate the range of possible exposure to Hg from salmon subsidies in a model wildlife taxon, the bald eagle, we first compiled estimates of bald eagle population size (65,740 adult birds) across Alaska, British Columbia, Washington, Oregon and California, from state and federal wildlife agency reports51,52. We then estimated total biomass of bald eagles across the study area using an average female feather-free mass of 5.4 kg. Exposure scenarios were estimated under various assumptions of the proportion of annual Hg subsidy consumed by the bald eagle population, both from direct consumption of migrating salmon, as well as indirectly from Hg transferring to bald eagles through aquatic and terrestrial consumers. For the 100% consumption estimate, we divided the full amount of the annual average salmon Hg input (~7 kg) by the total bald eagle population biomass to estimate the potential whole-body Hg concentration. We calculated similar estimates across a gradient of proportional exposure, down to consumption of 1% of the total annual Hg input by salmon. We then estimated bald eagle blood concentrations across this range of exposure levels using standard equations for avian taxa53to convert body concentrations (that is, muscle) to blood concentrations and compared those blood concentrations to various benchmarks of impairment53.
+
+*** To estimate potential effects of salmon subsidies on wildlife in recipient ecosystems, we calculated benefit–risk ratios for representative human consumers. We used formulas originally developed91and modified56previously to incorporate multiple beneficial and harmful compounds. The benefit–risk quotient is calculated from CRSEFA/CRlim, where CRSEFAis the fish consumption rate required to meet EPA and DHA intake recommendations, and CRlimis the maximum allowable consumption rate for contaminated fish. CRSEFAis itself the recommended daily intake of EPA + DHA (250 mg d−1; European Food Safety Authority 2012) divided by the summed concentrations of these compounds in the fish, such that fish containing higher EPA and DHA concentrations require smaller daily portions to achieve the maximum benefit. CRlimis the summed negative effect of multiple PBT contaminants, calculated as:
+
+*** whereBis body weight (average = 81 kg, at the upper end of the global distribution),Cmis the concentration of contaminantmand RfDmis the reference dose for that contaminant (the daily dose below which no negative effects should occur) according to the US Environmental Protection Agency. Reference dose values for DDTs, PCBs and PBDEs were drawn from a previous study56and the value for Hg was drawn from European Food Safety Authority (2012)92. While there are separate CRlimcalculations to also estimate cancer risk from PBT contaminant exposure, we chose to focus only on the non-cancer risk, which includes acute and developmental toxicity and can be considered to be more relevant for wildlife in this context.
+
+*** Further information on research design is available in theNature Portfolio Reporting Summarylinked to this article.
+
+*** Annual estimates of Pacific salmon weights, return abundances and return biomasses are available at Zenodo93(https://zenodo.org/records/12810136). Modelled estimates of Pacific salmon escapement biomass and subsidy concentrations are available online (https://doi.org/10.5066/P97457VD). Literature-sourced tissue concentrations of Pacific salmon nutrients and contaminants are also provided asSupplementary Data; corresponding DOIs for all data sources are available online (https://doi.org/10.5066/P97457VD).
+
+*** All code is available at Zenodo93(https://zenodo.org/records/12810136).
+
+*** Schindler, D. E. & Smits, A. P. Subsidies of aquatic resources in terrestrial ecosystems.Ecosystems20, 78–93 (2017).
+
+*** Google Scholar
+
+*** Subalusky, A. L., Dutton, C. L., Rosi, E. J. & Post, D. M. Annual mass drownings of the Serengeti wildebeest migration influence nutrient cycling and storage in the Mara River.Proc. Natl Acad. Sci. USA114, 7647–7652 (2017).
+
+*** ADSCASPubMed CentralPubMedGoogle Scholar
+
+*** Blais, J. M. et al. Biologically mediated transport of contaminants to aquatic systems.Environ. Sci. Technol.41, 1075–1084 (2007).
+
+*** ADSCASPubMedGoogle Scholar
+
+*** Walters, D. M., Kraus, J. M. & Mills, M. A. inContaminants and Ecological Subsidies: The Land-Water Interface(eds Kraus, J. M. et al.) 1–14 (Springer, 2020);https://doi.org/10.1007/978-3-030-49480-3_1.
+
+*** Gende, S. M., Edwards, R. T., Willson, M. F. & Wipfli, M. S. Pacific salmon in aquatic and terrestrial ecosystems.BioScience52, 917 (2002).
+
+*** Google Scholar
+
+*** Krümmel, E. M. et al. Delivery of pollutants by spawning salmon.Nature425, 255–256 (2003).
+
+*** ADSPubMedGoogle Scholar
+
+*** Christensen, J. R., MacDuffee, M., Macdonald, R. W., Whiticar, M. & Ross, P. S. Persistent organic pollutants in British Columbia grizzly bears: consequence of divergent diets.Environ. Sci. Technol.39, 6952–6960 (2005).
+
+*** ADSCASPubMedGoogle Scholar
+
+*** Ruggerone, G. T. & Irvine, J. R. Numbers and biomass of natural- and hatchery-origin pink salmon, chum salmon, and sockeye salmon in the North Pacific Ocean, 1925–2015.Mar. Coast. Fish.10, 152–168 (2018).
+
+*** Google Scholar
+
+*** Subalusky, A. L. & Post, D. M. Context dependency of animal resource subsidies.Biol. Rev.94, 517–538 (2019).
+
+*** PubMedGoogle Scholar
+
+*** Bauer, S. & Hoye, B. J. Migratory animals couple biodiversity and ecosystem functioning worldwide.Science344, 1242552 (2014).
+
+*** CASPubMedGoogle Scholar
+
+*** Furey, N. B., Armstrong, J. B., Beauchamp, D. A. & Hinch, S. G. Migratory coupling between predators and prey.Nat. Ecol. Evol.2, 1846–1853 (2018).
+
+*** PubMedGoogle Scholar
+
+*** Flecker, A. S. et al. Migratory fishes as material and process subsidies in riverine ecosystems.Am. Fish. Soc. Symp.73, 559–592 (2010).
+
+*** Google Scholar
+
+*** Naiman, R. J., Bilby, R. E., Schindler, D. E. & Helfield, J. M. Pacific salmon, nutrients, and the dynamics of freshwater and riparian ecosystems.Ecosystems5, 399–417 (2002).
+
+*** Google Scholar
+
+*** Schindler, D. E. et al. Riding the crimson tide: mobile terrestrial consumers track phenological variation in spawning of an anadromous fish.Biol. Lett.9, 20130048 (2013).
+
+*** PubMed CentralPubMedGoogle Scholar
+
+*** Walsh, J. C. et al. Relationships between Pacific salmon and aquatic and terrestrial ecosystems: implications for ecosystem‐based management.Ecology101, e03060 (2020).
+
+*** PubMedGoogle Scholar
+
+*** Schindler, D. E. et al. Pacific salmon and the ecology of coastal ecosystems.Front. Ecol. Environ.1, 31–37 (2003).
+
+*** Google Scholar
+
+*** Janetski, D. J., Chaloner, D. T., Tiegs, S. D. & Lamberti, G. A. Pacific salmon effects on stream ecosystems: a quantitative synthesis.Oecologia159, 583–595 (2009).
+
+*** ADSPubMedGoogle Scholar
+
+*** Hocking, M. D. & Reynolds, J. D. Impacts of salmon on riparian plant diversity.Science331, 1609–1612 (2011).
+
+*** ADSCASPubMedGoogle Scholar
+
+*** Gresh, T., Lichatowich, J. & Schoonmaker, P. An estimation of historic and current levels of salmon production in the northeast Pacific ecosystem: evidence of a nutrient deficit in the freshwater systems of the Pacific Northwest.Fisheries25, 15–21 (2000).
+
+*** Google Scholar
+
+*** Polis, G. A., Anderson, W. B. & Holt, R. D. Toward an integration of landscape and food web ecology: the dynamics of spatially subsidized food webs.Annu. Rev. Ecol. Syst.28, 289–316 (1997).
+
+*** Google Scholar
+
+*** Walters, D. M., Fritz, K. M. & Otter, R. R. The dark side of subsidies: adult stream insects export organic contaminants to riparian predators.Ecol. Appl.18, 1835–1841 (2008).
+
+*** PubMedGoogle Scholar
+
+*** Kroeze, C. & Seitzinger, S. P. Nitrogen inputs to rivers, estuaries and continental shelves and related nitrous oxide emissions in 1990 and 2050: a global model.Nutr. Cycl. Agroecosyst.52, 195–212 (1998).
+
+*** CASGoogle Scholar
+
+*** Liu, M. et al. Rivers as the largest source of mercury to coastal oceans worldwide.Nat. Geosci.14, 672–677 (2021).
+
+*** ADSCASGoogle Scholar
+
+*** Cadenasso, M. L., Weathers, K. C. & Pickett, S. T. A. inFood Webs at the Landscape Level(eds Polis, G. A. et al.) 263–267 (Univ. Chicago Press, 2004).
+
+*** Satterfield, D. A., Sillett, T. S., Chapman, J. W., Altizer, S. & Marra, P. P. Seasonal insect migrations: massive, influential, and overlooked.Front. Ecol. Environ.18, 335–344 (2020).
+
+*** Google Scholar
+
+*** Oke, K. B. et al. Recent declines in salmon body size impact ecosystems and fisheries.Nat. Commun.11, 4155 (2020).
+
+*** ADSCASPubMed CentralPubMedGoogle Scholar
+
+*** Ruggerone, G. T. et al. From diatoms to killer whales: impacts of pink salmon on North Pacific ecosystems.Mar. Ecol. Prog. Ser.719, 1–40 (2023).
+
+*** Google Scholar
+
+*** Hites, R. A. Polybrominated diphenyl ethers in the environment and in people: a meta-analysis of concentrations.Environ. Sci. Technol.38, 945–956 (2004).
+
+*** ADSCASPubMedGoogle Scholar
+
+*** Jallen, D. M. et al.Yukon River Salmon Stock Status and Salmon Fisheries, 2022: A Report to the Alaska Board of Fisheries, January 2023(Alaska Department of Fish and Game, 2023).
+
+*** Sands, T., Elison, T., Tiernan, A. & Stacey, P.2022 Bristol Bay Salmon Season Summary(Alaska Department of Fish and Game, 2022).
+
+*** Myers, K. W., Walker, R. V., Fowler, S. & Dahlberg, M.L.Known Ocean Ranges of Stocks of Pacific Salmon and Steelhead as Shown by Tagging Experiments, 1956–1989(Univ. Washington, Fisheries Research Institute, 1990).
+
+*** Johnson, S. P. & Schindler, D. E. Trophic ecology of Pacific salmon (Oncorhynchus spp.) in the ocean: a synthesis of stable isotope research.Ecol. Res.24, 855–863 (2009).
+
+*** CASGoogle Scholar
+
+*** Quinn, T. P.The Behavior and Ecology of Pacific Salmon and Trout(Univ. Washington Press, 2005).
+
+*** Qin, Y. & Kaeriyama, M. Feeding habits and trophic levels of Pacific salmon (Oncorhynchus spp.) in the North Pacific Ocean.NPAFC Bull.6, 469–481 (2016).
+
+*** Google Scholar
+
+*** Ebel, J. D.Nutrient Cycling by Large Consumers at Individual, Population, and Ecosystem Levels.PhD thesis, Memorial University of Newfoundland (2017).
+
+*** Lavoie, R. A., Jardine, T. D., Chumchal, M. M., Kidd, K. A. & Campbell, L. M. Biomagnification of mercury in aquatic food webs: a worldwide meta-analysis.Environ. Sci. Technol.47, 13385–13394 (2013).
+
+*** ADSCASPubMedGoogle Scholar
+
+*** Walters, D. M. et al. Trophic magnification of organic chemicals: a global synthesis.Environ. Sci. Technol.50, 4650–4658 (2016).
+
+*** ADSCASPubMedGoogle Scholar
+
+*** Kelly, B. C. et al. Tissue residue concentrations of organohalogens and trace elements in adult Pacific salmon returning to the Fraser River, British Columbia, Canada.Environ. Toxicol. Chem.30, 367–376 (2011).
+
+*** CASPubMedGoogle Scholar
+
+*** Bowerman, T. E., Pinson-Dumm, A., Peery, C. A. & Caudill, C. C. Reproductive energy expenditure and changes in body morphology for a population of Chinook salmonOncorhynchus tshawytschawith a long distance migration.J. Fish Biol.90, 1960–1979 (2017).
+
+*** CASPubMedGoogle Scholar
+
+*** McVeigh, B. R., Healey, M. C. & Wolfe, F. Energy expenditures during spawning by chum salmonOncorhynchus keta(Walbaum) in British Columbia.J. Fish Biol.71, 1696–1713 (2007).
+
+*** Google Scholar
+
+*** Groot, C. & Margolis, L.Pacific Salmon Life Histories(UBC Press, 1991).
+
+*** Holtgrieve, G. W. & Schindler, D. E. Marine-derived nutrients, bioturbation, and ecosystem metabolism: reconsidering the role of salmon in streams.Ecology92, 373–385 (2011).
+
+*** PubMedGoogle Scholar
+
+*** Ewald, G., Larsson, P., Linge, H., Okla, L. & Szarzi, N. Biotransport of organic pollutants to an inland Alaska lake by migrating sockeye salmon (Oncorhynchus nerka).Arctic51, 40–47 (1998).
+
+*** Google Scholar
+
+*** Christensen, J. R., Yunker, M. B., MacDuffee, M. & Ross, P. S. Plant consumption by grizzly bears reduces biomagnification of salmon‐derived polychlorinated biphenyls, polybrominated diphenyl ethers, and organochlorine pesticides.Environ. Toxicol. Chem.32, 995–1005 (2013).
+
+*** CASPubMedGoogle Scholar
+
+*** Noël, M. et al. Grizzly bear hair reveals toxic exposure to mercury through salmon consumption.Environ. Sci. Technol.48, 7560–7567 (2014).
+
+*** ADSPubMedGoogle Scholar
+
+*** Gerig, B. S. et al. Environmental context and contaminant biotransport by Pacific salmon interact to mediate the bioaccumulation of contaminants by stream-resident fish.J. Appl. Ecol.55, 1846–1859 (2018).
+
+*** Google Scholar
+
+*** Gerig, B. S., Janetski, D. J., Chaloner, D. T. & Lamberti, G. A. Contaminant biotransport by Pacific salmon in the Great Lakes.Front. Ecol. Evol.8, 199 (2020).
+
+*** Gerig, B. S., Chaloner, D. T., Rediske, R. R., Paterson, G. & Lamberti, G. A. Pacific salmon as vectors of environmental contaminants: an experimental test confirms synoptic surveys in natural streams.Environ. Pollut.336, 122355 (2023).
+
+*** CASPubMedGoogle Scholar
+
+*** McGrew, A. K. et al. Mercury in gray wolves (Canis lupus) in Alaska: increased exposure through consumption of marine prey.Sci. Total Environ.468–469, 609–613 (2014).
+
+*** ADSPubMedGoogle Scholar
+
+*** Hanson, M. B. et al. Endangered predators and endangered prey: seasonal diet of Southern Resident killer whales.PLoS ONE16, e0247031 (2021).
+
+*** CASPubMed CentralPubMedGoogle Scholar
+
+*** U.S. Fish and Wildlife Service.U.S. Fish and Wildlife Service Final Report: Bald Eagle Population Size: 2020 Update(U.S. Fish & Wildlife Service, 2020);https://www.fws.gov/media/us-fish-and-wildlife-service-final-report-bald-eagle-population-size-2020-update.
+
+*** Alaska Department of Fish and Game. Bald Eagle Species Profile.https://www.adfg.alaska.gov/index.cfm?adfg=baldeagle.main.
+
+*** Ackerman, J. T. et al. Avian mercury exposure and toxicological risk across western North America: a synthesis.Sci. Total Environ.568, 749–769 (2016).
+
+*** ADSCASPubMed CentralPubMedGoogle Scholar
+
+*** Baker, M. R., Schindler, D. E., Holtgrieve, G. W. & St. Louis, V. L. Bioaccumulation and transport of contaminants: migrating sockeye salmon as vectors of mercury.Environ. Sci. Technol.43, 8840–8846 (2009).
+
+*** ADSCASPubMedGoogle Scholar
+
+*** Twining, C. W. et al. Omega-3 long-chain polyunsaturated fatty acids support aerial insectivore performance more than food quantity.Proc. Natl Acad. Sci. USA113, 10920–10925 (2016).
+
+*** ADSCASPubMed CentralPubMedGoogle Scholar
+
+*** Wang, D. et al. Organochlorine pesticides in fish from Taihu Lake, China, and associated human health risk assessment.Ecotoxicol. Environ. Safety98, 383–389 (2013).
+
+*** CASPubMedGoogle Scholar
+
+*** Foran, J. A. et al. Quantitative analysis of the benefits and risks of consuming farmed and wild salmon.J. Nutr.135, 2639–2643 (2005).
+
+*** CASPubMedGoogle Scholar
+
+*** Moore, J. W. & Schindler, D. E. Nutrient export from freshwater ecosystems by anadromous sockeye salmon (Oncorhynchus nerka).Can. J. Fish. Aquat. Sci.61, 1582–1589 (2004).
+
+*** Google Scholar
+
+*** Pitman, K. J. et al. Glacier retreat creating new Pacific salmon habitat in western North America.Nat. Commun.12, 6816 (2021).
+
+*** ADSCASPubMed CentralPubMedGoogle Scholar
+
+*** North Pacific Anadromous Fish Commission.NPAFC Pacific Salmonid Catch Statistics(2020);https://www.npafc.org/statistics/.
+
+*** Ruggerone, G. T. et al.2016 Arctic Yukon Kuskokwim Sustainable Salmon Initiative Project Product. Growth, Age & Survival of AYK Chinook Salmon(2016);https://www.aykssi.org/wp-content/uploads/Ruggerone-Connors-2016-AYK-Chinook-Growth-Survival-1334-Final-Report.pdf.
+
+*** Larson, S.2020 Kuskokwim River Chinook Salmon Run Reconstruction and 2021 Forecast(Alaska Department of Fish and Game, 2021);https://www.adfg.alaska.gov/FedAidPDFs/RIR.3A.2021.02.pdf.
+
+*** Rogers, D. E. inThe Gulf of Alaska: Physical Environment and Biological Resources(eds Hood, D. W. & Zimmerman, S. T.) 461–476 (National Oceanic and Atmospheric Administration, 1987).
+
+*** Hagerman, G., Vaughn, M. & Priest, J.Annual Management Report for the 2019 Southeast Alaska/Yakutat Salmon Troll Fisheries(Alaska Department of Fish and Game. 2020);https://www.adfg.alaska.gov/FedAidPDFs/FMR20-21.pdf.
+
+*** Ogden, A. D. et al.Canadian Commercial Catches and Escapements of Chinook and Coho Salmon Separated into Hatchery- and Wild-Origin Fish(North Pacific Anadromous Fish Commission, 2014);https://www.npafc.org/wp-content/uploads/Public-Documents/2014/1531Canada.pdf.
+
+*** Pacific Fishery Management Council.Escapements to Inland Fisheries and Spawning Areas. Salmon Review Appendix B. Escapements to Natural Areas Only(2020);https://www.pcouncil.org/documents/2019/06/escapements-to-inland-fisheries-and-spawning-areas-salmon-review-appendix-b-excel-file-format.xlsm.
+
+*** Kendall, N. W., Hard, J. J. & Quinn, T. P. Quantifying six decades of fishery selection for size and age at maturity in sockeye salmon.Evol. Appl.2, 523–536 (2009).
+
+*** PubMed CentralPubMedGoogle Scholar
+
+*** Kendall, N. W. & Quinn, T. P. Length and age trends of Chinook salmon in the Nushagak River, Alaska, related to commercial and recreational fishery selection and exploitation.Trans. Am. Fish. Soc.140, 611–622 (2011).
+
+*** Google Scholar
+
+*** Colombo, S. M. & Mazal, X. Investigation of the nutritional composition of different types of salmon available to Canadian consumers.J. Agric. Food Res.2, 100056 (2020).
+
+*** Google Scholar
+
+*** Alaska Department of Environmental Conservation. Fish Contaminant Data.https://dec.alaska.gov/eh/vet/fish-monitoring-program/fish-tissue-mercury(2022).
+
+*** Gibson, P. P., Mills, M. A., Kraus, J. M. & Walters, D. M. A modeling approach to compare ΣPCB concentrations between congener-specific analyses.Integr. Environ. Assess. Manage.13, 227–232 (2017).
+
+*** CASGoogle Scholar
+
+*** Hayward, D., Wong, J. & Krynitsky, A. J. Polybrominated diphenyl ethers and polychlorinated biphenyls in commercially wild caught and farm-raised fish fillets in the United States.Environ. Res.103, 46–54 (2007).
+
+*** CASPubMedGoogle Scholar
+
+*** Cullon, D. L. et al. Persistent organic pollutants in Chinook salmon (Oncorhynchus tshawytscha): implications for resident killer whales of British Columbia and adjacent waters.Environ. Toxicol. Chem.28, 148 (2009).
+
+*** CASPubMedGoogle Scholar
+
+*** Aas, T. S., Åsgård, T. & Ytrestøyl, T. Chemical composition of whole body and fillet of slaughter sized Atlantic salmon (Salmo salar) and rainbow trout (Oncorhynchus mykiss) farmed in Norway in 2020.Aquac. Rep.25, 101252 (2022).
+
+*** Google Scholar
+
+*** Eagles-Smith, C. A. et al. Spatial and temporal patterns of mercury concentrations in freshwater fish across the Western United States and Canada.Sci. Total Environ.568, 1171–1184 (2016).
+
+*** ADSCASPubMedGoogle Scholar
+
+*** Stone, D. Polybrominated diphenyl ethers and polychlorinated biphenyls in different tissue types from Chinook salmon (Oncorhynchus tshawytscha).Bull. Environ. Contam. Toxicol.76, 148–154 (2006).
+
+*** CASPubMedGoogle Scholar
+
+*** Batt, A. L., Wathen, J. B., Lazorchak, J. M., Olsen, A. R. & Kincaid, T. M. Statistical survey of persistent organic pollutants: risk estimations to humans and wildlife through consumption of fish from U.S. rivers.Environ. Sci. Technol.51, 3021–3031 (2017).
+
+*** ADSCASPubMed CentralPubMedGoogle Scholar
+
+*** Hobbs, N. T. & Hooten, M. B.Bayesian Models: A Statistical Primer for Ecologists(Princeton Univ. Press, 2015).
+
+*** Wesner, J. S. & Pomeranz, J. P. F. Choosing priors in Bayesian ecological models by simulating from the prior predictive distribution.Ecosphere12, e03739 (2021).
+
+*** Azad, A. M. et al. Effects of geography and species variation on selenium and mercury molar ratios in Northeast Atlantic marine fish communities.Sci. Total Environ.652, 1482–1496 (2019).
+
+*** ADSPubMedGoogle Scholar
+
+*** Sprague, M., Dick, J. R. & Tocher, D. R. Impact of sustainable feeds on omega-3 long-chain fatty acid levels in farmed Atlantic salmon, 2006–2015.Sci. Rep.6, 21892 (2016).
+
+*** ADSCASPubMed CentralPubMedGoogle Scholar
+
+*** Montory, M., Habit, E., Fernandez, P., Grimalt, J. O. & Barra, R. PCBs and PBDEs in wild Chinook salmon (Oncorhynchus tshawytscha) in the Northern Patagonia, Chile.Chemosphere78, 1193–1199 (2010).
+
+*** ADSCASPubMedGoogle Scholar
+
+*** Anderson, R. B. & Everhart, W. H. Concentrations of DDT in landlocked salmon (Salmo salar) at Sebago Lake, Maine.Trans. Am. Fish. Soc.95, 160–164 (1966).
+
+*** CASGoogle Scholar
+
+*** Gelman, A., Simpson, D. & Betancourt, M. The prior can often only be understood in the context of the likelihood.Entropy19, 555 (2017).
+
+*** ADSGoogle Scholar
+
+*** Bürkner, P.-C. Advanced Bayesian multilevel modeling with the R package brms.R J.10, 395–411 (2018).
+
+*** Google Scholar
+
+*** Stan Development Team. RStan: the R interface to Stan. (2020).
+
+*** Gabry, J., Simpson, D., Vehtari, A., Betancourt, M. & Gelman, A. Visualization in Bayesian workflow.J. R. Stat. Soc. A182, 389–402 (2019).
+
+*** MathSciNetGoogle Scholar
+
+*** Dietze, M.Ecological Forecasting(Princeton Univ. Press, 2017).
+
+*** Groemping, U. Relative importance for linear regression in R: the package relaimpo.J. Stat. Softw.17, 1–27 (2007).
+
+*** Google Scholar
+
+*** Groemping, U. & Matthias, L. Relaimpo: relative importance of regressors in linear models. (2021).
+
+*** Gladyshev, M. I. et al. Benefit-risk ratio of food fish intake as the source of essential fatty acids vs. heavy metals: a case study of Siberian grayling from the Yenisei River.Food Chem.115, 545–550 (2009).
+
+*** CASGoogle Scholar
+
+*** EFSA Panel on Contaminants in the Food Chain (CONTAM). Scientific opinion on the risk for public health related to the presence of mercury and methylmercury in food.EFSA J.10, 2985 (2012).
+
+*** Google Scholar
+
+*** Wesner, J. S. et al. Data and code for ‘Continental-scale nutrient and contaminant delivery by Pacific salmon’.Zenodohttps://doi.org/10.5281/zenodo.12810135(2024).
+
+*** Download references
+
+*** We thank E. Rosi and J. Muehlbauer, whose feedback helped to improve the manuscript. Funding was provided by the US Geological Survey Environmental Health, Contaminant Biology Program. Any use of trade, firm or product names is for descriptive purposes only and does not imply endorsement by the US Government.
+
+*** Department of Natural Resources and the Environment & Center for Environmental Sciences and Engineering, University of Connecticut, Storrs, CT, USA
+
+*** Jessica E. Brandt
+
+*** Department of Biology, University of South Dakota, Vermillion, SD, USA
+
+*** Jeff S. Wesner
+
+*** Natural Resources Consultants, Seattle, WA, USA
+
+*** Gregory T. Ruggerone
+
+*** School of Environment and Sustainability & Toxicology Centre, University of Saskatchewan, Saskatoon, Saskatchewan, Canada
+
+*** Timothy D. Jardine
+
+*** US Geological Survey, Forest and Rangeland Ecosystem Science Center, Corvallis, OR, USA
+
+*** Collin A. Eagles-Smith
+
+*** Missouri Cooperative Fish and Wildlife Research Unit, School of Natural Resources, University of Missouri, Columbia, MO, USA
+
+*** Gabrielle E. Ruso
+
+*** US Geological Survey, Fort Collins Science Center, Fort Collins, CO, USA
+
+*** Craig A. Stricker
+
+*** Department of Biology, Regis University, Denver, CO, USA
+
+*** Kristofor A. Voss
+
+*** US Geological Survey, Columbia Environmental Research Center, Columbia, MO, USA
+
+*** David M. Walters
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** You can also search for this author inPubMedGoogle Scholar
+
+*** J.E.B., J.S.W., C.A.E.-S., C.A.S. and D.M.W. designed the study. G.T.R. provided raw data for Pacific salmon biomass estimates. J.E.B., G.E.R. and T.D.J. collected nutrient and contaminant concentration data from published literature and reports. J.S.W., T.D.J. and C.A.E.-S. conducted formal analysis with the assistance of J.E.B., K.A.V. and D.M.W. J.E.B. wrote the original draft with assistance of J.S.W., G.T.R., T.D.J., C.A.E.-S., G.E.R., C.A.S., K.A.V. and D.M.W.
+
+*** Correspondence toJessica E. Brandt.
+
+*** The authors declare no competing interests.
+
+*** Naturethanks Elizabeth Babcock, George Pess, Amanda Subalusky and Elsie Sunderland for their contribution to the peer review of this work.Peer reviewer reportsare available.
+
+*** Publisher’s noteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+*** a) Pacific salmon return biomass across species at the continental scale and by region. b) Species-specific Pacific salmon return biomass at the continental scale and by region. Shading is the 95% posterior credible interval, the central lines are the medians, and points represent raw data values. Regions include the sum across all regions (All Regions), Southeast Alaska (SEAK), Bering Sea (BS), British Columbia/West Coast United States (BCWC), and Central Alaska (CAK). Posterior distributions are obtained from a model fit to n = 800 observations. Whole body chemical concentrations of c) nutrients and d) contaminant (mg kg−1ww). Boxplots show the median, 25th, and 75thpercentiles of the posterior distributions with whiskers extending +/− 1.5 times the interquartile range. Posterior distributions of each nutrient or contaminant are derived from models fit to n = 34, 37, 14, 14, 83, 69, 62, and 32 observations for N, P, DHA, EPA, Hg, PCBs, DDTs, and PBDEs, respectively. Points represent raw data values. These two quantities – return biomass and chemical concentrations – were combined using Monte Carlo sampling to estimate temporal trends in the flux of individual chemicals among species and locations. Chinook salmon (Oncorhynchus tshawytscha), chum salmon (O. keta), coho salmon (O. kisutch), pink salmon (O. gorbuscha), sockeye salmon (O. nerka). N – nitrogen; P – phosphorus; EPA – eicosapentaenoic acid; DHA – docosahexaenoic acid; Hg – mercury; PCBs – polychlorinated biphenyls; DDT – dichlorodiphenyltrichloroethanes; PBDE – polybrominated diphenylethers.
+
+*** Chinook salmon (Oncorhynchus tshawytscha), chum salmon (O. keta), coho salmon (O. kisutch), pink salmon (O. gorbuscha), sockeye salmon (O. nerka). N – nitrogen; P – phosphorus; EPA – eicosapentaenoic acid; DHA – docosahexaenoic acid; Hg – mercury; PCBs – polychlorinated biphenyls; DDT – dichlorodiphenyltrichloroethanes; PBDE – polybrominated diphenylethers. BS is Bering Sea, CAK is Central Alaska, SEAK is Southeast Alaska, BCWC is British Columbia and West Coast of the United States.
+
+*** Additional methods detail for the comparison of salmon to riverine fluxes and the modelling approach, including sensitivity analysis, prior selection and justification, predictive checks, prior and posterior distributions and model checks (including comparisons of alternative approaches). Supplementary discussion of temporal shifts in salmon-derived nutrient and contaminant fluxes.
+
+*** Pacific salmon nutrient and contaminant concentration data sourced from scientific literature and reports. These are the input data underlying the manuscript models. The accompanying metadata include information about the publications (DOI or URL), fish collection area and method and the reported sample sizes for each data source.
+
+*** Open AccessThis article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visithttp://creativecommons.org/licenses/by-nc-nd/4.0/.
+
+*** Reprints and permissions
+
+*** Brandt, J.E., Wesner, J.S., Ruggerone, G.T.et al.Continental-scale nutrient and contaminant delivery by Pacific salmon.Nature(2024). https://doi.org/10.1038/s41586-024-07980-2
+
+*** Download citation
+
+*** Received:05 September 2023
+
+*** Accepted:21 August 2024
+
+*** Published:09 October 2024
+
+*** DOI:https://doi.org/10.1038/s41586-024-07980-2
+
+*** Anyone you share the following link with will be able to read this content:
+
+*** Sorry, a shareable link is not currently available for this article.
+
+*** 
+
+*** Provided by the Springer Nature SharedIt content-sharing initiative
+

@@ -74,7 +74,8 @@ def scrape_article_content(url):
 
         
 # Example usage:
-page_from, page_to = 5, 10
+page_from, page_to = map(int, input("Type page starting and ending page numbers for scraping:").split())
+print("Starting at page:", page_from, ",Ending at page:", page_to)
 url = 'https://www.nature.com/nature/research-articles?searchType=journalSearch&sort=PubDate&type=article&year=2024'  # Replace with the actual URL
 nested_article_urls = scrape_article_list(url, page_from, page_to)
 

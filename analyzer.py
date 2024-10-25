@@ -1,79 +1,107 @@
-import nltk
 import os
-import ssl
 import json
-
-from nltk.corpus import wordnet
 from collections import Counter
-from nltk.stem import WordNetLemmatizer
-from nltk.corpus import words
-from nltk import pos_tag
+import nltk
+from nltk.corpus import wordnet
+# from nltk.stem import WordNetLemmatizer
+from nltk.tokenize import word_tokenize
 
-# Create an unverified SSL context if needed
-# try:
-#     _create_unverified_https_context = ssl._create_unverified_context
-# except AttributeError:
-#     pass
-# else:
-#     ssl._create_default_https_context = _create_unverified_https_context
-# Function to ensure required resources are available
-def ensure_nltk_resources():
-    try:
-        nltk.data.find('tokenizers/punkt')
-        stop_words = set(nltk.corpus.stopwords.words('english'))
-    except LookupError:
-        nltk.download('punkt')
-        nltk.download('stopwords')
-        stop_words = set(nltk.corpus.stopwords.words('english'))  # Retry after downloading
-    return stop_words
+# from nltk.corpus import stopwords
 
-# Ensure resources are available
-stop_words = ensure_nltk_resources()
+# Download necessary NLTK data
+# nltk.download('punkt')
+# nltk.download('averaged_perceptron_tagger')
+# nltk.download('wordnet')
+# nltk.download('stopwords')
 
-# Additional common words to exclude
-additional_stop_words = {'strong', 'press', "x"}
+# Method 1: Using wordnet.synsets()
+# def is_english_word(word):
+#     if wordnet.synsets(word):
+#         return True
+#     else:
+#         return False
 
-# Combine the default stop words with the additional ones
-stop_words = stop_words.union(additional_stop_words)
+# Define additional stop words
+# additional_stop_words = {'strong', 'press', "x"}
 
-lemmatizer = WordNetLemmatizer()
-corpus_words = set(words.words())
+# # Initialize WordNet lemmatizer
+# lemmatizer = WordNetLemmatizer()
 
-def get_wordnet_pos(treebank_tag):
-    if treebank_tag.startswith('J'):
-        return wordnet.ADJ
-    elif treebank_tag.startswith('V'):
-        return wordnet.VERB
-    elif treebank_tag.startswith('N'):
-        return wordnet.NOUN
-    elif treebank_tag.startswith('R'):
-        return wordnet.ADV
-    else:
-        return wordnet.NOUN 
+# # Get English stop words
+# stop_words = set(stopwords.words('english')).union(additional_stop_words)
 
-def read_files(directory):
-    word_freq = Counter()
-    for root, dirs, files in os.walk(directory):
-        for file in files:
-            if file.endswith('.txt'):
-                file_path = os.path.join(root, file)
-                with open(file_path, 'r', encoding='ISO-8859-1') as f:
-                    text = f.read()
-                    words = nltk.word_tokenize(text)
-                    words = [word.lower() for word in words if all([word.isalpha(), word in corpus_words, len(word) > 2])]  # Filter out short words
-                    tagged_words = pos_tag(words)
-                    lemmatized_words = [
-                        lemmatizer.lemmatize(word, pos=get_wordnet_pos(tag))
-                        for word, tag in tagged_words
-                        if word not in stop_words
-                    ]
-                    word_freq.update(lemmatized_words)
-    return word_freq
+# def get_wordnet_pos(token):
+#     tag = nltk.pos_tag([token])[0][1]
+#     """Map NLTK POS tags to WordNet POS tags"""
+#     tag_map = {
+#         'J': wordnet.ADJ,        # Adjectives
+#         'N': wordnet.NOUN,       # Nouns
+#         'V': wordnet.VERB,       # Verbs
+#         'R': wordnet.ADV         # Adverbs
+#     }
+#     return tag_map.get(tag[0], wordnet.NOUN)
+# Load the word families mapping from the JSON file
 
+with open('/Users/shepherd/Desktop/Inputs/word_families_mapping.json', 'r', encoding='utf-8') as reference_f:
+    word_families_mapping = json.load(reference_f)
+variants = word_families_mapping.keys()
 
+try:
+    with open('/Users/shepherd/Desktop/Outputs/word_frequency.json', "r") as collection_f:
+        word_freq = json.load(collection_f)
+except:
+    print("Previous word_freq dict not found!!")
+    word_freq = {}
 
-directory = '/Users/shepherd/Desktop/scraped_articles'
-word_freq = read_files(directory)
-print("Most common words:")
-for word, freq in word_freq.most_common(10):
-    print(f"{word}: {freq}")
+# Function to read files and calculate word frequencies
+def read_files(stem_directory, folder_num1, folder_num2):
+    global word_freq
+    folder_num = folder_num1
+
+    for folder_num in range(folder_num1, folder_num2 + 1):
+        directory = stem_directory + f"/scraped_articles_page_{str(folder_num)}"
+        print("analyzing page:", folder_num)
+
+        for root, dirs, files in os.walk(directory):
+            for file in files:
+                if file.endswith('.txt'):
+                    file_path = os.path.join(root, file)
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                        text = f.read()
+                        tokens = word_tokenize(text)
+
+                        for token in tokens:
+                            if not all([
+                                token.isalpha(),
+                                len(token) > 2,
+                                bool(wordnet.synsets(token))
+                            ]):
+                                continue
+                                
+                            token = token.lower()
+                            if token in variants:
+                                root_word = word_families_mapping[token]
+
+                                if root_word not in word_freq:
+                                    word_freq.update({root_word : {"freq" : 1, "existing" : []}})
+                                else:
+                                    word_freq[root_word]["freq"] += 1
+                                    #print("updated!")
+                                    existing_variants = word_freq[root_word]["existing"]
+
+                                    if token not in existing_variants:
+                                        existing_variants.append(token)
+                        
+
+stem_directory = '/Users/shepherd/Desktop/scraped_articles'
+folder_num1, folder_num2 = map(int, input("Please type in starting and ending page numbers to be analyzed:").split())
+print(f"Analyzing page from {str(folder_num1)} to {str(folder_num2)}")
+read_files(stem_directory, folder_num1, folder_num2)
+word_freq = dict(sorted(word_freq.items(), key=lambda item: item[1]["freq"], reverse=True))
+
+# Save the word frequency data to a JSON file
+output_file = '/Users/shepherd/Desktop/Outputs/word_frequency.json'
+with open(output_file, 'w') as f:
+    json.dump(word_freq, f, indent = 4)
+print(f"Word frequency data saved to {output_file}")
+

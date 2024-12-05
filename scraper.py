@@ -76,10 +76,7 @@ def scrape_article_content(url):
 # Example usage:
 page_from, page_to = map(int, input("Type page starting and ending page numbers for scraping:").split())
 print("Starting at page:", page_from, ",Ending at page:", page_to)
-url = 'https://www.nature.com/nature/research-articles?searchType=journalSearch&sort=PubDate&type=article'  # Replace with the actual URL
-year = int(input("Which year's articles to scrape?"))
-print("Scraping year:", year)
-url += "&year=" + str(year)
+url = 'https://www.nature.com/nature/research-articles?searchType=journalSearch&sort=PubDate&type=article&year=2024'  # Replace with the actual URL
 nested_article_urls = scrape_article_list(url, page_from, page_to)
 
 folder_article_name = "scraped_articles"
@@ -99,5 +96,3 @@ for i, page_article_urls in enumerate(nested_article_urls):
             filename = os.path.join(folder_article_name, folder_page_name, 'article_' + str(page_from + i) + "_" + str(n + 1) + '.txt')
             with open(filename, 'w') as f:
                 f.write(text)
-
-print('Scraped articles from page', page_from, "to", page_to, ";", "Year=", year)

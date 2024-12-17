@@ -1,8 +1,12 @@
 # NatureMagazineScraper
-Scrapes Nature magazine articles (open access) and store as txt files.
+Scrape open-access Nature articles and store them as txt files.
+
+# Key Features
+- User can specify which year's articles to scrape/analyze
+- User can specify maximum word count per word per article to reduce over-counting
 
 ## scraper.py
-Scrape articles and store them as text files
+Scrape articles using `Beautiful Soup` and store them as text files
 
 ## analyzer.py
 Parse scrapped articles and sum up word counts

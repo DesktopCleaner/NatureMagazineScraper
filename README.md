@@ -1,5 +1,5 @@
 # NatureMagazineScraper
-Scrape open-access Nature articles and store them as txt files.
+Scrap open-access Nature articles and store them as txt files.
 
 # Key Features
 - User can specify which year's articles to scrape/analyze

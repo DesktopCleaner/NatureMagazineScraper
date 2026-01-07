@@ -13,3 +13,6 @@ Parse scrapped articles and sum up word counts
 
 ## data_cleaner.py
 Clean common words and other baised words
+
+## better_data_cleaner.py
+A better approach to cleaning scraped data using TF-IDF, document frequency analysis and z-score outlier detection
